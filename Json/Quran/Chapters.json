@@ -1,0 +1,2168 @@
+[
+    {
+        "number": 1,
+        "sequence": 5,
+        "versesCount": 7,
+        "typeArabic": "مكة",
+        "bismillahPre": false,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "الفَاتِحَة",
+        "shortNameEnglish": "Al-Faatiha",
+        "LongNameArabic": "سُورَةُ الفَاتِحَة",
+        "LongNameEnglish": "Sura Al-Faatiha",
+        "nameTranslationEnglish": "The Opening",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//001.mp3"
+            }
+        ]
+    },
+    {
+        "number": 2,
+        "sequence": 87,
+        "versesCount": 286,
+        "typeArabic": "مدينة",
+        "bismillahPre": true,
+        "typeEnglish": "Medinan",
+        "shortNameArabic": "البَقَرَة",
+        "shortNameEnglish": "Al-Baqara",
+        "LongNameArabic": "سُورَةُ البَقَرَة",
+        "LongNameEnglish": "Sura Al-Baqara",
+        "nameTranslationEnglish": "The Cow",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//002.mp3"
+            }
+        ]
+    },
+    {
+        "number": 3,
+        "sequence": 89,
+        "versesCount": 200,
+        "typeArabic": "مدينة",
+        "bismillahPre": true,
+        "typeEnglish": "Medinan",
+        "shortNameArabic": "آل عِمرَان",
+        "shortNameEnglish": "Aal-i-Imraan",
+        "LongNameArabic": "سُورَةُ آل عِمرَان",
+        "LongNameEnglish": "Sura Aal-i-Imraan",
+        "nameTranslationEnglish": "The Family of Imraan",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//003.mp3"
+            }
+        ]
+    },
+    {
+        "number": 4,
+        "sequence": 92,
+        "versesCount": 176,
+        "typeArabic": "مدينة",
+        "bismillahPre": true,
+        "typeEnglish": "Medinan",
+        "shortNameArabic": "النِّسَاء",
+        "shortNameEnglish": "An-Nisaa",
+        "LongNameArabic": "سُورَةُ النِّسَاء",
+        "LongNameEnglish": "Sura An-Nisaa",
+        "nameTranslationEnglish": "The Women",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//004.mp3"
+            }
+        ]
+    },
+    {
+        "number": 5,
+        "sequence": 112,
+        "versesCount": 120,
+        "typeArabic": "مدينة",
+        "bismillahPre": true,
+        "typeEnglish": "Medinan",
+        "shortNameArabic": "المَائدة",
+        "shortNameEnglish": "Al-Maaida",
+        "LongNameArabic": "سُورَةُ المَائدة",
+        "LongNameEnglish": "Sura Al-Maaida",
+        "nameTranslationEnglish": "The Table",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//005.mp3"
+            }
+        ]
+    },
+    {
+        "number": 6,
+        "sequence": 55,
+        "versesCount": 165,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "الأنعَام",
+        "shortNameEnglish": "Al-An'aam",
+        "LongNameArabic": "سُورَةُ الأنعَام",
+        "LongNameEnglish": "Sura Al-An'aam",
+        "nameTranslationEnglish": "The Cattle",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//006.mp3"
+            }
+        ]
+    },
+    {
+        "number": 7,
+        "sequence": 39,
+        "versesCount": 206,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "الأعرَاف",
+        "shortNameEnglish": "Al-A'raaf",
+        "LongNameArabic": "سُورَةُ الأعرَاف",
+        "LongNameEnglish": "Sura Al-A'raaf",
+        "nameTranslationEnglish": "The Heights",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//007.mp3"
+            }
+        ]
+    },
+    {
+        "number": 8,
+        "sequence": 88,
+        "versesCount": 75,
+        "typeArabic": "مدينة",
+        "bismillahPre": true,
+        "typeEnglish": "Medinan",
+        "shortNameArabic": "الأنفَال",
+        "shortNameEnglish": "Al-Anfaal",
+        "LongNameArabic": "سُورَةُ الأنفَال",
+        "LongNameEnglish": "Sura Al-Anfaal",
+        "nameTranslationEnglish": "The Spoils of War",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//008.mp3"
+            }
+        ]
+    },
+    {
+        "number": 9,
+        "sequence": 113,
+        "versesCount": 129,
+        "typeArabic": "مدينة",
+        "bismillahPre": false,
+        "typeEnglish": "Medinan",
+        "shortNameArabic": "التوبَة",
+        "shortNameEnglish": "At-Tawba",
+        "LongNameArabic": "سُورَةُ التوبَة",
+        "LongNameEnglish": "Sura At-Tawba",
+        "nameTranslationEnglish": "The Repentance",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//009.mp3"
+            }
+        ]
+    },
+    {
+        "number": 10,
+        "sequence": 51,
+        "versesCount": 109,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "يُونس",
+        "shortNameEnglish": "Yunus",
+        "LongNameArabic": "سُورَةُ يُونس",
+        "LongNameEnglish": "Sura Yunus",
+        "nameTranslationEnglish": "Jonas",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//010.mp3"
+            }
+        ]
+    },
+    {
+        "number": 11,
+        "sequence": 52,
+        "versesCount": 123,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "هُود",
+        "shortNameEnglish": "Hud",
+        "LongNameArabic": "سُورَةُ هُود",
+        "LongNameEnglish": "Sura Hud",
+        "nameTranslationEnglish": "Hud",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//011.mp3"
+            }
+        ]
+    },
+    {
+        "number": 12,
+        "sequence": 53,
+        "versesCount": 111,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "يُوسُف",
+        "shortNameEnglish": "Yusuf",
+        "LongNameArabic": "سُورَةُ يُوسُف",
+        "LongNameEnglish": "Sura Yusuf",
+        "nameTranslationEnglish": "Joseph",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//012.mp3"
+            }
+        ]
+    },
+    {
+        "number": 13,
+        "sequence": 96,
+        "versesCount": 43,
+        "typeArabic": "مدينة",
+        "bismillahPre": true,
+        "typeEnglish": "Medinan",
+        "shortNameArabic": "الرَّعْد",
+        "shortNameEnglish": "Ar-Ra'd",
+        "LongNameArabic": "سُورَةُ الرَّعْد",
+        "LongNameEnglish": "Sura Ar-Ra'd",
+        "nameTranslationEnglish": "The Thunder",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//013.mp3"
+            }
+        ]
+    },
+    {
+        "number": 14,
+        "sequence": 72,
+        "versesCount": 52,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "إبراهِيم",
+        "shortNameEnglish": "Ibrahim",
+        "LongNameArabic": "سُورَةُ إبراهِيم",
+        "LongNameEnglish": "Sura Ibrahim",
+        "nameTranslationEnglish": "Abraham",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//014.mp3"
+            }
+        ]
+    },
+    {
+        "number": 15,
+        "sequence": 54,
+        "versesCount": 99,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "الحِجْر",
+        "shortNameEnglish": "Al-Hijr",
+        "LongNameArabic": "سُورَةُ الحِجْر",
+        "LongNameEnglish": "Sura Al-Hijr",
+        "nameTranslationEnglish": "The Rock",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//015.mp3"
+            }
+        ]
+    },
+    {
+        "number": 16,
+        "sequence": 70,
+        "versesCount": 128,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "النَّحْل",
+        "shortNameEnglish": "An-Nahl",
+        "LongNameArabic": "سُورَةُ النَّحْل",
+        "LongNameEnglish": "Sura An-Nahl",
+        "nameTranslationEnglish": "The Bee",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//016.mp3"
+            }
+        ]
+    },
+    {
+        "number": 17,
+        "sequence": 50,
+        "versesCount": 111,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "الإسْرَاء",
+        "shortNameEnglish": "Al-Israa",
+        "LongNameArabic": "سُورَةُ الإسْرَاء",
+        "LongNameEnglish": "Sura Al-Israa",
+        "nameTranslationEnglish": "The Night Journey",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//017.mp3"
+            }
+        ]
+    },
+    {
+        "number": 18,
+        "sequence": 69,
+        "versesCount": 110,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "الكهْف",
+        "shortNameEnglish": "Al-Kahf",
+        "LongNameArabic": "سُورَةُ الكهْف",
+        "LongNameEnglish": "Sura Al-Kahf",
+        "nameTranslationEnglish": "The Cave",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//018.mp3"
+            }
+        ]
+    },
+    {
+        "number": 19,
+        "sequence": 44,
+        "versesCount": 98,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "مَريَم",
+        "shortNameEnglish": "Maryam",
+        "LongNameArabic": "سُورَةُ مَريَم",
+        "LongNameEnglish": "Sura Maryam",
+        "nameTranslationEnglish": "Mary",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//019.mp3"
+            }
+        ]
+    },
+    {
+        "number": 20,
+        "sequence": 45,
+        "versesCount": 135,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "طه",
+        "shortNameEnglish": "Taa-Haa",
+        "LongNameArabic": "سُورَةُ طه",
+        "LongNameEnglish": "Sura Taa-Haa",
+        "nameTranslationEnglish": "Taa-Haa",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//020.mp3"
+            }
+        ]
+    },
+    {
+        "number": 21,
+        "sequence": 73,
+        "versesCount": 112,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "الأنبيَاء",
+        "shortNameEnglish": "Al-Anbiyaa",
+        "LongNameArabic": "سُورَةُ الأنبيَاء",
+        "LongNameEnglish": "Sura Al-Anbiyaa",
+        "nameTranslationEnglish": "The Prophets",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//021.mp3"
+            }
+        ]
+    },
+    {
+        "number": 22,
+        "sequence": 103,
+        "versesCount": 78,
+        "typeArabic": "مدينة",
+        "bismillahPre": true,
+        "typeEnglish": "Medinan",
+        "shortNameArabic": "الحَج",
+        "shortNameEnglish": "Al-Hajj",
+        "LongNameArabic": "سُورَةُ الحَج",
+        "LongNameEnglish": "Sura Al-Hajj",
+        "nameTranslationEnglish": "The Pilgrimage",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//022.mp3"
+            }
+        ]
+    },
+    {
+        "number": 23,
+        "sequence": 74,
+        "versesCount": 118,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "المُؤمنون",
+        "shortNameEnglish": "Al-Muminoon",
+        "LongNameArabic": "سُورَةُ المُؤمنون",
+        "LongNameEnglish": "Sura Al-Muminoon",
+        "nameTranslationEnglish": "The Believers",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//023.mp3"
+            }
+        ]
+    },
+    {
+        "number": 24,
+        "sequence": 102,
+        "versesCount": 64,
+        "typeArabic": "مدينة",
+        "bismillahPre": true,
+        "typeEnglish": "Medinan",
+        "shortNameArabic": "النُّور",
+        "shortNameEnglish": "An-Noor",
+        "LongNameArabic": "سُورَةُ النُّور",
+        "LongNameEnglish": "Sura An-Noor",
+        "nameTranslationEnglish": "The Light",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//024.mp3"
+            }
+        ]
+    },
+    {
+        "number": 25,
+        "sequence": 42,
+        "versesCount": 77,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "الفُرْقان",
+        "shortNameEnglish": "Al-Furqaan",
+        "LongNameArabic": "سُورَةُ الفُرْقان",
+        "LongNameEnglish": "Sura Al-Furqaan",
+        "nameTranslationEnglish": "The Criterion",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//025.mp3"
+            }
+        ]
+    },
+    {
+        "number": 26,
+        "sequence": 47,
+        "versesCount": 227,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "الشُّعَرَاء",
+        "shortNameEnglish": "Ash-Shu'araa",
+        "LongNameArabic": "سُورَةُ الشُّعَرَاء",
+        "LongNameEnglish": "Sura Ash-Shu'araa",
+        "nameTranslationEnglish": "The Poets",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//026.mp3"
+            }
+        ]
+    },
+    {
+        "number": 27,
+        "sequence": 48,
+        "versesCount": 93,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "النَّمْل",
+        "shortNameEnglish": "An-Naml",
+        "LongNameArabic": "سُورَةُ النَّمْل",
+        "LongNameEnglish": "Sura An-Naml",
+        "nameTranslationEnglish": "The Ant",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//027.mp3"
+            }
+        ]
+    },
+    {
+        "number": 28,
+        "sequence": 49,
+        "versesCount": 88,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "القَصَص",
+        "shortNameEnglish": "Al-Qasas",
+        "LongNameArabic": "سُورَةُ القَصَص",
+        "LongNameEnglish": "Sura Al-Qasas",
+        "nameTranslationEnglish": "The Stories",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//028.mp3"
+            }
+        ]
+    },
+    {
+        "number": 29,
+        "sequence": 85,
+        "versesCount": 69,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "العَنكبوت",
+        "shortNameEnglish": "Al-Ankaboot",
+        "LongNameArabic": "سُورَةُ العَنكبوت",
+        "LongNameEnglish": "Sura Al-Ankaboot",
+        "nameTranslationEnglish": "The Spider",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//029.mp3"
+            }
+        ]
+    },
+    {
+        "number": 30,
+        "sequence": 84,
+        "versesCount": 60,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "الرُّوم",
+        "shortNameEnglish": "Ar-Room",
+        "LongNameArabic": "سُورَةُ الرُّوم",
+        "LongNameEnglish": "Sura Ar-Room",
+        "nameTranslationEnglish": "The Romans",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//030.mp3"
+            }
+        ]
+    },
+    {
+        "number": 31,
+        "sequence": 57,
+        "versesCount": 34,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "لقمَان",
+        "shortNameEnglish": "Luqman",
+        "LongNameArabic": "سُورَةُ لقمَان",
+        "LongNameEnglish": "Sura Luqman",
+        "nameTranslationEnglish": "Luqman",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//031.mp3"
+            }
+        ]
+    },
+    {
+        "number": 32,
+        "sequence": 75,
+        "versesCount": 30,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "السَّجدَة",
+        "shortNameEnglish": "As-Sajda",
+        "LongNameArabic": "سُورَةُ السَّجدَة",
+        "LongNameEnglish": "Sura As-Sajda",
+        "nameTranslationEnglish": "The Prostration",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//032.mp3"
+            }
+        ]
+    },
+    {
+        "number": 33,
+        "sequence": 90,
+        "versesCount": 73,
+        "typeArabic": "مدينة",
+        "bismillahPre": true,
+        "typeEnglish": "Medinan",
+        "shortNameArabic": "الأحزَاب",
+        "shortNameEnglish": "Al-Ahzaab",
+        "LongNameArabic": "سُورَةُ الأحزَاب",
+        "LongNameEnglish": "Sura Al-Ahzaab",
+        "nameTranslationEnglish": "The Clans",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//033.mp3"
+            }
+        ]
+    },
+    {
+        "number": 34,
+        "sequence": 58,
+        "versesCount": 54,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "سَبَأ",
+        "shortNameEnglish": "Saba",
+        "LongNameArabic": "سُورَةُ سَبَأ",
+        "LongNameEnglish": "Sura Saba",
+        "nameTranslationEnglish": "Sheba",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//034.mp3"
+            }
+        ]
+    },
+    {
+        "number": 35,
+        "sequence": 43,
+        "versesCount": 45,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "فَاطِر",
+        "shortNameEnglish": "Faatir",
+        "LongNameArabic": "سُورَةُ فَاطِر",
+        "LongNameEnglish": "Sura Faatir",
+        "nameTranslationEnglish": "The Originator",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//035.mp3"
+            }
+        ]
+    },
+    {
+        "number": 36,
+        "sequence": 41,
+        "versesCount": 83,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "يس",
+        "shortNameEnglish": "Yaseen",
+        "LongNameArabic": "سُورَةُ يس",
+        "LongNameEnglish": "Sura Yaseen",
+        "nameTranslationEnglish": "Yaseen",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//036.mp3"
+            }
+        ]
+    },
+    {
+        "number": 37,
+        "sequence": 56,
+        "versesCount": 182,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "الصَّافات",
+        "shortNameEnglish": "As-Saaffaat",
+        "LongNameArabic": "سُورَةُ الصَّافات",
+        "LongNameEnglish": "Sura As-Saaffaat",
+        "nameTranslationEnglish": "Those drawn up in Ranks",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//037.mp3"
+            }
+        ]
+    },
+    {
+        "number": 38,
+        "sequence": 38,
+        "versesCount": 88,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "ص",
+        "shortNameEnglish": "Saad",
+        "LongNameArabic": "سُورَةُ ص",
+        "LongNameEnglish": "Sura Saad",
+        "nameTranslationEnglish": "The letter Saad",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//038.mp3"
+            }
+        ]
+    },
+    {
+        "number": 39,
+        "sequence": 59,
+        "versesCount": 75,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "الزُّمَر",
+        "shortNameEnglish": "Az-Zumar",
+        "LongNameArabic": "سُورَةُ الزُّمَر",
+        "LongNameEnglish": "Sura Az-Zumar",
+        "nameTranslationEnglish": "The Groups",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//039.mp3"
+            }
+        ]
+    },
+    {
+        "number": 40,
+        "sequence": 60,
+        "versesCount": 85,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "غَافِر",
+        "shortNameEnglish": "Ghafir",
+        "LongNameArabic": "سُورَةُ غَافِر",
+        "LongNameEnglish": "Sura Ghafir",
+        "nameTranslationEnglish": "The Forgiver",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//040.mp3"
+            }
+        ]
+    },
+    {
+        "number": 41,
+        "sequence": 61,
+        "versesCount": 54,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "فُصِّلَتْ",
+        "shortNameEnglish": "Fussilat",
+        "LongNameArabic": "سُورَةُ فُصِّلَتْ",
+        "LongNameEnglish": "Sura Fussilat",
+        "nameTranslationEnglish": "Explained in detail",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//041.mp3"
+            }
+        ]
+    },
+    {
+        "number": 42,
+        "sequence": 62,
+        "versesCount": 53,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "الشُّورَى",
+        "shortNameEnglish": "Ash-Shura",
+        "LongNameArabic": "سُورَةُ الشُّورَى",
+        "LongNameEnglish": "Sura Ash-Shura",
+        "nameTranslationEnglish": "Consultation",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//042.mp3"
+            }
+        ]
+    },
+    {
+        "number": 43,
+        "sequence": 63,
+        "versesCount": 89,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "الزُّخْرُف",
+        "shortNameEnglish": "Az-Zukhruf",
+        "LongNameArabic": "سُورَةُ الزُّخْرُف",
+        "LongNameEnglish": "Sura Az-Zukhruf",
+        "nameTranslationEnglish": "Ornaments of gold",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//043.mp3"
+            }
+        ]
+    },
+    {
+        "number": 44,
+        "sequence": 64,
+        "versesCount": 59,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "الدُّخان",
+        "shortNameEnglish": "Ad-Dukhaan",
+        "LongNameArabic": "سُورَةُ الدُّخان",
+        "LongNameEnglish": "Sura Ad-Dukhaan",
+        "nameTranslationEnglish": "The Smoke",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//044.mp3"
+            }
+        ]
+    },
+    {
+        "number": 45,
+        "sequence": 65,
+        "versesCount": 37,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "الجاثِية",
+        "shortNameEnglish": "Al-Jaathiya",
+        "LongNameArabic": "سُورَةُ الجاثِية",
+        "LongNameEnglish": "Sura Al-Jaathiya",
+        "nameTranslationEnglish": "Crouching",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//045.mp3"
+            }
+        ]
+    },
+    {
+        "number": 46,
+        "sequence": 66,
+        "versesCount": 35,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "الأحقاف",
+        "shortNameEnglish": "Al-Ahqaf",
+        "LongNameArabic": "سُورَةُ الأحقاف",
+        "LongNameEnglish": "Sura Al-Ahqaf",
+        "nameTranslationEnglish": "The Dunes",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//046.mp3"
+            }
+        ]
+    },
+    {
+        "number": 47,
+        "sequence": 95,
+        "versesCount": 38,
+        "typeArabic": "مدينة",
+        "bismillahPre": true,
+        "typeEnglish": "Medinan",
+        "shortNameArabic": "مُحَمّد",
+        "shortNameEnglish": "Muhammad",
+        "LongNameArabic": "سُورَةُ مُحَمّد",
+        "LongNameEnglish": "Sura Muhammad",
+        "nameTranslationEnglish": "Muhammad",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//047.mp3"
+            }
+        ]
+    },
+    {
+        "number": 48,
+        "sequence": 111,
+        "versesCount": 29,
+        "typeArabic": "مدينة",
+        "bismillahPre": true,
+        "typeEnglish": "Medinan",
+        "shortNameArabic": "الفَتْح",
+        "shortNameEnglish": "Al-Fath",
+        "LongNameArabic": "سُورَةُ الفَتْح",
+        "LongNameEnglish": "Sura Al-Fath",
+        "nameTranslationEnglish": "The Victory",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//048.mp3"
+            }
+        ]
+    },
+    {
+        "number": 49,
+        "sequence": 106,
+        "versesCount": 18,
+        "typeArabic": "مدينة",
+        "bismillahPre": true,
+        "typeEnglish": "Medinan",
+        "shortNameArabic": "الحُجُرات",
+        "shortNameEnglish": "Al-Hujuraat",
+        "LongNameArabic": "سُورَةُ الحُجُرات",
+        "LongNameEnglish": "Sura Al-Hujuraat",
+        "nameTranslationEnglish": "The Inner Apartments",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//049.mp3"
+            }
+        ]
+    },
+    {
+        "number": 50,
+        "sequence": 34,
+        "versesCount": 45,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "ق",
+        "shortNameEnglish": "Qaaf",
+        "LongNameArabic": "سُورَةُ ق",
+        "LongNameEnglish": "Sura Qaaf",
+        "nameTranslationEnglish": "The letter Qaaf",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//050.mp3"
+            }
+        ]
+    },
+    {
+        "number": 51,
+        "sequence": 67,
+        "versesCount": 60,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "الذَّاريَات",
+        "shortNameEnglish": "Adh-Dhaariyat",
+        "LongNameArabic": "سُورَةُ الذَّاريَات",
+        "LongNameEnglish": "Sura Adh-Dhaariyat",
+        "nameTranslationEnglish": "The Winnowing Winds",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//051.mp3"
+            }
+        ]
+    },
+    {
+        "number": 52,
+        "sequence": 76,
+        "versesCount": 49,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "الطُّور",
+        "shortNameEnglish": "At-Tur",
+        "LongNameArabic": "سُورَةُ الطُّور",
+        "LongNameEnglish": "Sura At-Tur",
+        "nameTranslationEnglish": "The Mount",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//052.mp3"
+            }
+        ]
+    },
+    {
+        "number": 53,
+        "sequence": 23,
+        "versesCount": 62,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "النَّجْم",
+        "shortNameEnglish": "An-Najm",
+        "LongNameArabic": "سُورَةُ النَّجْم",
+        "LongNameEnglish": "Sura An-Najm",
+        "nameTranslationEnglish": "The Star",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//053.mp3"
+            }
+        ]
+    },
+    {
+        "number": 54,
+        "sequence": 37,
+        "versesCount": 55,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "القَمَر",
+        "shortNameEnglish": "Al-Qamar",
+        "LongNameArabic": "سُورَةُ القَمَر",
+        "LongNameEnglish": "Sura Al-Qamar",
+        "nameTranslationEnglish": "The Moon",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//054.mp3"
+            }
+        ]
+    },
+    {
+        "number": 55,
+        "sequence": 97,
+        "versesCount": 78,
+        "typeArabic": "مدينة",
+        "bismillahPre": true,
+        "typeEnglish": "Medinan",
+        "shortNameArabic": "الرَّحمن",
+        "shortNameEnglish": "Ar-Rahmaan",
+        "LongNameArabic": "سُورَةُ الرَّحمن",
+        "LongNameEnglish": "Sura Ar-Rahmaan",
+        "nameTranslationEnglish": "The Beneficent",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//055.mp3"
+            }
+        ]
+    },
+    {
+        "number": 56,
+        "sequence": 46,
+        "versesCount": 96,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "الواقِعَة",
+        "shortNameEnglish": "Al-Waaqia",
+        "LongNameArabic": "سُورَةُ الواقِعَة",
+        "LongNameEnglish": "Sura Al-Waaqia",
+        "nameTranslationEnglish": "The Inevitable",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//056.mp3"
+            }
+        ]
+    },
+    {
+        "number": 57,
+        "sequence": 94,
+        "versesCount": 29,
+        "typeArabic": "مدينة",
+        "bismillahPre": true,
+        "typeEnglish": "Medinan",
+        "shortNameArabic": "الحَديد",
+        "shortNameEnglish": "Al-Hadid",
+        "LongNameArabic": "سُورَةُ الحَديد",
+        "LongNameEnglish": "Sura Al-Hadid",
+        "nameTranslationEnglish": "The Iron",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//057.mp3"
+            }
+        ]
+    },
+    {
+        "number": 58,
+        "sequence": 105,
+        "versesCount": 22,
+        "typeArabic": "مدينة",
+        "bismillahPre": true,
+        "typeEnglish": "Medinan",
+        "shortNameArabic": "المُجادَلة",
+        "shortNameEnglish": "Al-Mujaadila",
+        "LongNameArabic": "سُورَةُ المُجادَلة",
+        "LongNameEnglish": "Sura Al-Mujaadila",
+        "nameTranslationEnglish": "The Pleading Woman",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//058.mp3"
+            }
+        ]
+    },
+    {
+        "number": 59,
+        "sequence": 101,
+        "versesCount": 24,
+        "typeArabic": "مدينة",
+        "bismillahPre": true,
+        "typeEnglish": "Medinan",
+        "shortNameArabic": "الحَشْر",
+        "shortNameEnglish": "Al-Hashr",
+        "LongNameArabic": "سُورَةُ الحَشْر",
+        "LongNameEnglish": "Sura Al-Hashr",
+        "nameTranslationEnglish": "The Exile",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//059.mp3"
+            }
+        ]
+    },
+    {
+        "number": 60,
+        "sequence": 91,
+        "versesCount": 13,
+        "typeArabic": "مدينة",
+        "bismillahPre": true,
+        "typeEnglish": "Medinan",
+        "shortNameArabic": "المُمتَحَنة",
+        "shortNameEnglish": "Al-Mumtahana",
+        "LongNameArabic": "سُورَةُ المُمتَحَنة",
+        "LongNameEnglish": "Sura Al-Mumtahana",
+        "nameTranslationEnglish": "She that is to be examined",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//060.mp3"
+            }
+        ]
+    },
+    {
+        "number": 61,
+        "sequence": 109,
+        "versesCount": 14,
+        "typeArabic": "مدينة",
+        "bismillahPre": true,
+        "typeEnglish": "Medinan",
+        "shortNameArabic": "الصَّف",
+        "shortNameEnglish": "As-Saff",
+        "LongNameArabic": "سُورَةُ الصَّف",
+        "LongNameEnglish": "Sura As-Saff",
+        "nameTranslationEnglish": "The Ranks",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//061.mp3"
+            }
+        ]
+    },
+    {
+        "number": 62,
+        "sequence": 110,
+        "versesCount": 11,
+        "typeArabic": "مدينة",
+        "bismillahPre": true,
+        "typeEnglish": "Medinan",
+        "shortNameArabic": "الجُّمُعة",
+        "shortNameEnglish": "Al-Jumu'a",
+        "LongNameArabic": "سُورَةُ الجُّمُعة",
+        "LongNameEnglish": "Sura Al-Jumu'a",
+        "nameTranslationEnglish": "Friday",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//062.mp3"
+            }
+        ]
+    },
+    {
+        "number": 63,
+        "sequence": 104,
+        "versesCount": 11,
+        "typeArabic": "مدينة",
+        "bismillahPre": true,
+        "typeEnglish": "Medinan",
+        "shortNameArabic": "المُنافِقُون",
+        "shortNameEnglish": "Al-Munaafiqoon",
+        "LongNameArabic": "سُورَةُ المُنافِقُون",
+        "LongNameEnglish": "Sura Al-Munaafiqoon",
+        "nameTranslationEnglish": "The Hypocrites",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//063.mp3"
+            }
+        ]
+    },
+    {
+        "number": 64,
+        "sequence": 108,
+        "versesCount": 18,
+        "typeArabic": "مدينة",
+        "bismillahPre": true,
+        "typeEnglish": "Medinan",
+        "shortNameArabic": "التغابن",
+        "shortNameEnglish": "At-Taghaabun",
+        "LongNameArabic": "سُورَةُ التغابن",
+        "LongNameEnglish": "Sura At-Taghaabun",
+        "nameTranslationEnglish": "Mutual Disillusion",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//064.mp3"
+            }
+        ]
+    },
+    {
+        "number": 65,
+        "sequence": 99,
+        "versesCount": 12,
+        "typeArabic": "مدينة",
+        "bismillahPre": true,
+        "typeEnglish": "Medinan",
+        "shortNameArabic": "الطَّلاق",
+        "shortNameEnglish": "At-Talaaq",
+        "LongNameArabic": "سُورَةُ الطَّلاق",
+        "LongNameEnglish": "Sura At-Talaaq",
+        "nameTranslationEnglish": "Divorce",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//065.mp3"
+            }
+        ]
+    },
+    {
+        "number": 66,
+        "sequence": 107,
+        "versesCount": 12,
+        "typeArabic": "مدينة",
+        "bismillahPre": true,
+        "typeEnglish": "Medinan",
+        "shortNameArabic": "التَّحْريم",
+        "shortNameEnglish": "At-Tahrim",
+        "LongNameArabic": "سُورَةُ التَّحْريم",
+        "LongNameEnglish": "Sura At-Tahrim",
+        "nameTranslationEnglish": "The Prohibition",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//066.mp3"
+            }
+        ]
+    },
+    {
+        "number": 67,
+        "sequence": 77,
+        "versesCount": 30,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "المُلْك",
+        "shortNameEnglish": "Al-Mulk",
+        "LongNameArabic": "سُورَةُ المُلْك",
+        "LongNameEnglish": "Sura Al-Mulk",
+        "nameTranslationEnglish": "The Sovereignty",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//067.mp3"
+            }
+        ]
+    },
+    {
+        "number": 68,
+        "sequence": 2,
+        "versesCount": 52,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "القَلـََم",
+        "shortNameEnglish": "Al-Qalam",
+        "LongNameArabic": "سُورَةُ القَلـََم",
+        "LongNameEnglish": "Sura Al-Qalam",
+        "nameTranslationEnglish": "The Pen",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//068.mp3"
+            }
+        ]
+    },
+    {
+        "number": 69,
+        "sequence": 78,
+        "versesCount": 52,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "الحَاقّـَة",
+        "shortNameEnglish": "Al-Haaqqa",
+        "LongNameArabic": "سُورَةُ الحَاقّـَة",
+        "LongNameEnglish": "Sura Al-Haaqqa",
+        "nameTranslationEnglish": "The Reality",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//069.mp3"
+            }
+        ]
+    },
+    {
+        "number": 70,
+        "sequence": 79,
+        "versesCount": 44,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "المَعارِج",
+        "shortNameEnglish": "Al-Ma'aarij",
+        "LongNameArabic": "سُورَةُ المَعارِج",
+        "LongNameEnglish": "Sura Al-Ma'aarij",
+        "nameTranslationEnglish": "The Ascending Stairways",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//070.mp3"
+            }
+        ]
+    },
+    {
+        "number": 71,
+        "sequence": 71,
+        "versesCount": 28,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "نُوح",
+        "shortNameEnglish": "Nooh",
+        "LongNameArabic": "سُورَةُ نُوح",
+        "LongNameEnglish": "Sura Nooh",
+        "nameTranslationEnglish": "Noah",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//071.mp3"
+            }
+        ]
+    },
+    {
+        "number": 72,
+        "sequence": 40,
+        "versesCount": 28,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "الجِنّ",
+        "shortNameEnglish": "Al-Jinn",
+        "LongNameArabic": "سُورَةُ الجِنّ",
+        "LongNameEnglish": "Sura Al-Jinn",
+        "nameTranslationEnglish": "The Jinn",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//072.mp3"
+            }
+        ]
+    },
+    {
+        "number": 73,
+        "sequence": 3,
+        "versesCount": 20,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "المُزَّمّـِل",
+        "shortNameEnglish": "Al-Muzzammil",
+        "LongNameArabic": "سُورَةُ المُزَّمّـِل",
+        "LongNameEnglish": "Sura Al-Muzzammil",
+        "nameTranslationEnglish": "The Enshrouded One",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//073.mp3"
+            }
+        ]
+    },
+    {
+        "number": 74,
+        "sequence": 4,
+        "versesCount": 56,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "المُدَّثــِّر",
+        "shortNameEnglish": "Al-Muddaththir",
+        "LongNameArabic": "سُورَةُ المُدَّثــِّر",
+        "LongNameEnglish": "Sura Al-Muddaththir",
+        "nameTranslationEnglish": "The Cloaked One",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//074.mp3"
+            }
+        ]
+    },
+    {
+        "number": 75,
+        "sequence": 31,
+        "versesCount": 40,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "القِيامَة",
+        "shortNameEnglish": "Al-Qiyaama",
+        "LongNameArabic": "سُورَةُ القِيامَة",
+        "LongNameEnglish": "Sura Al-Qiyaama",
+        "nameTranslationEnglish": "The Resurrection",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//075.mp3"
+            }
+        ]
+    },
+    {
+        "number": 76,
+        "sequence": 98,
+        "versesCount": 31,
+        "typeArabic": "مدينة",
+        "bismillahPre": true,
+        "typeEnglish": "Medinan",
+        "shortNameArabic": "الإنسان",
+        "shortNameEnglish": "Al-Insaan",
+        "LongNameArabic": "سُورَةُ الإنسان",
+        "LongNameEnglish": "Sura Al-Insaan",
+        "nameTranslationEnglish": "Man",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//076.mp3"
+            }
+        ]
+    },
+    {
+        "number": 77,
+        "sequence": 33,
+        "versesCount": 50,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "المُرسَلات",
+        "shortNameEnglish": "Al-Mursalaat",
+        "LongNameArabic": "سُورَةُ المُرسَلات",
+        "LongNameEnglish": "Sura Al-Mursalaat",
+        "nameTranslationEnglish": "The Emissaries",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//077.mp3"
+            }
+        ]
+    },
+    {
+        "number": 78,
+        "sequence": 80,
+        "versesCount": 40,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "النـَّبأ",
+        "shortNameEnglish": "An-Naba",
+        "LongNameArabic": "سُورَةُ النـَّبأ",
+        "LongNameEnglish": "Sura An-Naba",
+        "nameTranslationEnglish": "The Announcement",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//078.mp3"
+            }
+        ]
+    },
+    {
+        "number": 79,
+        "sequence": 81,
+        "versesCount": 46,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "النـّازِعات",
+        "shortNameEnglish": "An-Naazi'aat",
+        "LongNameArabic": "سُورَةُ النـّازِعات",
+        "LongNameEnglish": "Sura An-Naazi'aat",
+        "nameTranslationEnglish": "Those who drag forth",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//079.mp3"
+            }
+        ]
+    },
+    {
+        "number": 80,
+        "sequence": 24,
+        "versesCount": 42,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "عَبَس",
+        "shortNameEnglish": "Abasa",
+        "LongNameArabic": "سُورَةُ عَبَس",
+        "LongNameEnglish": "Sura Abasa",
+        "nameTranslationEnglish": "He frowned",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//080.mp3"
+            }
+        ]
+    },
+    {
+        "number": 81,
+        "sequence": 7,
+        "versesCount": 29,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "التـَّكْوير",
+        "shortNameEnglish": "At-Takwir",
+        "LongNameArabic": "سُورَةُ التـَّكْوير",
+        "LongNameEnglish": "Sura At-Takwir",
+        "nameTranslationEnglish": "The Overthrowing",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//081.mp3"
+            }
+        ]
+    },
+    {
+        "number": 82,
+        "sequence": 82,
+        "versesCount": 19,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "الإنفِطار",
+        "shortNameEnglish": "Al-Infitaar",
+        "LongNameArabic": "سُورَةُ الإنفِطار",
+        "LongNameEnglish": "Sura Al-Infitaar",
+        "nameTranslationEnglish": "The Cleaving",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//082.mp3"
+            }
+        ]
+    },
+    {
+        "number": 83,
+        "sequence": 86,
+        "versesCount": 36,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "المُطـَفِّفين",
+        "shortNameEnglish": "Al-Mutaffifin",
+        "LongNameArabic": "سُورَةُ المُطـَفِّفين",
+        "LongNameEnglish": "Sura Al-Mutaffifin",
+        "nameTranslationEnglish": "Defrauding",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//083.mp3"
+            }
+        ]
+    },
+    {
+        "number": 84,
+        "sequence": 83,
+        "versesCount": 25,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "الإنشِقاق",
+        "shortNameEnglish": "Al-Inshiqaaq",
+        "LongNameArabic": "سُورَةُ الإنشِقاق",
+        "LongNameEnglish": "Sura Al-Inshiqaaq",
+        "nameTranslationEnglish": "The Splitting Open",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//084.mp3"
+            }
+        ]
+    },
+    {
+        "number": 85,
+        "sequence": 27,
+        "versesCount": 22,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "البُروج",
+        "shortNameEnglish": "Al-Burooj",
+        "LongNameArabic": "سُورَةُ البُروج",
+        "LongNameEnglish": "Sura Al-Burooj",
+        "nameTranslationEnglish": "The Constellations",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//085.mp3"
+            }
+        ]
+    },
+    {
+        "number": 86,
+        "sequence": 36,
+        "versesCount": 17,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "الطّارق",
+        "shortNameEnglish": "At-Taariq",
+        "LongNameArabic": "سُورَةُ الطّارق",
+        "LongNameEnglish": "Sura At-Taariq",
+        "nameTranslationEnglish": "The Morning Star",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//086.mp3"
+            }
+        ]
+    },
+    {
+        "number": 87,
+        "sequence": 8,
+        "versesCount": 19,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "الأعلی",
+        "shortNameEnglish": "Al-A'laa",
+        "LongNameArabic": "سُورَةُ الأعلی",
+        "LongNameEnglish": "Sura Al-A'laa",
+        "nameTranslationEnglish": "The Most High",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//087.mp3"
+            }
+        ]
+    },
+    {
+        "number": 88,
+        "sequence": 68,
+        "versesCount": 26,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "الغاشِيَة",
+        "shortNameEnglish": "Al-Ghaashiya",
+        "LongNameArabic": "سُورَةُ الغاشِيَة",
+        "LongNameEnglish": "Sura Al-Ghaashiya",
+        "nameTranslationEnglish": "The Overwhelming",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//088.mp3"
+            }
+        ]
+    },
+    {
+        "number": 89,
+        "sequence": 10,
+        "versesCount": 30,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "الفَجْر",
+        "shortNameEnglish": "Al-Fajr",
+        "LongNameArabic": "سُورَةُ الفَجْر",
+        "LongNameEnglish": "Sura Al-Fajr",
+        "nameTranslationEnglish": "The Dawn",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//089.mp3"
+            }
+        ]
+    },
+    {
+        "number": 90,
+        "sequence": 35,
+        "versesCount": 20,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "البَـلـَد",
+        "shortNameEnglish": "Al-Balad",
+        "LongNameArabic": "سُورَةُ البَـلـَد",
+        "LongNameEnglish": "Sura Al-Balad",
+        "nameTranslationEnglish": "The City",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//090.mp3"
+            }
+        ]
+    },
+    {
+        "number": 91,
+        "sequence": 26,
+        "versesCount": 15,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "الشــَّمْس",
+        "shortNameEnglish": "Ash-Shams",
+        "LongNameArabic": "سُورَةُ الشــَّمْس",
+        "LongNameEnglish": "Sura Ash-Shams",
+        "nameTranslationEnglish": "The Sun",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//091.mp3"
+            }
+        ]
+    },
+    {
+        "number": 92,
+        "sequence": 9,
+        "versesCount": 21,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "اللـَّيل",
+        "shortNameEnglish": "Al-Lail",
+        "LongNameArabic": "سُورَةُ اللـَّيل",
+        "LongNameEnglish": "Sura Al-Lail",
+        "nameTranslationEnglish": "The Night",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//092.mp3"
+            }
+        ]
+    },
+    {
+        "number": 93,
+        "sequence": 11,
+        "versesCount": 11,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "الضُّحی",
+        "shortNameEnglish": "Ad-Dhuhaa",
+        "LongNameArabic": "سُورَةُ الضُّحی",
+        "LongNameEnglish": "Sura Ad-Dhuhaa",
+        "nameTranslationEnglish": "The Morning Hours",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//093.mp3"
+            }
+        ]
+    },
+    {
+        "number": 94,
+        "sequence": 12,
+        "versesCount": 8,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "الشَّرْح",
+        "shortNameEnglish": "Ash-Sharh",
+        "LongNameArabic": "سُورَةُ الشَّرْح",
+        "LongNameEnglish": "Sura Ash-Sharh",
+        "nameTranslationEnglish": "The Consolation",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//094.mp3"
+            }
+        ]
+    },
+    {
+        "number": 95,
+        "sequence": 28,
+        "versesCount": 8,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "التـِّين",
+        "shortNameEnglish": "At-Tin",
+        "LongNameArabic": "سُورَةُ التـِّين",
+        "LongNameEnglish": "Sura At-Tin",
+        "nameTranslationEnglish": "The Fig",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//095.mp3"
+            }
+        ]
+    },
+    {
+        "number": 96,
+        "sequence": 1,
+        "versesCount": 19,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "العَلـَق",
+        "shortNameEnglish": "Al-Alaq",
+        "LongNameArabic": "سُورَةُ العَلـَق",
+        "LongNameEnglish": "Sura Al-Alaq",
+        "nameTranslationEnglish": "The Clot",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//096.mp3"
+            }
+        ]
+    },
+    {
+        "number": 97,
+        "sequence": 25,
+        "versesCount": 5,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "القـَدر",
+        "shortNameEnglish": "Al-Qadr",
+        "LongNameArabic": "سُورَةُ القـَدر",
+        "LongNameEnglish": "Sura Al-Qadr",
+        "nameTranslationEnglish": "The Power, Fate",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//097.mp3"
+            }
+        ]
+    },
+    {
+        "number": 98,
+        "sequence": 100,
+        "versesCount": 8,
+        "typeArabic": "مدينة",
+        "bismillahPre": true,
+        "typeEnglish": "Medinan",
+        "shortNameArabic": "البَيِّنَة",
+        "shortNameEnglish": "Al-Bayyina",
+        "LongNameArabic": "سُورَةُ البَيِّنَة",
+        "LongNameEnglish": "Sura Al-Bayyina",
+        "nameTranslationEnglish": "The Evidence",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//098.mp3"
+            }
+        ]
+    },
+    {
+        "number": 99,
+        "sequence": 93,
+        "versesCount": 8,
+        "typeArabic": "مدينة",
+        "bismillahPre": true,
+        "typeEnglish": "Medinan",
+        "shortNameArabic": "الزلزَلة",
+        "shortNameEnglish": "Az-Zalzala",
+        "LongNameArabic": "سُورَةُ الزلزَلة",
+        "LongNameEnglish": "Sura Az-Zalzala",
+        "nameTranslationEnglish": "The Earthquake",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//099.mp3"
+            }
+        ]
+    },
+    {
+        "number": 100,
+        "sequence": 14,
+        "versesCount": 11,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "العَادِيات",
+        "shortNameEnglish": "Al-Aadiyaat",
+        "LongNameArabic": "سُورَةُ العَادِيات",
+        "LongNameEnglish": "Sura Al-Aadiyaat",
+        "nameTranslationEnglish": "The Chargers",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//100.mp3"
+            }
+        ]
+    },
+    {
+        "number": 101,
+        "sequence": 30,
+        "versesCount": 11,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "القارِعَة",
+        "shortNameEnglish": "Al-Qaari'a",
+        "LongNameArabic": "سُورَةُ القارِعَة",
+        "LongNameEnglish": "Sura Al-Qaari'a",
+        "nameTranslationEnglish": "The Calamity",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//101.mp3"
+            }
+        ]
+    },
+    {
+        "number": 102,
+        "sequence": 16,
+        "versesCount": 8,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "التَكاثـُر",
+        "shortNameEnglish": "At-Takaathur",
+        "LongNameArabic": "سُورَةُ التَكاثـُر",
+        "LongNameEnglish": "Sura At-Takaathur",
+        "nameTranslationEnglish": "Competition",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//102.mp3"
+            }
+        ]
+    },
+    {
+        "number": 103,
+        "sequence": 13,
+        "versesCount": 3,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "العَصْر",
+        "shortNameEnglish": "Al-Asr",
+        "LongNameArabic": "سُورَةُ العَصْر",
+        "LongNameEnglish": "Sura Al-Asr",
+        "nameTranslationEnglish": "The Declining Day, Epoch",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//103.mp3"
+            }
+        ]
+    },
+    {
+        "number": 104,
+        "sequence": 32,
+        "versesCount": 9,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "الهُمَزَة",
+        "shortNameEnglish": "Al-Humaza",
+        "LongNameArabic": "سُورَةُ الهُمَزَة",
+        "LongNameEnglish": "Sura Al-Humaza",
+        "nameTranslationEnglish": "The Traducer",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//104.mp3"
+            }
+        ]
+    },
+    {
+        "number": 105,
+        "sequence": 19,
+        "versesCount": 5,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "الفِيل",
+        "shortNameEnglish": "Al-Fil",
+        "LongNameArabic": "سُورَةُ الفِيل",
+        "LongNameEnglish": "Sura Al-Fil",
+        "nameTranslationEnglish": "The Elephant",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//105.mp3"
+            }
+        ]
+    },
+    {
+        "number": 106,
+        "sequence": 29,
+        "versesCount": 4,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "قـُرَيْش",
+        "shortNameEnglish": "Quraish",
+        "LongNameArabic": "سُورَةُ قـُرَيْش",
+        "LongNameEnglish": "Sura Quraish",
+        "nameTranslationEnglish": "Quraysh",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//106.mp3"
+            }
+        ]
+    },
+    {
+        "number": 107,
+        "sequence": 17,
+        "versesCount": 7,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "المَاعُون",
+        "shortNameEnglish": "Al-Maa'un",
+        "LongNameArabic": "سُورَةُ المَاعُون",
+        "LongNameEnglish": "Sura Al-Maa'un",
+        "nameTranslationEnglish": "Almsgiving",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//107.mp3"
+            }
+        ]
+    },
+    {
+        "number": 108,
+        "sequence": 15,
+        "versesCount": 3,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "الكَوْثَر",
+        "shortNameEnglish": "Al-Kawthar",
+        "LongNameArabic": "سُورَةُ الكَوْثَر",
+        "LongNameEnglish": "Sura Al-Kawthar",
+        "nameTranslationEnglish": "Abundance",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//108.mp3"
+            }
+        ]
+    },
+    {
+        "number": 109,
+        "sequence": 18,
+        "versesCount": 6,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "الكَافِرُون",
+        "shortNameEnglish": "Al-Kaafiroon",
+        "LongNameArabic": "سُورَةُ الكَافِرُون",
+        "LongNameEnglish": "Sura Al-Kaafiroon",
+        "nameTranslationEnglish": "The Disbelievers",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//109.mp3"
+            }
+        ]
+    },
+    {
+        "number": 110,
+        "sequence": 114,
+        "versesCount": 3,
+        "typeArabic": "مدينة",
+        "bismillahPre": true,
+        "typeEnglish": "Medinan",
+        "shortNameArabic": "النـَّصر",
+        "shortNameEnglish": "An-Nasr",
+        "LongNameArabic": "سُورَةُ النـَّصر",
+        "LongNameEnglish": "Sura An-Nasr",
+        "nameTranslationEnglish": "Divine Support",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//110.mp3"
+            }
+        ]
+    },
+    {
+        "number": 111,
+        "sequence": 6,
+        "versesCount": 5,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "المَسَد",
+        "shortNameEnglish": "Al-Masad",
+        "LongNameArabic": "سُورَةُ المَسَد",
+        "LongNameEnglish": "Sura Al-Masad",
+        "nameTranslationEnglish": "The Palm Fibre",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//111.mp3"
+            }
+        ]
+    },
+    {
+        "number": 112,
+        "sequence": 22,
+        "versesCount": 4,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "الإخْلَاص",
+        "shortNameEnglish": "Al-Ikhlaas",
+        "LongNameArabic": "سُورَةُ الإخْلَاص",
+        "LongNameEnglish": "Sura Al-Ikhlaas",
+        "nameTranslationEnglish": "Sincerity",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//112.mp3"
+            }
+        ]
+    },
+    {
+        "number": 113,
+        "sequence": 20,
+        "versesCount": 5,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "الفَلَق",
+        "shortNameEnglish": "Al-Falaq",
+        "LongNameArabic": "سُورَةُ الفَلَق",
+        "LongNameEnglish": "Sura Al-Falaq",
+        "nameTranslationEnglish": "The Dawn",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//113.mp3"
+            }
+        ]
+    },
+    {
+        "number": 114,
+        "sequence": 21,
+        "versesCount": 6,
+        "typeArabic": "مكة",
+        "bismillahPre": true,
+        "typeEnglish": "Meccan",
+        "shortNameArabic": "النَّاس",
+        "shortNameEnglish": "An-Naas",
+        "LongNameArabic": "سُورَةُ النَّاس",
+        "LongNameEnglish": "Sura An-Naas",
+        "nameTranslationEnglish": "Mankind",
+        "reciters": [
+            {
+                "name": "Nasser Alqatami",
+                "url": "https://server6.mp3quran.net/qtm//114.mp3"
+            }
+        ]
+    }
+]

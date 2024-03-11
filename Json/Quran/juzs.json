@@ -1,0 +1,1307 @@
+[
+    {
+        "id": 1,
+        "juz_number": 1,
+        "first_verse_id": 1,
+        "last_verse_id": 148,
+        "verses_count": 148,
+        "verse_mapping": "1:148",
+        "name_ar": "الْجُزْءِ الْأَوَّلِ",
+        "name_en": "Juz First",
+        "surahs": [
+            {
+                "surah_number": 1,
+                "verse_mapping": "1:7",
+                "surah_name_ar": "الفَاتِحَة",
+                "surah_name_en": "Al-Faatiha",
+                "nameTranslationEnglish": "The Opening"
+            },
+            {
+                "surah_number": 2,
+                "verse_mapping": "1:141",
+                "surah_name_ar": "البَقَرَة",
+                "surah_name_en": "Al-Baqara",
+                "nameTranslationEnglish": "The Cow"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "juz_number": 2,
+        "first_verse_id": 149,
+        "last_verse_id": 259,
+        "verses_count": 111,
+        "verse_mapping": "149:259",
+        "name_ar": "الْجُزْءِ الثَّانِي",
+        "name_en": "Juz Second",
+        "surahs": [
+            {
+                "surah_number": 2,
+                "verse_mapping": "142:252",
+                "surah_name_ar": "البَقَرَة",
+                "surah_name_en": "Al-Baqara",
+                "nameTranslationEnglish": "The Cow"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "juz_number": 3,
+        "first_verse_id": 260,
+        "last_verse_id": 385,
+        "verses_count": 126,
+        "verse_mapping": "260:385",
+        "name_ar": "الْجُزْءِ الثَّالِثِ",
+        "name_en": "Juz Third",
+        "surahs": [
+            {
+                "surah_number": 2,
+                "verse_mapping": "253:285",
+                "surah_name_ar": "البَقَرَة",
+                "surah_name_en": "Al-Baqara",
+                "nameTranslationEnglish": "The Cow"
+            },
+            {
+                "surah_number": 3,
+                "verse_mapping": "1:92",
+                "surah_name_ar": "آل عِمرَان",
+                "surah_name_en": "Aal-Imraan",
+                "nameTranslationEnglish": "The Family of Imraan"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "juz_number": 4,
+        "first_verse_id": 386,
+        "last_verse_id": 516,
+        "verses_count": 131,
+        "verse_mapping": "386:516",
+        "name_ar": "الْجُزْء الرَّابِع",
+        "name_en": "Juz Four",
+        "surahs": [
+            {
+                "surah_number": 3,
+                "verse_mapping": "93:200",
+                "surah_name_ar": "آل عِمرَان",
+                "surah_name_en": "Aal-i-Imraan",
+                "nameTranslationEnglish": "The Family of Imraan"
+            },
+            {
+                "surah_number": 4,
+                "verse_mapping": "1:23",
+                "surah_name_ar": "النِّسَاء",
+                "surah_name_en": "An-Nisaa",
+                "nameTranslationEnglish": "The Women"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "juz_number": 5,
+        "first_verse_id": 517,
+        "last_verse_id": 640,
+        "verses_count": 124,
+        "verse_mapping": "517:640",
+        "name_ar": "الْجُزْء الْخَامِسِ",
+        "name_en": "Juz Fifth",
+        "surahs": [
+            {
+                "surah_number": 4,
+                "verse_mapping": "24:147",
+                "surah_name_ar": "النِّسَاء",
+                "surah_name_en": "An-Nisaa",
+                "nameTranslationEnglish": "The Women"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "juz_number": 6,
+        "first_verse_id": 641,
+        "last_verse_id": 750,
+        "verses_count": 110,
+        "verse_mapping": "641:750",
+        "name_ar": "الْجُزْء السَّادِسِ",
+        "name_en": "Juz Six",
+        "surahs": [
+            {
+                "surah_number": 4,
+                "verse_mapping": "148:176",
+                "surah_name_ar": "النِّسَاء",
+                "surah_name_en": "An-Nisaa",
+                "nameTranslationEnglish": "The Women"
+            },
+            {
+                "surah_number": 5,
+                "verse_mapping": "1:81",
+                "surah_name_ar": "المَائدة",
+                "surah_name_en": "Al-Maaida",
+                "nameTranslationEnglish": "The Table"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "juz_number": 7,
+        "first_verse_id": 751,
+        "last_verse_id": 899,
+        "verses_count": 149,
+        "verse_mapping": "1:148",
+        "name_ar": "الْجُزْء السَّابِعُ",
+        "name_en": "Juz Seven",
+        "surahs": [
+            {
+                "surah_number": 5,
+                "verse_mapping": "82:120",
+                "surah_name_ar": "المَائدة",
+                "surah_name_en": "Al-Maaida",
+                "nameTranslationEnglish": "The Table"
+            },
+            {
+                "surah_number": 6,
+                "verse_mapping": "1:110",
+                "surah_name_ar": "الأنعَام",
+                "surah_name_en": "Al-An'aam",
+                "nameTranslationEnglish": "The Cattle"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "juz_number": 8,
+        "first_verse_id": 900,
+        "last_verse_id": 1041,
+        "verses_count": 142,
+        "verse_mapping": "1:148",
+        "name_ar": "الْجُزْء الثَّامِنُ",
+        "name_en": "Juz Eight",
+        "surahs": [
+            {
+                "surah_number": 6,
+                "verse_mapping": "111:165",
+                "surah_name_ar": "الأنعَام",
+                "surah_name_en": "Al-An'aam",
+                "nameTranslationEnglish": "The Cattle"
+            },
+            {
+                "surah_number": 7,
+                "verse_mapping": "1:87",
+                "surah_name_ar": "الأعرَاف",
+                "surah_name_en": "Al-A'raaf",
+                "nameTranslationEnglish": "The Heights"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "juz_number": 9,
+        "first_verse_id": 1042,
+        "last_verse_id": 1200,
+        "verses_count": 159,
+        "verse_mapping": "1:148",
+        "name_ar": "الْجُزْء التَّاسِعُ",
+        "name_en": "Juz Nine",
+        "surahs": [
+            {
+                "surah_number": 7,
+                "verse_mapping": "88:206",
+                "surah_name_ar": "الأعرَاف",
+                "surah_name_en": "Al-A'raaf",
+                "nameTranslationEnglish": "The Heights"
+            },
+            {
+                "surah_number": 8,
+                "verse_mapping": "1:40",
+                "surah_name_ar": "الأنفَال",
+                "surah_name_en": "Al-Anfaal",
+                "nameTranslationEnglish": "The Spoils of War"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "juz_number": 10,
+        "first_verse_id": 1201,
+        "last_verse_id": 1327,
+        "verses_count": 127,
+        "verse_mapping": "1:148",
+        "name_ar": "الْجُزْء الْعَاشِر",
+        "name_en": "Juz Ten",
+        "surahs": [
+            {
+                "surah_number": 8,
+                "verse_mapping": "41:75",
+                "surah_name_ar": "الأنفَال",
+                "surah_name_en": "Al-Anfaal",
+                "nameTranslationEnglish": "The Spoils of War"
+            },
+            {
+                "surah_number": 9,
+                "verse_mapping": "1:92",
+                "surah_name_ar": "التوبَة",
+                "surah_name_en": "At-Tawba",
+                "nameTranslationEnglish": "The Repentance"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "juz_number": 11,
+        "first_verse_id": 1328,
+        "last_verse_id": 1478,
+        "verses_count": 151,
+        "verse_mapping": "1:148",
+        "name_ar": "الْجُزْء الْحَادِيَ عَشَرَ",
+        "name_en": "Juz Eleven",
+        "surahs": [
+            {
+                "surah_number": 9,
+                "verse_mapping": "93:129",
+                "surah_name_ar": "التوبَة",
+                "surah_name_en": "At-Tawba",
+                "nameTranslationEnglish": "The Repentance"
+            },
+            {
+                "surah_number": 10,
+                "verse_mapping": "1:109",
+                "surah_name_ar": "يُونس",
+                "surah_name_en": "Yunus",
+                "nameTranslationEnglish": "Jonas"
+            },
+            {
+                "surah_number": 11,
+                "verse_mapping": "1:5",
+                "surah_name_ar": "هُود",
+                "surah_name_en": "Hud",
+                "nameTranslationEnglish": "Hud"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "juz_number": 12,
+        "first_verse_id": 1479,
+        "last_verse_id": 1648,
+        "verses_count": 170,
+        "verse_mapping": "1:148",
+        "name_ar": "الْجُزْء الثَّانِي عَشَرَ",
+        "name_en": "Juz Twelve",
+        "surahs": [
+            {
+                "surah_number": 11,
+                "verse_mapping": "6:123",
+                "surah_name_ar": "هُود",
+                "surah_name_en": "Hud",
+                "nameTranslationEnglish": "Hud"
+            },
+            {
+                "surah_number": 12,
+                "verse_mapping": "1:52",
+                "surah_name_ar": "يُوسُف",
+                "surah_name_en": "Yusuf",
+                "nameTranslationEnglish": "Joseph"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "juz_number": 13,
+        "first_verse_id": 1649,
+        "last_verse_id": 1802,
+        "verses_count": 154,
+        "verse_mapping": "1:148",
+        "name_ar": "الْجُزْء الثَّالِثِ عَشَرَ",
+        "name_en": "Juz Thirteen",
+        "surahs": [
+            {
+                "surah_number": 12,
+                "verse_mapping": "53:111",
+                "surah_name_ar": "يُوسُف",
+                "surah_name_en": "Yusuf",
+                "nameTranslationEnglish": "Joseph"
+            },
+            {
+                "surah_number": 13,
+                "verse_mapping": "1:43",
+                "surah_name_ar": "الرَّعْد",
+                "surah_name_en": "Ar-Ra'd",
+                "nameTranslationEnglish": "The Thunder"
+            },
+            {
+                "surah_number": 14,
+                "verse_mapping": "1:52",
+                "surah_name_ar": "إبراهِيم",
+                "surah_name_en": "Ibrahim",
+                "nameTranslationEnglish": "Abraham"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "juz_number": 14,
+        "first_verse_id": 1803,
+        "last_verse_id": 2029,
+        "verses_count": 227,
+        "verse_mapping": "1:148",
+        "name_ar": "الْجُزْء الرَّابِعَ عَشَرَ",
+        "name_en": "Juz Fourteen",
+        "surahs": [
+            {
+                "surah_number": 15,
+                "verse_mapping": "1:99",
+                "surah_name_ar": "الحِجْر",
+                "surah_name_en": "Al-Hijr",
+                "nameTranslationEnglish": "The Rock"
+            },
+            {
+                "surah_number": 16,
+                "verse_mapping": "1:128",
+                "surah_name_ar": "النَّحْل",
+                "surah_name_en": "An-Nahl",
+                "nameTranslationEnglish": "The Bee"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "juz_number": 15,
+        "first_verse_id": 2030,
+        "last_verse_id": 2214,
+        "verses_count": 185,
+        "verse_mapping": "1:148",
+        "name_ar": "الْجُزْء الْخَامِسِ عَشَرَ",
+        "name_en": "Juz Fifteen",
+        "surahs": [
+            {
+                "surah_number": 17,
+                "verse_mapping": "1:111",
+                "surah_name_ar": "الإسْرَاء",
+                "surah_name_en": "Al-Israa",
+                "nameTranslationEnglish": "The Night Journey"
+            },
+            {
+                "surah_number": 18,
+                "verse_mapping": "1:74",
+                "surah_name_ar": "الكهْف",
+                "surah_name_en": "Al-Kahf",
+                "nameTranslationEnglish": "The Cave"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "juz_number": 16,
+        "first_verse_id": 2215,
+        "last_verse_id": 2483,
+        "verses_count": 269,
+        "verse_mapping": "1:148",
+        "name_ar": "الْجُزْء السَّادِسِ عَشَرَ",
+        "name_en": "Juz Sixteen",
+        "surahs": [
+            {
+                "surah_number": 18,
+                "verse_mapping": "75:110",
+                "surah_name_ar": "الكهْف",
+                "surah_name_en": "Al-Kahf",
+                "nameTranslationEnglish": "The Cave"
+            },
+            {
+                "surah_number": 19,
+                "verse_mapping": "1:98",
+                "surah_name_ar": "مَريَم",
+                "surah_name_en": "Maryam",
+                "nameTranslationEnglish": "Maryam"
+            },
+            {
+                "surah_number": 20,
+                "verse_mapping": "1:135",
+                "surah_name_ar": "طه",
+                "surah_name_en": "Taa-Haa",
+                "nameTranslationEnglish": "Taa-Haa"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "juz_number": 17,
+        "first_verse_id": 2484,
+        "last_verse_id": 2673,
+        "verses_count": 190,
+        "verse_mapping": "1:148",
+        "name_ar": "الْجُزْء السَّابِعُ عَشَرَ",
+        "name_en": "Juz Seventeen",
+        "surahs": [
+            {
+                "surah_number": 21,
+                "verse_mapping": "1:112",
+                "surah_name_ar": "الأنبيَاء",
+                "surah_name_en": "Al-Anbiyaa",
+                "nameTranslationEnglish": "The Prophets"
+            },
+            {
+                "surah_number": 22,
+                "verse_mapping": "1:78",
+                "surah_name_ar": "الحَج",
+                "surah_name_en": "Al-Hajj",
+                "nameTranslationEnglish": "The Pilgrimage"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "juz_number": 18,
+        "first_verse_id": 2674,
+        "last_verse_id": 2875,
+        "verses_count": 202,
+        "verse_mapping": "1:148",
+        "name_ar": "الْجُزْء الثَّامِنُ عَشَرَ",
+        "name_en": "Juz Eighteen",
+        "surahs": [
+            {
+                "surah_number": 23,
+                "verse_mapping": "1:118",
+                "surah_name_ar": "المُؤمنون",
+                "surah_name_en": "Al-Muminoon",
+                "nameTranslationEnglish": "The Believers"
+            },
+            {
+                "surah_number": 24,
+                "verse_mapping": "1:64",
+                "surah_name_ar": "النُّور",
+                "surah_name_en": "An-Noor",
+                "nameTranslationEnglish": "The Light"
+            },
+            {
+                "surah_number": 25,
+                "verse_mapping": "1:20",
+                "surah_name_ar": "الفُرْقان",
+                "surah_name_en": "Al-Furqaan",
+                "nameTranslationEnglish": "The Criterion"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "juz_number": 19,
+        "first_verse_id": 2876,
+        "last_verse_id": 3214,
+        "verses_count": 339,
+        "verse_mapping": "1:148",
+        "name_ar": "الْجُزْء التَّاسِعُ عَشَرَ",
+        "name_en": "Juz Nineteen",
+        "surahs": [
+            {
+                "surah_number": 25,
+                "verse_mapping": "21:77",
+                "surah_name_ar": "الفُرْقان",
+                "surah_name_en": "Al-Furqaan",
+                "nameTranslationEnglish": "The Criterion"
+            },
+            {
+                "surah_number": 26,
+                "verse_mapping": "1:227",
+                "surah_name_ar": "الشُّعَرَاء",
+                "surah_name_en": "Ash-Shu'araa",
+                "nameTranslationEnglish": "The Poets"
+            },
+            {
+                "surah_number": 27,
+                "verse_mapping": "1:55",
+                "surah_name_ar": "النَّمْل",
+                "surah_name_en": "An-Naml",
+                "nameTranslationEnglish": "The Ant"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "juz_number": 20,
+        "first_verse_id": 3215,
+        "last_verse_id": 3385,
+        "verses_count": 171,
+        "verse_mapping": "1:148",
+        "name_ar": "الْجُزْء الْعِشْرُون",
+        "name_en": "Twenty",
+        "surahs": [
+            {
+                "surah_number": 27,
+                "verse_mapping": "56:93",
+                "surah_name_ar": "النَّمْل",
+                "surah_name_en": "An-Naml",
+                "nameTranslationEnglish": "The Ant"
+            },
+            {
+                "surah_number": 28,
+                "verse_mapping": "1:88",
+                "surah_name_ar": "القَصَص",
+                "surah_name_en": "Al-Qasas",
+                "nameTranslationEnglish": "The Stories"
+            },
+            {
+                "surah_number": 29,
+                "verse_mapping": "1:45",
+                "surah_name_ar": "العَنكبوت",
+                "surah_name_en": "Al-Ankaboot",
+                "nameTranslationEnglish": "The Spider"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "juz_number": 21,
+        "first_verse_id": 3386,
+        "last_verse_id": 3563,
+        "verses_count": 178,
+        "verse_mapping": "1:148",
+        "name_ar": "الْجُزْء الْحَادِي وَالْعِشْرُونَ",
+        "name_en": "Juz Twenty First",
+        "surahs": [
+            {
+                "surah_number": 29,
+                "verse_mapping": "46:69",
+                "surah_name_ar": "العَنكبوت",
+                "surah_name_en": "Al-Ankaboot",
+                "nameTranslationEnglish": "The Spider"
+            },
+            {
+                "surah_number": 30,
+                "verse_mapping": "1:60",
+                "surah_name_ar": "الرُّوم",
+                "surah_name_en": "Ar-Room",
+                "nameTranslationEnglish": "The Romans"
+            },
+            {
+                "surah_number": 31,
+                "verse_mapping": "1:34",
+                "surah_name_ar": "لقمَان",
+                "surah_name_en": "Luqman",
+                "nameTranslationEnglish": "Luqman"
+            },
+            {
+                "surah_number": 32,
+                "verse_mapping": "1:30",
+                "surah_name_ar": "السَّجدَة",
+                "surah_name_en": "As-Sajda",
+                "nameTranslationEnglish": "The Prostration"
+            },
+            {
+                "surah_number": 33,
+                "verse_mapping": "1:30",
+                "surah_name_ar": "الأحزَاب",
+                "surah_name_en": "Al-Ahzaab",
+                "nameTranslationEnglish": "The Clans"
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "juz_number": 22,
+        "first_verse_id": 3564,
+        "last_verse_id": 3732,
+        "verses_count": 169,
+        "verse_mapping": "1:148",
+        "name_ar": "الْجُزْء الثَّانِي وَالْعِشْرُونَ",
+        "name_en": "Juz Twenty Second",
+        "surahs": [
+            {
+                "surah_number": 33,
+                "verse_mapping": "31:74",
+                "surah_name_ar": "الأحزَاب",
+                "surah_name_en": "Al-Ahzaab",
+                "nameTranslationEnglish": "The Clans"
+            },
+            {
+                "surah_number": 34,
+                "verse_mapping": "1:54",
+                "surah_name_ar": "سَبَأ",
+                "surah_name_en": "Saba",
+                "nameTranslationEnglish": "Sheba"
+            },
+            {
+                "surah_number": 35,
+                "verse_mapping": "1:45",
+                "surah_name_ar": "فَاطِر",
+                "surah_name_en": "Faatir",
+                "nameTranslationEnglish": "The Originator"
+            },
+            {
+                "surah_number": 36,
+                "verse_mapping": "1:27",
+                "surah_name_ar": "يس",
+                "surah_name_en": "Yaseen",
+                "nameTranslationEnglish": "Yaseen"
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "juz_number": 23,
+        "first_verse_id": 3733,
+        "last_verse_id": 4089,
+        "verses_count": 357,
+        "verse_mapping": "1:148",
+        "name_ar": "الْجُزْء الثَّالِثِ وَالْعِشْرُونَ",
+        "name_en": "Juz Twenty Third",
+        "surahs": [
+            {
+                "surah_number": 36,
+                "verse_mapping": "28:83",
+                "surah_name_ar": "يس",
+                "surah_name_en": "Yaseen",
+                "nameTranslationEnglish": "Yaseen"
+            },
+            {
+                "surah_number": 37,
+                "verse_mapping": "1:182",
+                "surah_name_ar": "الصَّافات",
+                "surah_name_en": "As-Saaffaat",
+                "nameTranslationEnglish": "Those drawn up in Ranks"
+            },
+            {
+                "surah_number": 38,
+                "verse_mapping": "1:88",
+                "surah_name_ar": "ص",
+                "surah_name_en": "Saad",
+                "nameTranslationEnglish": "The letter Saad"
+            },
+            {
+                "surah_number": 39,
+                "verse_mapping": "1:31",
+                "surah_name_ar": "الزُّمَر",
+                "surah_name_en": "Az-Zumar",
+                "nameTranslationEnglish": "The Groups"
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "juz_number": 24,
+        "first_verse_id": 4090,
+        "last_verse_id": 4264,
+        "verses_count": 175,
+        "verse_mapping": "1:148",
+        "name_ar": "الْجُزْء الرَّابِعُ وَالْعِشْرُونَ",
+        "name_en": "Juz Twenty Four",
+        "surahs": [
+            {
+                "surah_number": 39,
+                "verse_mapping": "32:75",
+                "surah_name_ar": "الزُّمَر",
+                "surah_name_en": "Az-Zumar",
+                "nameTranslationEnglish": "The Groups"
+            },
+            {
+                "surah_number": 40,
+                "verse_mapping": "1:85",
+                "surah_name_ar": "غَافِر",
+                "surah_name_en": "Ghafir",
+                "nameTranslationEnglish": "The Forgiver"
+            },
+            {
+                "surah_number": 41,
+                "verse_mapping": "1:46",
+                "surah_name_ar": "فُصِّلَتْ",
+                "surah_name_en": "Fussilat",
+                "nameTranslationEnglish": "Explained in detail"
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "juz_number": 25,
+        "first_verse_id": 4265,
+        "last_verse_id": 4510,
+        "verses_count": 246,
+        "verse_mapping": "1:148",
+        "name_ar": "الْجُزْء الْخَامِسِ وَالْعِشْرُونَ",
+        "name_en": "Juz Twenty Fifth",
+        "surahs": [
+            {
+                "surah_number": 41,
+                "verse_mapping": "47:54",
+                "surah_name_ar": "فُصِّلَتْ",
+                "surah_name_en": "Fussilat",
+                "nameTranslationEnglish": "Explained in detail"
+            },
+            {
+                "surah_number": 42,
+                "verse_mapping": "1:53",
+                "surah_name_ar": "الشُّورَى",
+                "surah_name_en": "Ash-Shura",
+                "nameTranslationEnglish": "Consultation"
+            },
+            {
+                "surah_number": 43,
+                "verse_mapping": "1:89",
+                "surah_name_ar": "الزُّخْرُف",
+                "surah_name_en": "Az-Zukhruf",
+                "nameTranslationEnglish": "Ornaments of gold"
+            },
+            {
+                "surah_number": 44,
+                "verse_mapping": "1:59",
+                "surah_name_ar": "الدُّخان",
+                "surah_name_en": "Ad-Dukhaan",
+                "nameTranslationEnglish": "The Smoke"
+            },
+            {
+                "surah_number": 45,
+                "verse_mapping": "1:37",
+                "surah_name_ar": "الجاثِية",
+                "surah_name_en": "Al-Jaathiya",
+                "nameTranslationEnglish": "Crouching"
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "juz_number": 26,
+        "first_verse_id": 4511,
+        "last_verse_id": 4705,
+        "verses_count": 195,
+        "verse_mapping": "1:148",
+        "name_ar": "الْجُزْء السَّادِسِ وَالْعِشْرُونَ",
+        "name_en": "Juz Twenty Six",
+        "surahs": [
+            {
+                "surah_number": 46,
+                "verse_mapping": "1:35",
+                "surah_name_ar": "الأحقاف",
+                "surah_name_en": "Al-Ahqaf",
+                "nameTranslationEnglish": "The Dunes"
+            },
+            {
+                "surah_number": 47,
+                "verse_mapping": "1:38",
+                "surah_name_ar": "مُحَمّد",
+                "surah_name_en": "Muhammad",
+                "nameTranslationEnglish": "Muhammad"
+            },
+            {
+                "surah_number": 48,
+                "verse_mapping": "1:29",
+                "surah_name_ar": "الفَتْح",
+                "surah_name_en": "Al-Fath",
+                "nameTranslationEnglish": "The Victory"
+            },
+            {
+                "surah_number": 49,
+                "verse_mapping": "1:18",
+                "surah_name_ar": "الحُجُرات",
+                "surah_name_en": "Al-Hujuraat",
+                "nameTranslationEnglish": "The Inner Apartments"
+            },
+            {
+                "surah_number": 50,
+                "verse_mapping": "1:45",
+                "surah_name_ar": "ق",
+                "surah_name_en": "Qaaf",
+                "nameTranslationEnglish": "The letter Qaaf"
+            },
+            {
+                "surah_number": 51,
+                "verse_mapping": "1:30",
+                "surah_name_ar": "الذَّاريَات",
+                "surah_name_en": "Adh-Dhaariyat",
+                "nameTranslationEnglish": "The Winnowing Winds"
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "juz_number": 27,
+        "first_verse_id": 4706,
+        "last_verse_id": 5104,
+        "verses_count": 399,
+        "verse_mapping": "1:148",
+        "name_ar": "الْجُزْء السَّابِعُ وَالْعِشْرُونَ",
+        "name_en": "Juz Twenty Seven",
+        "surahs": [
+            {
+                "surah_number": 51,
+                "verse_mapping": "31:60",
+                "surah_name_ar": "الذَّاريَات",
+                "surah_name_en": "Adh-Dhaariyat",
+                "nameTranslationEnglish": "The Winnowing Winds"
+            },
+            {
+                "surah_number": 52,
+                "verse_mapping": "1:49",
+                "surah_name_ar": "الطُّور",
+                "surah_name_en": "At-Tur",
+                "nameTranslationEnglish": "The Mount"
+            },
+            {
+                "surah_number": 53,
+                "verse_mapping": "1:62",
+                "surah_name_ar": "النَّجْم",
+                "surah_name_en": "An-Najm",
+                "nameTranslationEnglish": "The Star"
+            },
+            {
+                "surah_number": 54,
+                "verse_mapping": "1:55",
+                "surah_name_ar": "القَمَر",
+                "surah_name_en": "Al-Qamar",
+                "nameTranslationEnglish": "The Moon"
+            },
+            {
+                "surah_number": 55,
+                "verse_mapping": "1:78",
+                "surah_name_ar": "الرَّحمن",
+                "surah_name_en": "Ar-Rahmaan",
+                "nameTranslationEnglish": "The Beneficent"
+            },
+            {
+                "surah_number": 56,
+                "verse_mapping": "1:96",
+                "surah_name_ar": "الواقِعَة",
+                "surah_name_en": "Al-Waaqia",
+                "nameTranslationEnglish": "The Inevitable"
+            },
+            {
+                "surah_number": 57,
+                "verse_mapping": "1:29",
+                "surah_name_ar": "الحَديد",
+                "surah_name_en": "Al-Hadid",
+                "nameTranslationEnglish": "The Iron"
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "juz_number": 28,
+        "first_verse_id": 5105,
+        "last_verse_id": 5241,
+        "verses_count": 137,
+        "verse_mapping": "1:148",
+        "name_ar": "الْجُزْء الثَّامِنُ وَالْعِشْرُونَ",
+        "name_en": "Juz Twenty Eight",
+        "surahs": [
+            {
+                "surah_number": 58,
+                "verse_mapping": "1:22",
+                "surah_name_ar": "المُجادَلة",
+                "surah_name_en": "Al-Mujaadila",
+                "nameTranslationEnglish": "The Pleading Woman"
+            },
+            {
+                "surah_number": 59,
+                "verse_mapping": "1:24",
+                "surah_name_ar": "الحَشْر",
+                "surah_name_en": "Al-Hashr",
+                "nameTranslationEnglish": "The Exile"
+            },
+            {
+                "surah_number": 60,
+                "verse_mapping": "1:13",
+                "surah_name_ar": "المُمتَحَنة",
+                "surah_name_en": "Al-Mumtahana",
+                "nameTranslationEnglish": "She that is to be examined"
+            },
+            {
+                "surah_number": 61,
+                "verse_mapping": "1:14",
+                "surah_name_ar": "الصَّف",
+                "surah_name_en": "As-Saff",
+                "nameTranslationEnglish": "The Ranks"
+            },
+            {
+                "surah_number": 62,
+                "verse_mapping": "1:11",
+                "surah_name_ar": "الجُّمُعة",
+                "surah_name_en": "Al-Jumu'a",
+                "nameTranslationEnglish": "Friday"
+            },
+            {
+                "surah_number": 63,
+                "verse_mapping": "1:11",
+                "surah_name_ar": "المُنافِقُون",
+                "surah_name_en": "Al-Munaafiqoon",
+                "nameTranslationEnglish": "The Hypocrites"
+            },
+            {
+                "surah_number": 64,
+                "verse_mapping": "1:18",
+                "surah_name_ar": "التغابن",
+                "surah_name_en": "At-Taghaabun",
+                "nameTranslationEnglish": "Mutual Disillusion"
+            },
+            {
+                "surah_number": 65,
+                "verse_mapping": "1:12",
+                "surah_name_ar": "الطَّلاق",
+                "surah_name_en": "At-Talaaq",
+                "nameTranslationEnglish": "Divorce"
+            },
+            {
+                "surah_number": 66,
+                "verse_mapping": "1:12",
+                "surah_name_ar": "التَّحْريم",
+                "surah_name_en": "At-Tahrim",
+                "nameTranslationEnglish": "The Prohibition"
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "juz_number": 29,
+        "first_verse_id": 5242,
+        "last_verse_id": 5672,
+        "verses_count": 431,
+        "verse_mapping": "1:148",
+        "name_ar": "الْجُزْء التَّاسِعُ وَالْعِشْرُونَ",
+        "name_en": "Juz Twenty Nine",
+        "surahs": [
+            {
+                "surah_number": 67,
+                "verse_mapping": "1:30",
+                "surah_name_ar": "المُلْك",
+                "surah_name_en": "Al-Mulk",
+                "nameTranslationEnglish": "The Sovereignty"
+            },
+            {
+                "surah_number": 68,
+                "verse_mapping": "1:52",
+                "surah_name_ar": "القَلـََم",
+                "surah_name_en": "Al-Qalam",
+                "nameTranslationEnglish": "The Pen"
+            },
+            {
+                "surah_number": 69,
+                "verse_mapping": "1:52",
+                "surah_name_ar": "الحَاقّـَة",
+                "surah_name_en": "Al-Haaqqa",
+                "nameTranslationEnglish": "The Reality"
+            },
+            {
+                "surah_number": 70,
+                "verse_mapping": "1:44",
+                "surah_name_ar": "المَعارِج",
+                "surah_name_en": "Al-Ma'aarij",
+                "nameTranslationEnglish": "The Ascending Stairways"
+            },
+            {
+                "surah_number": 71,
+                "verse_mapping": "1:28",
+                "surah_name_ar": "نُوح",
+                "surah_name_en": "Nooh",
+                "nameTranslationEnglish": "Noah"
+            },
+            {
+                "surah_number": 72,
+                "verse_mapping": "1:28",
+                "surah_name_ar": "الجِنّ",
+                "surah_name_en": "Al-Jinn",
+                "nameTranslationEnglish": "The Jinn"
+            },
+            {
+                "surah_number": 73,
+                "verse_mapping": "1:20",
+                "surah_name_ar": "المُزَّمّـِل",
+                "surah_name_en": "Al-Muzzammil",
+                "nameTranslationEnglish": "The Enshrouded One"
+            },
+            {
+                "surah_number": 74,
+                "verse_mapping": "1:50",
+                "surah_name_ar": "المُدَّثــِّر",
+                "surah_name_en": "Al-Muddaththir",
+                "nameTranslationEnglish": "The Cloaked One"
+            },
+            {
+                "surah_number": 75,
+                "verse_mapping": "1:40",
+                "surah_name_ar": "القِيامَة",
+                "surah_name_en": "Al-Qiyaama",
+                "nameTranslationEnglish": "The Resurrection"
+            },
+            {
+                "surah_number": 76,
+                "verse_mapping": "1:31",
+                "surah_name_ar": "الإنسان",
+                "surah_name_en": "Al-Insaan",
+                "nameTranslationEnglish": "Man"
+            },
+            {
+                "surah_number": 77,
+                "verse_mapping": "1:50",
+                "surah_name_ar": "المُرسَلات",
+                "surah_name_en": "Al-Mursalaat",
+                "nameTranslationEnglish": "The Emissaries"
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "juz_number": 30,
+        "first_verse_id": 5673,
+        "last_verse_id": 6236,
+        "verses_count": 564,
+        "verse_mapping": "1:148",
+        "name_ar": "الْجُزْء الثَّلَاثُون",
+        "name_en": "Juz Thirty",
+        "surahs": [
+            {
+                "surah_number": 78,
+                "verse_mapping": "1:40",
+                "surah_name_ar": "النـَّبأ",
+                "surah_name_en": "An-Naba",
+                "nameTranslationEnglish": "The Announcement"
+            },
+            {
+                "surah_number": 79,
+                "verse_mapping": "1:46",
+                "surah_name_ar": "النـّازِعات",
+                "surah_name_en": "An-Naazi'aat",
+                "nameTranslationEnglish": "Those who drag forth"
+            },
+            {
+                "surah_number": 80,
+                "verse_mapping": "1:42",
+                "surah_name_ar": "عَبَس",
+                "surah_name_en": "Abasa",
+                "nameTranslationEnglish": "He frowned"
+            },
+            {
+                "surah_number": 81,
+                "verse_mapping": "1:29",
+                "surah_name_ar": "التـَّكْوير",
+                "surah_name_en": "At-Takwir",
+                "nameTranslationEnglish": "The Overthrowing"
+            },
+            {
+                "surah_number": 82,
+                "verse_mapping": "1:19",
+                "surah_name_ar": "الإنفِطار",
+                "surah_name_en": "Al-Infitaar",
+                "nameTranslationEnglish": "The Cleaving"
+            },
+            {
+                "surah_number": 83,
+                "verse_mapping": "1:36",
+                "surah_name_ar": "المُطـَفِّفين",
+                "surah_name_en": "Al-Mutaffifin",
+                "nameTranslationEnglish": "Defrauding"
+            },
+            {
+                "surah_number": 84,
+                "verse_mapping": "1:25",
+                "surah_name_ar": "الإنشِقاق",
+                "surah_name_en": "Al-Inshiqaaq",
+                "nameTranslationEnglish": "The Splitting Open"
+            },
+            {
+                "surah_number": 85,
+                "verse_mapping": "1:22",
+                "surah_name_ar": "البُروج",
+                "surah_name_en": "Al-Burooj",
+                "nameTranslationEnglish": "The Constellations"
+            },
+            {
+                "surah_number": 86,
+                "verse_mapping": "1:17",
+                "surah_name_ar": "الطّارق",
+                "surah_name_en": "At-Taariq",
+                "nameTranslationEnglish": "The Morning Star"
+            },
+            {
+                "surah_number": 87,
+                "verse_mapping": "1:19",
+                "surah_name_ar": "الأعلی",
+                "surah_name_en": "Al-A'laa",
+                "nameTranslationEnglish": "The Most High"
+            },
+            {
+                "surah_number": 88,
+                "verse_mapping": "1:26",
+                "surah_name_ar": "الغاشِيَة",
+                "surah_name_en": "Al-Ghaashiya",
+                "nameTranslationEnglish": "The Overwhelming"
+            },
+            {
+                "surah_number": 89,
+                "verse_mapping": "1:30",
+                "surah_name_ar": "الفَجْر",
+                "surah_name_en": "Al-Fajr",
+                "nameTranslationEnglish": "The Dawn"
+            },
+            {
+                "surah_number": 90,
+                "verse_mapping": "1:20",
+                "surah_name_ar": "البَـلـَد",
+                "surah_name_en": "Al-Balad",
+                "nameTranslationEnglish": "The City"
+            },
+            {
+                "surah_number": 91,
+                "verse_mapping": "1:15",
+                "surah_name_ar": "الشــَّمْس",
+                "surah_name_en": "Ash-Shams",
+                "nameTranslationEnglish": "The Sun"
+            },
+            {
+                "surah_number": 92,
+                "verse_mapping": "1:21",
+                "surah_name_ar": "اللـَّيل",
+                "surah_name_en": "Al-Lail",
+                "nameTranslationEnglish": "The Night"
+            },
+            {
+                "surah_number": 93,
+                "verse_mapping": "1:11",
+                "surah_name_ar": "الضُّحی",
+                "surah_name_en": "Ad-Dhuhaa",
+                "nameTranslationEnglish": "The Morning Hours"
+            },
+            {
+                "surah_number": 94,
+                "verse_mapping": "1:8",
+                "surah_name_ar": "الشَّرْح",
+                "surah_name_en": "Ash-Sharh",
+                "nameTranslationEnglish": "The Consolation"
+            },
+            {
+                "surah_number": 95,
+                "verse_mapping": "1:8",
+                "surah_name_ar": "التـِّين",
+                "surah_name_en": "At-Tin",
+                "nameTranslationEnglish": "The Fig"
+            },
+            {
+                "surah_number": 96,
+                "verse_mapping": "1:19",
+                "surah_name_ar": "العَلـَق",
+                "surah_name_en": "Al-Alaq",
+                "nameTranslationEnglish": "The Clot"
+            },
+            {
+                "surah_number": 97,
+                "verse_mapping": "1:5",
+                "surah_name_ar": "القـَدر",
+                "surah_name_en": "Al-Qadr",
+                "nameTranslationEnglish": "The Power, Fate"
+            },
+            {
+                "surah_number": 98,
+                "verse_mapping": "1:8",
+                "surah_name_ar": "البَيِّنَة",
+                "surah_name_en": "Al-Bayyina",
+                "nameTranslationEnglish": "The Evidence"
+            },
+            {
+                "surah_number": 99,
+                "verse_mapping": "1:8",
+                "surah_name_ar": "الزلزَلة",
+                "surah_name_en": "Az-Zalzala",
+                "nameTranslationEnglish": "The Earthquake"
+            },
+            {
+                "surah_number": 100,
+                "verse_mapping": "1:11",
+                "surah_name_ar": "العَادِيات",
+                "surah_name_en": "Al-Aadiyaat",
+                "nameTranslationEnglish": "The Chargers"
+            },
+            {
+                "surah_number": 101,
+                "verse_mapping": "1:11",
+                "surah_name_ar": "القارِعَة",
+                "surah_name_en": "Al-Qaari'a",
+                "nameTranslationEnglish": "The Calamity"
+            },
+            {
+                "surah_number": 102,
+                "verse_mapping": "1:8",
+                "surah_name_ar": "التَكاثـُر",
+                "surah_name_en": "At-Takaathur",
+                "nameTranslationEnglish": "Competition"
+            },
+            {
+                "surah_number": 103,
+                "verse_mapping": "1:3",
+                "surah_name_ar": "العَصْر",
+                "surah_name_en": "Al-Asr",
+                "nameTranslationEnglish": "The Declining Day, Epoch"
+            },
+            {
+                "surah_number": 104,
+                "verse_mapping": "1:9",
+                "surah_name_ar": "الهُمَزَة",
+                "surah_name_en": "Al-Humaza",
+                "nameTranslationEnglish": "The Traducer"
+            },
+            {
+                "surah_number": 105,
+                "verse_mapping": "1:5",
+                "surah_name_ar": "الفِيل",
+                "surah_name_en": "Al-Fil",
+                "nameTranslationEnglish": "The Elephant"
+            },
+            {
+                "surah_number": 106,
+                "verse_mapping": "1:7",
+                "surah_name_ar": "قـُرَيْش",
+                "surah_name_en": "Quraish",
+                "nameTranslationEnglish": "Quraysh"
+            },
+            {
+                "surah_number": 107,
+                "verse_mapping": "1:4",
+                "surah_name_ar": "المَاعُون",
+                "surah_name_en": "Al-Maa'un",
+                "nameTranslationEnglish": "Almsgiving"
+            },
+            {
+                "surah_number": 108,
+                "verse_mapping": "1:3",
+                "surah_name_ar": "الكَوْثَر",
+                "surah_name_en": "Al-Kawthar",
+                "nameTranslationEnglish": "Abundance"
+            },
+            {
+                "surah_number": 109,
+                "verse_mapping": "1:6",
+                "surah_name_ar": "الكَافِرُون",
+                "surah_name_en": "Al-Kaafiroon",
+                "nameTranslationEnglish": "The Disbelievers"
+            },
+            {
+                "surah_number": 110,
+                "verse_mapping": "1:3",
+                "surah_name_ar": "النـَّصر",
+                "surah_name_en": "An-Nasr",
+                "nameTranslationEnglish": "Divine Support"
+            },
+            {
+                "surah_number": 111,
+                "verse_mapping": "1:5",
+                "surah_name_ar": "المَسَد",
+                "surah_name_en": "Al-Masad",
+                "nameTranslationEnglish": "The Palm Fibre"
+            },
+            {
+                "surah_number": 112,
+                "verse_mapping": "1:4",
+                "surah_name_ar": "الإخْلَاص",
+                "surah_name_en": "Al-Ikhlaas",
+                "nameTranslationEnglish": "Sincerity"
+            },
+            {
+                "surah_number": 113,
+                "verse_mapping": "1:5",
+                "surah_name_ar": "الفَلَق",
+                "surah_name_en": "Al-Falaq",
+                "nameTranslationEnglish": "The Dawn"
+            },
+            {
+                "surah_number": 114,
+                "verse_mapping": "1:6",
+                "surah_name_ar": "النَّاس",
+                "surah_name_en": "An-Naas",
+                "nameTranslationEnglish": "Mankind"
+            }
+        ]
+    }
+]

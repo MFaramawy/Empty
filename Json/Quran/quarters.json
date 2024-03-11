@@ -1,0 +1,4353 @@
+[
+    {
+        "id": 1,
+        "verses_count": 32,
+        "quarter_number": 1,
+        "name_ar": "الرُّبْع الْأَوَّلِ",
+        "name_en": "Quarter First",
+        "surahs": [
+            {
+                "surah_number": 1,
+                "verse_mapping": "1:7",
+                "surah_name_ar": "الفَاتِحَة",
+                "surah_name_en": "Al-Faatiha",
+                "nameTranslationEnglish": "The Opening"
+            },
+            {
+                "surah_number": 2,
+                "verse_mapping": "1:25",
+                "surah_name_ar": "البَقَرَة",
+                "surah_name_en": "Al-Baqara",
+                "nameTranslationEnglish": "The Cow"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "verses_count": 18,
+        "quarter_number": 2,
+        "name_ar": "الرُّبْع الثَّانِي",
+        "name_en": "Quarter Second",
+        "surahs": [
+            {
+                "surah_number": 2,
+                "verse_mapping": "26:43",
+                "surah_name_ar": "البَقَرَة",
+                "surah_name_en": "Al-Baqara",
+                "nameTranslationEnglish": "The Cow"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "verses_count": 16,
+        "quarter_number": 3,
+        "name_ar": "الرُّبْع الثَّالِثِ",
+        "name_en": "Quarter Third",
+        "surahs": [
+            {
+                "surah_number": 2,
+                "verse_mapping": "44:59",
+                "surah_name_ar": "البَقَرَة",
+                "surah_name_en": "Al-Baqara",
+                "nameTranslationEnglish": "The Cow"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "verses_count": 15,
+        "quarter_number": 4,
+        "name_ar": "الرُّبْع الرَّابِع",
+        "name_en": "Quarter Four",
+        "surahs": [
+            {
+                "surah_number": 2,
+                "verse_mapping": "60:74",
+                "surah_name_ar": "البَقَرَة",
+                "surah_name_en": "Al-Baqara",
+                "nameTranslationEnglish": "The Cow"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "verses_count": 17,
+        "quarter_number": 5,
+        "name_ar": "الرُّبْع الْخَامِسِ",
+        "name_en": "Quarter Fifth",
+        "surahs": [
+            {
+                "surah_number": 2,
+                "verse_mapping": "75:91",
+                "surah_name_ar": "البَقَرَة",
+                "surah_name_en": "Al-Baqara",
+                "nameTranslationEnglish": "The Cow"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "verses_count": 14,
+        "quarter_number": 6,
+        "name_ar": "الرُّبْع السَّادِسِ",
+        "name_en": "Quarter Six",
+        "surahs": [
+            {
+                "surah_number": 2,
+                "verse_mapping": "91:105",
+                "surah_name_ar": "البَقَرَة",
+                "surah_name_en": "Al-Baqara",
+                "nameTranslationEnglish": "The Cow"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "verses_count": 18,
+        "quarter_number": 7,
+        "name_ar": "الرُّبْع السَّابِعُ",
+        "name_en": "Quarter Seven",
+        "surahs": [
+            {
+                "surah_number": 2,
+                "verse_mapping": "106:123",
+                "surah_name_ar": "البَقَرَة",
+                "surah_name_en": "Al-Baqara",
+                "nameTranslationEnglish": "The Cow"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "verses_count": 18,
+        "quarter_number": 8,
+        "name_ar": "الرُّبْع الثَّامِنُ",
+        "name_en": "Quarter Eight",
+        "surahs": [
+            {
+                "surah_number": 2,
+                "verse_mapping": "124:143",
+                "surah_name_ar": "البَقَرَة",
+                "surah_name_en": "Al-Baqara",
+                "nameTranslationEnglish": "The Cow"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "verses_count": 16,
+        "quarter_number": 9,
+        "name_ar": "الرُّبْع التَّاسِعُ",
+        "name_en": "Quarter Nine",
+        "surahs": [
+            {
+                "surah_number": 2,
+                "verse_mapping": "143:157",
+                "surah_name_ar": "البَقَرَة",
+                "surah_name_en": "Al-Baqara",
+                "nameTranslationEnglish": "The Cow"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "verses_count": 19,
+        "quarter_number": 10,
+        "name_ar": "الرُّبْع الْعَاشِر",
+        "name_en": "Quarter Ten",
+        "surahs": [
+            {
+                "surah_number": 2,
+                "verse_mapping": "157:176",
+                "surah_name_ar": "البَقَرَة",
+                "surah_name_en": "Al-Baqara",
+                "nameTranslationEnglish": "The Cow"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "verses_count": 12,
+        "quarter_number": 11,
+        "name_ar": "الرُّبْع الْحَادِيَ عَشَرَ",
+        "name_en": "Quarter Eleven",
+        "surahs": [
+            {
+                "surah_number": 2,
+                "verse_mapping": "177:188",
+                "surah_name_ar": "البَقَرَة",
+                "surah_name_en": "Al-Baqara",
+                "nameTranslationEnglish": "The Cow"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "verses_count": 14,
+        "quarter_number": 12,
+        "name_ar": "الرُّبْع الثَّانِي عَشَرَ",
+        "name_en": "Quarter Twelve",
+        "surahs": [
+            {
+                "surah_number": 2,
+                "verse_mapping": "189:202",
+                "surah_name_ar": "البَقَرَة",
+                "surah_name_en": "Al-Baqara",
+                "nameTranslationEnglish": "The Cow"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "verses_count": 16,
+        "quarter_number": 13,
+        "name_ar": "الرُّبْع الثَّالِثِ عَشَرَ",
+        "name_en": "Quarter Thirteen",
+        "surahs": [
+            {
+                "surah_number": 2,
+                "verse_mapping": "203:218",
+                "surah_name_ar": "البَقَرَة",
+                "surah_name_en": "Al-Baqara",
+                "nameTranslationEnglish": "The Cow"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "quarter_number": 14,
+        "verses_count": 14,
+        "name_ar": "الرُّبْع الرَّابِعَ عَشَرَ",
+        "name_en": "Quarter Fourteen",
+        "surahs": [
+            {
+                "surah_number": 2,
+                "verse_mapping": "219:232",
+                "surah_name_ar": "البَقَرَة",
+                "surah_name_en": "Al-Baqara",
+                "nameTranslationEnglish": "The Cow"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "verses_count": 10,
+        "quarter_number": 15,
+        "name_ar": "الرُّبْع الْخَامِسِ عَشَرَ",
+        "name_en": "Quarter Fifteen",
+        "surahs": [
+            {
+                "surah_number": 2,
+                "verse_mapping": "233:242",
+                "surah_name_ar": "البَقَرَة",
+                "surah_name_en": "Al-Baqara",
+                "nameTranslationEnglish": "The Cow"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "verses_count": 10,
+        "quarter_number": 16,
+        "name_ar": "الرُّبْع السَّادِسِ عَشَرَ",
+        "name_en": "Quarter Sixteen",
+        "surahs": [
+            {
+                "surah_number": 2,
+                "verse_mapping": "243:252",
+                "surah_name_ar": "البَقَرَة",
+                "surah_name_en": "Al-Baqara",
+                "nameTranslationEnglish": "The Cow"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "verses_count": 10,
+        "quarter_number": 17,
+        "name_ar": "الرُّبْع السَّابِعُ عَشَرَ",
+        "name_en": "Quarter Seventeen",
+        "surahs": [
+            {
+                "surah_number": 2,
+                "verse_mapping": "253:262",
+                "surah_name_ar": "البَقَرَة",
+                "surah_name_en": "Al-Baqara",
+                "nameTranslationEnglish": "The Cow"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "verses_count": 9,
+        "quarter_number": 18,
+        "name_ar": "الرُّبْع الثَّامِنُ عَشَرَ",
+        "name_en": "Quarter Eighteen",
+        "surahs": [
+            {
+                "surah_number": 2,
+                "verse_mapping": "263:271",
+                "surah_name_ar": "البَقَرَة",
+                "surah_name_en": "Al-Baqara",
+                "nameTranslationEnglish": "The Cow"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "verses_count": 11,
+        "quarter_number": 19,
+        "name_ar": "الرُّبْع التَّاسِعُ عَشَرَ",
+        "name_en": "Quarter Nineteen",
+        "surahs": [
+            {
+                "surah_number": 2,
+                "verse_mapping": "272:282",
+                "surah_name_ar": "البَقَرَة",
+                "surah_name_en": "Al-Baqara",
+                "nameTranslationEnglish": "The Cow"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "verses_count": 18,
+        "quarter_number": 20,
+        "name_ar": "الرُّبْع الْعِشْرُون",
+        "name_en": "Quarter Twenty",
+        "surahs": [
+            {
+                "surah_number": 2,
+                "verse_mapping": "283:286",
+                "surah_name_ar": "البَقَرَة",
+                "surah_name_en": "Al-Baqara",
+                "nameTranslationEnglish": "The Cow"
+            },
+            {
+                "surah_number": 3,
+                "verse_mapping": "1:14",
+                "surah_name_ar": "آل عِمرَان",
+                "surah_name_en": "Aal-Imraan",
+                "nameTranslationEnglish": "The Family of Imraan"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "verses_count": 18,
+        "quarter_number": 21,
+        "name_ar": "الرُّبْع الْحَادِي وَالْعِشْرُونَ",
+        "name_en": "Quarter Twenty First",
+        "surahs": [
+            {
+                "surah_number": 3,
+                "verse_mapping": "15:32",
+                "surah_name_ar": "آل عِمرَان",
+                "surah_name_en": "Aal-Imraan",
+                "nameTranslationEnglish": "The Family of Imraan"
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "verses_count": 19,
+        "quarter_number": 22,
+        "name_ar": "الرُّبْع الثَّانِي وَالْعِشْرُونَ",
+        "name_en": "Quarter Twenty Second",
+        "surahs": [
+            {
+                "surah_number": 3,
+                "verse_mapping": "33:51",
+                "surah_name_ar": "آل عِمرَان",
+                "surah_name_en": "Aal-Imraan",
+                "nameTranslationEnglish": "The Family of Imraan"
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "verses_count": 23,
+        "quarter_number": 23,
+        "name_ar": "الرُّبْع الثَّالِثِ وَالْعِشْرُونَ",
+        "name_en": "Quarter Twenty Third",
+        "surahs": [
+            {
+                "surah_number": 3,
+                "verse_mapping": "52:74",
+                "surah_name_ar": "آل عِمرَان",
+                "surah_name_en": "Aal-Imraan",
+                "nameTranslationEnglish": "The Family of Imraan"
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "verses_count": 18,
+        "quarter_number": 24,
+        "name_ar": "الرُّبْع الرَّابِعُ وَالْعِشْرُونَ",
+        "name_en": "Quarter Twenty Four",
+        "surahs": [
+            {
+                "surah_number": 3,
+                "verse_mapping": "75:92",
+                "surah_name_ar": "آل عِمرَان",
+                "surah_name_en": "Aal-Imraan",
+                "nameTranslationEnglish": "The Family of Imraan"
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "verses_count": 20,
+        "quarter_number": 25,
+        "name_ar": "الرُّبْع الْخَامِسِ وَالْعِشْرُونَ",
+        "name_en": "Quarter Twenty Fifth",
+        "surahs": [
+            {
+                "surah_number": 3,
+                "verse_mapping": "93:112",
+                "surah_name_ar": "آل عِمرَان",
+                "surah_name_en": "Aal-Imraan",
+                "nameTranslationEnglish": "The Family of Imraan"
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "verses_count": 20,
+        "quarter_number": 26,
+        "name_ar": "الرُّبْع السَّادِسِ وَالْعِشْرُونَ",
+        "name_en": "Quarter Twenty Six",
+        "surahs": [
+            {
+                "surah_number": 3,
+                "verse_mapping": "113:132",
+                "surah_name_ar": "آل عِمرَان",
+                "surah_name_en": "Aal-Imraan",
+                "nameTranslationEnglish": "The Family of Imraan"
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "verses_count": 20,
+        "quarter_number": 27,
+        "name_ar": "الرُّبْع السَّابِعُ وَالْعِشْرُونَ",
+        "name_en": "Quarter Twenty Seven",
+        "surahs": [
+            {
+                "surah_number": 3,
+                "verse_mapping": "133:152",
+                "surah_name_ar": "آل عِمرَان",
+                "surah_name_en": "Aal-Imraan",
+                "nameTranslationEnglish": "The Family of Imraan"
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "verses_count": 18,
+        "quarter_number": 28,
+        "name_ar": "الرُّبْع الثَّامِنُ وَالْعِشْرُونَ",
+        "name_en": "Quarter Twenty Eight",
+        "surahs": [
+            {
+                "surah_number": 3,
+                "verse_mapping": "153:170",
+                "surah_name_ar": "آل عِمرَان",
+                "surah_name_en": "Aal-Imraan",
+                "nameTranslationEnglish": "The Family of Imraan"
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "verses_count": 15,
+        "quarter_number": 29,
+        "name_ar": "الرُّبْع التَّاسِعُ وَالْعِشْرُونَ",
+        "name_en": "Quarter Twenty Nine",
+        "surahs": [
+            {
+                "surah_number": 3,
+                "verse_mapping": "171:185",
+                "surah_name_ar": "آل عِمرَان",
+                "surah_name_en": "Aal-Imraan",
+                "nameTranslationEnglish": "The Family of Imraan"
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "verses_count": 15,
+        "quarter_number": 30,
+        "name_ar": "الرُّبْع الثَّلَاثُون",
+        "name_en": "Quarter Thirty",
+        "surahs": [
+            {
+                "surah_number": 3,
+                "verse_mapping": "186:200",
+                "surah_name_ar": "آل عِمرَان",
+                "surah_name_en": "Aal-Imraan",
+                "nameTranslationEnglish": "The Family of Imraan"
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "verses_count": 11,
+        "quarter_number": 31,
+        "name_ar": "الرُّبْع الْحَادِي وَالثَّلَاثُونَ",
+        "name_en": "Quarter Thirty First",
+        "surahs": [
+            {
+                "surah_number": 4,
+                "verse_mapping": "1:11",
+                "surah_name_ar": "النِّسَاء",
+                "surah_name_en": "An-Nisaa",
+                "nameTranslationEnglish": "The Women"
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "verses_count": 12,
+        "quarter_number": 32,
+        "name_ar": "الرُّبْع الثَّاني وَالثَّلَاثُونَ",
+        "name_en": "Quarter Thirty Second",
+        "surahs": [
+            {
+                "surah_number": 4,
+                "verse_mapping": "12:23",
+                "surah_name_ar": "النِّسَاء",
+                "surah_name_en": "An-Nisaa",
+                "nameTranslationEnglish": "The Women"
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "verses_count": 12,
+        "quarter_number": 33,
+        "name_ar": "الرُّبْع الثَّالِثُ وَالثَّلَاثُونَ",
+        "name_en": "Quarter Thirty Third",
+        "surahs": [
+            {
+                "surah_number": 4,
+                "verse_mapping": "24:35",
+                "surah_name_ar": "النِّسَاء",
+                "surah_name_en": "An-Nisaa",
+                "nameTranslationEnglish": "The Women"
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "verses_count": 22,
+        "quarter_number": 34,
+        "name_ar": "الرُّبْع الرَّابِعُ وَالثَّلَاثُونَ",
+        "name_en": "Quarter Thirty Four",
+        "surahs": [
+            {
+                "surah_number": 4,
+                "verse_mapping": "36:57",
+                "surah_name_ar": "النِّسَاء",
+                "surah_name_en": "An-Nisaa",
+                "nameTranslationEnglish": "The Women"
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "verses_count": 16,
+        "quarter_number": 35,
+        "name_ar": "الرُّبْع الْخَامِسُ وَالثَّلَاثُونَ",
+        "name_en": "Quarter Thirty Fifth",
+        "surahs": [
+            {
+                "surah_number": 4,
+                "verse_mapping": "58:73",
+                "surah_name_ar": "النِّسَاء",
+                "surah_name_en": "An-Nisaa",
+                "nameTranslationEnglish": "The Women"
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "verses_count": 14,
+        "quarter_number": 36,
+        "name_ar": "الرُّبْع السَّادِسُ وَالثَّلَاثُونَ",
+        "name_en": "Quarter Thirty Six",
+        "surahs": [
+            {
+                "surah_number": 4,
+                "verse_mapping": "74:87",
+                "surah_name_ar": "النِّسَاء",
+                "surah_name_en": "An-Nisaa",
+                "nameTranslationEnglish": "The Women"
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "verses_count": 12,
+        "quarter_number": 37,
+        "name_ar": "الرُّبْع السَّابِعُ وَالثَّلَاثُونَ",
+        "name_en": "Quarter Thirty Seven",
+        "surahs": [
+            {
+                "surah_number": 4,
+                "verse_mapping": "88:99",
+                "surah_name_ar": "النِّسَاء",
+                "surah_name_en": "An-Nisaa",
+                "nameTranslationEnglish": "The Women"
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "verses_count": 14,
+        "quarter_number": 38,
+        "name_ar": "الرُّبْع الثَّامِنُ وَالثَّلَاثُونَ",
+        "name_en": "Quarter Thirty Eight",
+        "surahs": [
+            {
+                "surah_number": 4,
+                "verse_mapping": "100:113",
+                "surah_name_ar": "النِّسَاء",
+                "surah_name_en": "An-Nisaa",
+                "nameTranslationEnglish": "The Women"
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "verses_count": 21,
+        "quarter_number": 39,
+        "name_ar": "الرُّبْع التَّاسِعُ وَالثَّلَاثُونَ",
+        "name_en": "Quarter Thirty Nine",
+        "surahs": [
+            {
+                "surah_number": 4,
+                "verse_mapping": "114:134",
+                "surah_name_ar": "النِّسَاء",
+                "surah_name_en": "An-Nisaa",
+                "nameTranslationEnglish": "The Women"
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "verses_count": 13,
+        "quarter_number": 40,
+        "name_ar": "الرُّبْع الْأَرْبَعُون",
+        "name_en": "Quarter Forty",
+        "surahs": [
+            {
+                "surah_number": 4,
+                "verse_mapping": "135:147",
+                "surah_name_ar": "النِّسَاء",
+                "surah_name_en": "An-Nisaa",
+                "nameTranslationEnglish": "The Women"
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "verses_count": 15,
+        "quarter_number": 41,
+        "name_ar": "الرُّبْع الْحَادِي وَالْأَرْبَعُونَ",
+        "name_en": "Quarter Forty First",
+        "surahs": [
+            {
+                "surah_number": 4,
+                "verse_mapping": "148:162",
+                "surah_name_ar": "النِّسَاء",
+                "surah_name_en": "An-Nisaa",
+                "nameTranslationEnglish": "The Women"
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "verses_count": 14,
+        "quarter_number": 42,
+        "name_ar": "الرُّبْع الثَّانِي وَالْأَرْبَعُونَ",
+        "name_en": "Quarter Forty Second",
+        "surahs": [
+            {
+                "surah_number": 4,
+                "verse_mapping": "163:176",
+                "surah_name_ar": "النِّسَاء",
+                "surah_name_en": "An-Nisaa",
+                "nameTranslationEnglish": "The Women"
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "verses_count": 11,
+        "quarter_number": 43,
+        "name_ar": "الرُّبْع الثَّالِثُ وَالْأَرْبَعُونَ",
+        "name_en": "Quarter Forty Third",
+        "surahs": [
+            {
+                "surah_number": 5,
+                "verse_mapping": "1:11",
+                "surah_name_ar": "المَائدة",
+                "surah_name_en": "Al-Maaida",
+                "nameTranslationEnglish": "The Table"
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "verses_count": 15,
+        "quarter_number": 44,
+        "name_ar": "الرُّبْع الرَّابِعُ وَالْأَرْبَعُونَ",
+        "name_en": "Quarter Forty Four",
+        "surahs": [
+            {
+                "surah_number": 5,
+                "verse_mapping": "12:26",
+                "surah_name_ar": "المَائدة",
+                "surah_name_en": "Al-Maaida",
+                "nameTranslationEnglish": "The Table"
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "verses_count": 14,
+        "quarter_number": 45,
+        "name_ar": "الرُّبْع الْخَامِسُ وَالْأَرْبَعُونَ",
+        "name_en": "Quarter Forty Fifth",
+        "surahs": [
+            {
+                "surah_number": 5,
+                "verse_mapping": "27:40",
+                "surah_name_ar": "المَائدة",
+                "surah_name_en": "Al-Maaida",
+                "nameTranslationEnglish": "The Table"
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "verses_count": 10,
+        "quarter_number": 46,
+        "name_ar": "الرُّبْع السَّادِسُ وَالْأَرْبَعُونَ",
+        "name_en": "Quarter Forty Sixth",
+        "surahs": [
+            {
+                "surah_number": 5,
+                "verse_mapping": "41:50",
+                "surah_name_ar": "المَائدة",
+                "surah_name_en": "Al-Maaida",
+                "nameTranslationEnglish": "The Table"
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "verses_count": 16,
+        "quarter_number": 47,
+        "name_ar": "الرُّبْع السَّابِعُ وَالْأَرْبَعُونَ",
+        "name_en": "Quarter Forty Seven",
+        "surahs": [
+            {
+                "surah_number": 5,
+                "verse_mapping": "51:66",
+                "surah_name_ar": "المَائدة",
+                "surah_name_en": "Al-Maaida",
+                "nameTranslationEnglish": "The Table"
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "verses_count": 15,
+        "quarter_number": 48,
+        "name_ar": "الرُّبْع الثَّامِنُ وَالْأَرْبَعُونَ",
+        "name_en": "Quarter Forty Eight",
+        "surahs": [
+            {
+                "surah_number": 5,
+                "verse_mapping": "67:81",
+                "surah_name_ar": "المَائدة",
+                "surah_name_en": "Al-Maaida",
+                "nameTranslationEnglish": "The Table"
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "verses_count": 15,
+        "quarter_number": 49,
+        "name_ar": "الرُّبْع التَّاسِعُ وَالْأَرْبَعُونَ",
+        "name_en": "Quarter Forty Nine",
+        "surahs": [
+            {
+                "surah_number": 5,
+                "verse_mapping": "82:96",
+                "surah_name_ar": "المَائدة",
+                "surah_name_en": "Al-Maaida",
+                "nameTranslationEnglish": "The Table"
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "verses_count": 12,
+        "quarter_number": 50,
+        "name_ar": "الرُّبْع الْخَمْسُون",
+        "name_en": "Quarter Fiftieth",
+        "surahs": [
+            {
+                "surah_number": 5,
+                "verse_mapping": "97:108",
+                "surah_name_ar": "المَائدة",
+                "surah_name_en": "Al-Maaida",
+                "nameTranslationEnglish": "The Table"
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "verses_count": 24,
+        "quarter_number": 51,
+        "name_ar": "الرُّبْع الْحَادِي وَالْخَمْسُونَ",
+        "name_en": "Quarter Fiftieth First",
+        "surahs": [
+            {
+                "surah_number": 5,
+                "verse_mapping": "109:120",
+                "surah_name_ar": "المَائدة",
+                "surah_name_en": "Al-Maaida",
+                "nameTranslationEnglish": "The Table"
+            },
+            {
+                "surah_number": 6,
+                "verse_mapping": "1:12",
+                "surah_name_ar": "الأنعَام",
+                "surah_name_en": "Al-An'aam",
+                "nameTranslationEnglish": "The Cattle"
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "verses_count": 23,
+        "quarter_number": 52,
+        "name_ar": "الرُّبْع الثَّانِي وَالْخَمْسُونَ",
+        "name_en": "Quarter Fiftieth Second",
+        "surahs": [
+            {
+                "surah_number": 6,
+                "verse_mapping": "13:35",
+                "surah_name_ar": "الأنعَام",
+                "surah_name_en": "Al-An'aam",
+                "nameTranslationEnglish": "The Cattle"
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "verses_count": 23,
+        "quarter_number": 53,
+        "name_ar": "الرُّبْع الثَّالِثُ وَالْخَمْسُونَ",
+        "name_en": "Quarter Fiftieth Third",
+        "surahs": [
+            {
+                "surah_number": 6,
+                "verse_mapping": "36:58",
+                "surah_name_ar": "الأنعَام",
+                "surah_name_en": "Al-An'aam",
+                "nameTranslationEnglish": "The Cattle"
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "verses_count": 15,
+        "quarter_number": 54,
+        "name_ar": "الرُّبْع الرَّابِعُ وَالْخَمْسُونَ",
+        "name_en": "Quarter Fiftieth Four",
+        "surahs": [
+            {
+                "surah_number": 6,
+                "verse_mapping": "58:73",
+                "surah_name_ar": "الأنعَام",
+                "surah_name_en": "Al-An'aam",
+                "nameTranslationEnglish": "The Cattle"
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "verses_count": 21,
+        "quarter_number": 55,
+        "name_ar": "الرُّبْع الْخَامِسُ وَالْخَمْسُونَ",
+        "name_en": "Quarter Fiftieth Fifth",
+        "surahs": [
+            {
+                "surah_number": 6,
+                "verse_mapping": "74:94",
+                "surah_name_ar": "الأنعَام",
+                "surah_name_en": "Al-An'aam",
+                "nameTranslationEnglish": "The Cattle"
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "verses_count": 16,
+        "quarter_number": 56,
+        "name_ar": "الرُّبْع السَّادِسُ وَالْخَمْسُونَ",
+        "name_en": "Quarter Fiftieth Sixth",
+        "surahs": [
+            {
+                "surah_number": 6,
+                "verse_mapping": "95:110",
+                "surah_name_ar": "الأنعَام",
+                "surah_name_en": "Al-An'aam",
+                "nameTranslationEnglish": "The Cattle"
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "verses_count": 16,
+        "quarter_number": 57,
+        "name_ar": "الرُّبْع السَّابِعُ وَالْخَمْسُونَ",
+        "name_en": "Quarter Fiftieth Seven",
+        "surahs": [
+            {
+                "surah_number": 7,
+                "verse_mapping": "1:87",
+                "surah_name_ar": "الأعرَاف",
+                "surah_name_en": "Al-A'raaf",
+                "nameTranslationEnglish": "The Heights"
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "verses_count": 14,
+        "quarter_number": 58,
+        "name_ar": "الرُّبْع الثَّامِنُ وَالْخَمْسُونَ",
+        "name_en": "Quarter Fiftieth Eight",
+        "surahs": [
+            {
+                "surah_number": 7,
+                "verse_mapping": "1:87",
+                "surah_name_ar": "الأعرَاف",
+                "surah_name_en": "Al-A'raaf",
+                "nameTranslationEnglish": "The Heights"
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "verses_count": 10,
+        "quarter_number": 59,
+        "name_ar": "الرُّبْع التَّاسِعُ وَالْخَمْسُونَ",
+        "name_en": "Quarter Fiftieth Nine",
+        "surahs": [
+            {
+                "surah_number": 6,
+                "verse_mapping": "141:150",
+                "surah_name_ar": "الأنعَام",
+                "surah_name_en": "Al-An'aam",
+                "nameTranslationEnglish": "The Cattle"
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "verses_count": 15,
+        "quarter_number": 60,
+        "name_ar": "الرُّبْع السِّتُّون",
+        "name_en": "Quarter Sixtieth",
+        "surahs": [
+            {
+                "surah_number": 6,
+                "verse_mapping": "151:165",
+                "surah_name_ar": "الأنعَام",
+                "surah_name_en": "Al-An'aam",
+                "nameTranslationEnglish": "The Cattle"
+            }
+        ]
+    },
+    {
+        "id": 61,
+        "verses_count": 30,
+        "quarter_number": 61,
+        "name_ar": "الرُّبْع الْحَادِي وَالسِّتُّون",
+        "name_en": "Quarter Sixtieth First",
+        "surahs": [
+            {
+                "surah_number": 7,
+                "verse_mapping": "1:30",
+                "surah_name_ar": "الأعرَاف",
+                "surah_name_en": "Al-A'raaf",
+                "nameTranslationEnglish": "The Heights"
+            }
+        ]
+    },
+    {
+        "id": 62,
+        "verses_count": 16,
+        "quarter_number": 62,
+        "name_ar": "الرُّبْع الثَّانِي وَالسِّتُّون",
+        "name_en": "Quarter Sixtieth Second",
+        "surahs": [
+            {
+                "surah_number": 7,
+                "verse_mapping": "31:46",
+                "surah_name_ar": "الأعرَاف",
+                "surah_name_en": "Al-A'raaf",
+                "nameTranslationEnglish": "The Heights"
+            }
+        ]
+    },
+    {
+        "id": 63,
+        "verses_count": 18,
+        "quarter_number": 63,
+        "name_ar": "الرُّبْع الثَّالِثُ وَالسِّتُّون",
+        "name_en": "Quarter Sixtieth Third",
+        "surahs": [
+            {
+                "surah_number": 7,
+                "verse_mapping": "47:64",
+                "surah_name_ar": "الأعرَاف",
+                "surah_name_en": "Al-A'raaf",
+                "nameTranslationEnglish": "The Heights"
+            }
+        ]
+    },
+    {
+        "id": 64,
+        "verses_count": 23,
+        "quarter_number": 64,
+        "name_ar": "الرُّبْع الرَّابِعُ وَالسِّتُّون",
+        "name_en": "Quarter Sixtieth Four",
+        "surahs": [
+            {
+                "surah_number": 7,
+                "verse_mapping": "65:87",
+                "surah_name_ar": "الأعرَاف",
+                "surah_name_en": "Al-A'raaf",
+                "nameTranslationEnglish": "The Heights"
+            }
+        ]
+    },
+    {
+        "id": 65,
+        "verses_count": 29,
+        "quarter_number": 65,
+        "name_ar": "الرُّبْع الْخَامِسُ وَالسِّتُّون",
+        "name_en": "Quarter Sixtieth Fifth",
+        "surahs": [
+            {
+                "surah_number": 7,
+                "verse_mapping": "88:116",
+                "surah_name_ar": "الأعرَاف",
+                "surah_name_en": "Al-A'raaf",
+                "nameTranslationEnglish": "The Heights"
+            }
+        ]
+    },
+    {
+        "id": 66,
+        "verses_count": 25,
+        "quarter_number": 66,
+        "name_ar": "الرُّبْع السَّادِسُ وَالسِّتُّون",
+        "name_en": "Quarter Sixtieth Sixth",
+        "surahs": [
+            {
+                "surah_number": 7,
+                "verse_mapping": "117:141",
+                "surah_name_ar": "الأعرَاف",
+                "surah_name_en": "Al-A'raaf",
+                "nameTranslationEnglish": "The Heights"
+            }
+        ]
+    },
+    {
+        "id": 67,
+        "verses_count": 14,
+        "quarter_number": 67,
+        "name_ar": "الرُّبْع السَّابِعُ وَالسِّتُّون",
+        "name_en": "Quarter Sixtieth Seven",
+        "surahs": [
+            {
+                "surah_number": 7,
+                "verse_mapping": "142:155",
+                "surah_name_ar": "الأعرَاف",
+                "surah_name_en": "Al-A'raaf",
+                "nameTranslationEnglish": "The Heights"
+            }
+        ]
+    },
+    {
+        "id": 68,
+        "verses_count": 15,
+        "quarter_number": 68,
+        "name_ar": "الرُّبْع الثَّامِنُ وَالسِّتُّون",
+        "name_en": "Quarter Sixtieth Eight",
+        "surahs": [
+            {
+                "surah_number": 7,
+                "verse_mapping": "156:170",
+                "surah_name_ar": "الأعرَاف",
+                "surah_name_en": "Al-A'raaf",
+                "nameTranslationEnglish": "The Heights"
+            }
+        ]
+    },
+    {
+        "id": 69,
+        "verses_count": 18,
+        "quarter_number": 69,
+        "name_ar": "الرُّبْع التَّاسِعُ وَالسِّتُّون",
+        "name_en": "Quarter Sixtieth Nine",
+        "surahs": [
+            {
+                "surah_number": 7,
+                "verse_mapping": "171:188",
+                "surah_name_ar": "الأعرَاف",
+                "surah_name_en": "Al-A'raaf",
+                "nameTranslationEnglish": "The Heights"
+            }
+        ]
+    },
+    {
+        "id": 70,
+        "verses_count": 18,
+        "quarter_number": 70,
+        "name_ar": "الرُّبْع السَّبْعُون",
+        "name_en": "Quarter Seventieth",
+        "surahs": [
+            {
+                "surah_number": 7,
+                "verse_mapping": "189:206",
+                "surah_name_ar": "الأعرَاف",
+                "surah_name_en": "Al-A'raaf",
+                "nameTranslationEnglish": "The Heights"
+            }
+        ]
+    },
+    {
+        "id": 71,
+        "verses_count": 21,
+        "quarter_number": 71,
+        "name_ar": "الرُّبْع الْحَادِي وَالسَّبْعُون",
+        "name_en": "Quarter Seventieth First",
+        "surahs": [
+            {
+                "surah_number": 8,
+                "verse_mapping": "1:21",
+                "surah_name_ar": "الأنفَال",
+                "surah_name_en": "Al-Anfaal",
+                "nameTranslationEnglish": "The Spoils of War"
+            }
+        ]
+    },
+    {
+        "id": 72,
+        "verses_count": 19,
+        "quarter_number": 72,
+        "name_ar": "الرُّبْع الثَّانِي وَالسَّبْعُون",
+        "name_en": "Quarter Seventieth Second",
+        "surahs": [
+            {
+                "surah_number": 8,
+                "verse_mapping": "22:40",
+                "surah_name_ar": "الأنفَال",
+                "surah_name_en": "Al-Anfaal",
+                "nameTranslationEnglish": "The Spoils of War"
+            }
+        ]
+    },
+    {
+        "id": 73,
+        "verses_count": 20,
+        "quarter_number": 73,
+        "name_ar": "الرُّبْع الثَّالِثُ وَالسَّبْعُون",
+        "name_en": "Quarter Seventieth Third",
+        "surahs": [
+            {
+                "surah_number": 8,
+                "verse_mapping": "41:60",
+                "surah_name_ar": "الأنفَال",
+                "surah_name_en": "Al-Anfaal",
+                "nameTranslationEnglish": "The Spoils of War"
+            }
+        ]
+    },
+    {
+        "id": 74,
+        "verses_count": 15,
+        "quarter_number": 74,
+        "name_ar": "الرُّبْع الرَّابِعُ وَالسَّبْعُون",
+        "name_en": "Quarter Seventieth Four",
+        "surahs": [
+            {
+                "surah_number": 8,
+                "verse_mapping": "61:75",
+                "surah_name_ar": "الأنفَال",
+                "surah_name_en": "Al-Anfaal",
+                "nameTranslationEnglish": "The Spoils of War"
+            }
+        ]
+    },
+    {
+        "id": 75,
+        "verses_count": 18,
+        "quarter_number": 75,
+        "name_ar": "الرُّبْع الْخَامِسُ وَالسَّبْعُون",
+        "name_en": "Quarter Seventieth Fifth",
+        "surahs": [
+            {
+                "surah_number": 9,
+                "verse_mapping": "1:18",
+                "surah_name_ar": "التوبَة",
+                "surah_name_en": "At-Tawba",
+                "nameTranslationEnglish": "The Repentance"
+            }
+        ]
+    },
+    {
+        "id": 76,
+        "verses_count": 15,
+        "quarter_number": 76,
+        "name_ar": "الرُّبْع السَّادِسُ وَالسَّبْعُون",
+        "name_en": "Quarter Seventieth Sixth",
+        "surahs": [
+            {
+                "surah_number": 9,
+                "verse_mapping": "19:33",
+                "surah_name_ar": "التوبَة",
+                "surah_name_en": "At-Tawba",
+                "nameTranslationEnglish": "The Repentance"
+            }
+        ]
+    },
+    {
+        "id": 77,
+        "verses_count": 12,
+        "quarter_number": 77,
+        "name_ar": "الرُّبْع السَّابِعُ وَالسَّبْعُون",
+        "name_en": "Quarter Seventieth Seven",
+        "surahs": [
+            {
+                "surah_number": 9,
+                "verse_mapping": "34:45",
+                "surah_name_ar": "التوبَة",
+                "surah_name_en": "At-Tawba",
+                "nameTranslationEnglish": "The Repentance"
+            }
+        ]
+    },
+    {
+        "id": 78,
+        "verses_count": 14,
+        "quarter_number": 78,
+        "name_ar": "الرُّبْع الثَّامِنُ وَالسَّبْعُون",
+        "name_en": "Quarter Seventieth Eight",
+        "surahs": [
+            {
+                "surah_number": 9,
+                "verse_mapping": "46:59",
+                "surah_name_ar": "التوبَة",
+                "surah_name_en": "At-Tawba",
+                "nameTranslationEnglish": "The Repentance"
+            }
+        ]
+    },
+    {
+        "id": 79,
+        "verses_count": 15,
+        "quarter_number": 79,
+        "name_ar": "الرُّبْع التَّاسِعُ وَالسَّبْعُون",
+        "name_en": "Quarter Seventieth Nine",
+        "surahs": [
+            {
+                "surah_number": 9,
+                "verse_mapping": "60:74",
+                "surah_name_ar": "التوبَة",
+                "surah_name_en": "At-Tawba",
+                "nameTranslationEnglish": "The Repentance"
+            }
+        ]
+    },
+    {
+        "id": 80,
+        "verses_count": 18,
+        "quarter_number": 80,
+        "name_ar": "الرُّبْع الثَّمَانُون",
+        "name_en": "Quarter Eighty",
+        "surahs": [
+            {
+                "surah_number": 9,
+                "verse_mapping": "75:92",
+                "surah_name_ar": "التوبَة",
+                "surah_name_en": "At-Tawba",
+                "nameTranslationEnglish": "The Repentance"
+            }
+        ]
+    },
+    {
+        "id": 81,
+        "verses_count": 18,
+        "quarter_number": 81,
+        "name_ar": "الرُّبْع الْحَادِي وَالثَّمَانُون",
+        "name_en": "Quarter Eighty First",
+        "surahs": [
+            {
+                "surah_number": 9,
+                "verse_mapping": "93:110",
+                "surah_name_ar": "التوبَة",
+                "surah_name_en": "At-Tawba",
+                "nameTranslationEnglish": "The Repentance"
+            }
+        ]
+    },
+    {
+        "id": 82,
+        "verses_count": 11,
+        "quarter_number": 82,
+        "name_ar": "الرُّبْع الثَّانِي وَالثَّمَانُون",
+        "name_en": "Quarter Eighty Second",
+        "surahs": [
+            {
+                "surah_number": 9,
+                "verse_mapping": "111:121",
+                "surah_name_ar": "التوبَة",
+                "surah_name_en": "At-Tawba",
+                "nameTranslationEnglish": "The Repentance"
+            }
+        ]
+    },
+    {
+        "id": 83,
+        "verses_count": 18,
+        "quarter_number": 83,
+        "name_ar": "الرُّبْع الثَّالِثُ وَالثَّمَانُون",
+        "name_en": "Quarter Eighty Third",
+        "surahs": [
+            {
+                "surah_number": 9,
+                "verse_mapping": "122:129",
+                "surah_name_ar": "التوبَة",
+                "surah_name_en": "At-Tawba",
+                "nameTranslationEnglish": "The Repentance"
+            },
+            {
+                "surah_number": 10,
+                "verse_mapping": "1:10",
+                "surah_name_ar": "يُونس",
+                "surah_name_en": "Yunus",
+                "nameTranslationEnglish": "Jonas"
+            }
+        ]
+    },
+    {
+        "id": 84,
+        "verses_count": 15,
+        "quarter_number": 84,
+        "name_ar": "الرُّبْع الرَّابِعُ وَالثَّمَانُون",
+        "name_en": "Quarter Eighty Four",
+        "surahs": [
+            {
+                "surah_number": 10,
+                "verse_mapping": "11:25",
+                "surah_name_ar": "يُونس",
+                "surah_name_en": "Yunus",
+                "nameTranslationEnglish": "Jonas"
+            }
+        ]
+    },
+    {
+        "id": 85,
+        "verses_count": 27,
+        "quarter_number": 85,
+        "name_ar": "الرُّبْع الْخَامِسُ وَالثَّمَانُون",
+        "name_en": "Quarter Eighty Fifth",
+        "surahs": [
+            {
+                "surah_number": 10,
+                "verse_mapping": "26:52",
+                "surah_name_ar": "يُونس",
+                "surah_name_en": "Yunus",
+                "nameTranslationEnglish": "Jonas"
+            }
+        ]
+    },
+    {
+        "id": 86,
+        "verses_count": 18,
+        "quarter_number": 86,
+        "name_ar": "الرُّبْع السَّادِسُ وَالثَّمَانُون",
+        "name_en": "Quarter Eighty Sixth",
+        "surahs": [
+            {
+                "surah_number": 10,
+                "verse_mapping": "53:70",
+                "surah_name_ar": "يُونس",
+                "surah_name_en": "Yunus",
+                "nameTranslationEnglish": "Jonas"
+            }
+        ]
+    },
+    {
+        "id": 87,
+        "verses_count": 19,
+        "quarter_number": 87,
+        "name_ar": "الرُّبْع السَّابِعُ وَالثَّمَانُون",
+        "name_en": "Quarter Eighty Seven",
+        "surahs": [
+            {
+                "surah_number": 10,
+                "verse_mapping": "71:89",
+                "surah_name_ar": "يُونس",
+                "surah_name_en": "Yunus",
+                "nameTranslationEnglish": "Jonas"
+            }
+        ]
+    },
+    {
+        "id": 88,
+        "verses_count": 25,
+        "quarter_number": 88,
+        "name_ar": "الرُّبْع الثَّامِنُ وَالثَّمَانُون",
+        "name_en": "Quarter Eighty Eight",
+        "surahs": [
+            {
+                "surah_number": 10,
+                "verse_mapping": "90:109",
+                "surah_name_ar": "يُونس",
+                "surah_name_en": "Yunus",
+                "nameTranslationEnglish": "Jonas"
+            },
+            {
+                "surah_number": 11,
+                "verse_mapping": "1:5",
+                "surah_name_ar": "هُود",
+                "surah_name_en": "Hud",
+                "nameTranslationEnglish": "Hud"
+            }
+        ]
+    },
+    {
+        "id": 89,
+        "verses_count": 18,
+        "quarter_number": 89,
+        "name_ar": "الرُّبْع التَّاسِعُ وَالثَّمَانُون",
+        "name_en": "Quarter Eighty Nine",
+        "surahs": [
+            {
+                "surah_number": 11,
+                "verse_mapping": "6:23",
+                "surah_name_ar": "هُود",
+                "surah_name_en": "Hud",
+                "nameTranslationEnglish": "Hud"
+            }
+        ]
+    },
+    {
+        "id": 90,
+        "verses_count": 17,
+        "quarter_number": 90,
+        "name_ar": "الرُّبْع التِّسْعُون",
+        "name_en": "Quarter Ninetieth",
+        "surahs": [
+            {
+                "surah_number": 11,
+                "verse_mapping": "24:40",
+                "surah_name_ar": "هُود",
+                "surah_name_en": "Hud",
+                "nameTranslationEnglish": "Hud"
+            }
+        ]
+    },
+    {
+        "id": 91,
+        "verses_count": 18,
+        "quarter_number": 91,
+        "name_ar": "الرُّبْع الْحَادِي وَالتِّسْعُون",
+        "name_en": "Quarter Ninety First",
+        "surahs": [
+            {
+                "surah_number": 11,
+                "verse_mapping": "41:60",
+                "surah_name_ar": "هُود",
+                "surah_name_en": "Hud",
+                "nameTranslationEnglish": "Hud"
+            }
+        ]
+    },
+    {
+        "id": 92,
+        "verses_count": 23,
+        "quarter_number": 92,
+        "name_ar": "الرُّبْع الثَّانِي وَالتِّسْعُون",
+        "name_en": "Quarter Ninety Second",
+        "surahs": [
+            {
+                "surah_number": 11,
+                "verse_mapping": "61:83",
+                "surah_name_ar": "هُود",
+                "surah_name_en": "Hud",
+                "nameTranslationEnglish": "Hud"
+            }
+        ]
+    },
+    {
+        "id": 93,
+        "verses_count": 24,
+        "quarter_number": 93,
+        "name_ar": "الرُّبْع الثَّالِثُ وَالتِّسْعُون",
+        "name_en": "Quarter Ninety Third",
+        "surahs": [
+            {
+                "surah_number": 11,
+                "verse_mapping": "84:107",
+                "surah_name_ar": "هُود",
+                "surah_name_en": "Hud",
+                "nameTranslationEnglish": "Hud"
+            }
+        ]
+    },
+    {
+        "id": 94,
+        "verses_count": 22,
+        "quarter_number": 94,
+        "name_ar": "الرُّبْع الرَّابِعُ وَالتِّسْعُون",
+        "name_en": "Quarter Ninety Four",
+        "surahs": [
+            {
+                "surah_number": 11,
+                "verse_mapping": "108:123",
+                "surah_name_ar": "هُود",
+                "surah_name_en": "Hud",
+                "nameTranslationEnglish": "Hud"
+            },
+            {
+                "surah_number": 12,
+                "verse_mapping": "1:6",
+                "surah_name_ar": "يُوسُف",
+                "surah_name_en": "Yusuf",
+                "nameTranslationEnglish": "Joseph"
+            }
+        ]
+    },
+    {
+        "id": 95,
+        "verses_count": 23,
+        "quarter_number": 95,
+        "name_ar": "الرُّبْع الْخَامِسُ وَالتِّسْعُون",
+        "name_en": "Quarter Ninety Fifth",
+        "surahs": [
+            {
+                "surah_number": 12,
+                "verse_mapping": "7:29",
+                "surah_name_ar": "يُوسُف",
+                "surah_name_en": "Yusuf",
+                "nameTranslationEnglish": "Joseph"
+            }
+        ]
+    },
+    {
+        "id": 96,
+        "verses_count": 23,
+        "quarter_number": 96,
+        "name_ar": "الرُّبْع السَّادِسُ وَالتِّسْعُون",
+        "name_en": "Quarter Ninety Sixth",
+        "surahs": [
+            {
+                "surah_number": 12,
+                "verse_mapping": "30:52",
+                "surah_name_ar": "يُوسُف",
+                "surah_name_en": "Yusuf",
+                "nameTranslationEnglish": "Joseph"
+            }
+        ]
+    },
+    {
+        "id": 97,
+        "verses_count": 24,
+        "quarter_number": 97,
+        "name_ar": "الرُّبْع السَّابِعُ وَالتِّسْعُون",
+        "name_en": "Quarter Ninety Seven",
+        "surahs": [
+            {
+                "surah_number": 12,
+                "verse_mapping": "53:76",
+                "surah_name_ar": "يُوسُف",
+                "surah_name_en": "Yusuf",
+                "nameTranslationEnglish": "Joseph"
+            }
+        ]
+    },
+    {
+        "id": 98,
+        "verses_count": 24,
+        "quarter_number": 98,
+        "name_ar": "الرُّبْع الثَّامِنُ وَالتِّسْعُون",
+        "name_en": "Quarter Ninety Eight",
+        "surahs": [
+            {
+                "surah_number": 12,
+                "verse_mapping": "77:100",
+                "surah_name_ar": "يُوسُف",
+                "surah_name_en": "Yusuf",
+                "nameTranslationEnglish": "Joseph"
+            }
+        ]
+    },
+    {
+        "id": 99,
+        "verses_count": 15,
+        "quarter_number": 99,
+        "name_ar": "الرُّبْع التَّاسِعُ وَالتِّسْعُون",
+        "name_en": "Quarter Ninety Nine",
+        "surahs": [
+            {
+                "surah_number": 12,
+                "verse_mapping": "101:111",
+                "surah_name_ar": "يُوسُف",
+                "surah_name_en": "Yusuf",
+                "nameTranslationEnglish": "Joseph"
+            },
+            {
+                "surah_number": 13,
+                "verse_mapping": "1:4",
+                "surah_name_ar": "الرَّعْد",
+                "surah_name_en": "Ar-Ra'd",
+                "nameTranslationEnglish": "The Thunder"
+            }
+        ]
+    },
+    {
+        "id": 100,
+        "verses_count": 14,
+        "quarter_number": 100,
+        "name_ar": "الرُّبْع الْمِائَة",
+        "name_en": "Hundredth Quarter",
+        "surahs": [
+            {
+                "surah_number": 13,
+                "verse_mapping": "5:18",
+                "surah_name_ar": "الرَّعْد",
+                "surah_name_en": "Ar-Ra'd",
+                "nameTranslationEnglish": "The Thunder"
+            }
+        ]
+    },
+    {
+        "id": 101,
+        "verses_count": 16,
+        "quarter_number": 101,
+        "name_ar": "الرُّبْع الْمِائَة وَاحِد",
+        "name_en": "One Hundredth And One Quarter",
+        "surahs": [
+            {
+                "surah_number": 13,
+                "verse_mapping": "19:34",
+                "surah_name_ar": "الرَّعْد",
+                "surah_name_en": "Ar-Ra'd",
+                "nameTranslationEnglish": "The Thunder"
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "verses_count": 18,
+        "quarter_number": 102,
+        "name_ar": "الرُّبْع الْمِائَة وَاثْنَان",
+        "name_en": "One Hundredth And Tow Quarters",
+        "surahs": [
+            {
+                "surah_number": 13,
+                "verse_mapping": "35:43",
+                "surah_name_ar": "الرَّعْد",
+                "surah_name_en": "Ar-Ra'd",
+                "nameTranslationEnglish": "The Thunder"
+            },
+            {
+                "surah_number": 14,
+                "verse_mapping": "1:9",
+                "surah_name_ar": "إبراهِيم",
+                "surah_name_en": "Ibrahim",
+                "nameTranslationEnglish": "Abraham"
+            }
+        ]
+    },
+    {
+        "id": 103,
+        "verses_count": 18,
+        "quarter_number": 103,
+        "name_ar": "الرُّبْع الْمِائَة وَثَلَاثَة",
+        "name_en": "One Hundredth And Three Quarters",
+        "surahs": [
+            {
+                "surah_number": 14,
+                "verse_mapping": "10:27",
+                "surah_name_ar": "إبراهِيم",
+                "surah_name_en": "Ibrahim",
+                "nameTranslationEnglish": "Abraham"
+            }
+        ]
+    },
+    {
+        "id": 104,
+        "verses_count": 25,
+        "quarter_number": 104,
+        "name_ar": "الرُّبْع الْمِائَة وَأَرْبَعَةٌ",
+        "name_en": "One Hundredth And Four Quarters",
+        "surahs": [
+            {
+                "surah_number": 14,
+                "verse_mapping": "28:52",
+                "surah_name_ar": "إبراهِيم",
+                "surah_name_en": "Ibrahim",
+                "nameTranslationEnglish": "Abraham"
+            }
+        ]
+    },
+    {
+        "id": 105,
+        "verses_count": 48,
+        "quarter_number": 105,
+        "name_ar": "الرُّبْع الْمِائَة وَخَمْسَة",
+        "name_en": "One hundred and five Quarters",
+        "surahs": [
+            {
+                "surah_number": 15,
+                "verse_mapping": "1:48",
+                "surah_name_ar": "الحِجْر",
+                "surah_name_en": "Al-Hijr",
+                "nameTranslationEnglish": "The Rock"
+            }
+        ]
+    },
+    {
+        "id": 106,
+        "verses_count": 51,
+        "quarter_number": 106,
+        "name_ar": "الرُّبْع الْمِائَة وَسِتَّةٌ",
+        "name_en": "One hundred and six Quarters",
+        "surahs": [
+            {
+                "surah_number": 15,
+                "verse_mapping": "49:99",
+                "surah_name_ar": "الحِجْر",
+                "surah_name_en": "Al-Hijr",
+                "nameTranslationEnglish": "The Rock"
+            }
+        ]
+    },
+    {
+        "id": 107,
+        "verses_count": 29,
+        "quarter_number": 107,
+        "name_ar": "الرُّبْع الْمِائَة وَسَبْعَة",
+        "name_en": "One hundred and seven Quarters",
+        "surahs": [
+            {
+                "surah_number": 16,
+                "verse_mapping": "1:29",
+                "surah_name_ar": "النَّحْل",
+                "surah_name_en": "An-Nahl",
+                "nameTranslationEnglish": "The Bee"
+            }
+        ]
+    },
+    {
+        "id": 108,
+        "verses_count": 21,
+        "quarter_number": 108,
+        "name_ar": "الرُّبْع الْمِائَة وَثَمَانِيَةٌ",
+        "name_en": "One hundred and eight Quarters",
+        "surahs": [
+            {
+                "surah_number": 16,
+                "verse_mapping": "30:50",
+                "surah_name_ar": "النَّحْل",
+                "surah_name_en": "An-Nahl",
+                "nameTranslationEnglish": "The Bee"
+            }
+        ]
+    },
+    {
+        "id": 109,
+        "verses_count": 24,
+        "quarter_number": 109,
+        "name_ar": "الرُّبْع الْمِائَة وَتِسْعَة",
+        "name_en": "One hundred and nine Quarters",
+        "surahs": [
+            {
+                "surah_number": 16,
+                "verse_mapping": "51:74",
+                "surah_name_ar": "النَّحْل",
+                "surah_name_en": "An-Nahl",
+                "nameTranslationEnglish": "The Bee"
+            }
+        ]
+    },
+    {
+        "id": 110,
+        "verses_count": 15,
+        "quarter_number": 110,
+        "name_ar": "الرُّبْع الْمِائَة وَعَشَرَة",
+        "name_en": "One hundred and ten Quarters",
+        "surahs": [
+            {
+                "surah_number": 16,
+                "verse_mapping": "75:89",
+                "surah_name_ar": "النَّحْل",
+                "surah_name_en": "An-Nahl",
+                "nameTranslationEnglish": "The Bee"
+            }
+        ]
+    },
+    {
+        "id": 111,
+        "verses_count": 21,
+        "quarter_number": 111,
+        "name_ar": "الرُّبْع الْمِائَة وَالْحَادِيَ عَشَرَ",
+        "name_en": "One Hundredth And eleven Quarter",
+        "surahs": [
+            {
+                "surah_number": 16,
+                "verse_mapping": "90:110",
+                "surah_name_ar": "النَّحْل",
+                "surah_name_en": "An-Nahl",
+                "nameTranslationEnglish": "The Bee"
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "verses_count": 18,
+        "quarter_number": 112,
+        "name_ar": "الرُّبْع الْمِائَة والثَّانِي عَشَرَ",
+        "name_en": "One Hundredth And twelve Quarters",
+        "surahs": [
+            {
+                "surah_number": 16,
+                "verse_mapping": "111:128",
+                "surah_name_ar": "النَّحْل",
+                "surah_name_en": "An-Nahl",
+                "nameTranslationEnglish": "The Bee"
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "verses_count": 22,
+        "quarter_number": 113,
+        "name_ar": "الرُّبْع الْمِائَة والثَّالِثِ عَشَرَ",
+        "name_en": "One Hundredth And thirteen Quarters",
+        "surahs": [
+            {
+                "surah_number": 17,
+                "verse_mapping": "1:22",
+                "surah_name_ar": "الإسْرَاء",
+                "surah_name_en": "Al-Israa",
+                "nameTranslationEnglish": "The Night Journey"
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "verses_count": 27,
+        "quarter_number": 114,
+        "name_ar": "الرُّبْع الْمِائَة والرَّابِع عَشَرَ",
+        "name_en": "One Hundredth And fourteenth Quarters",
+        "surahs": [
+            {
+                "surah_number": 17,
+                "verse_mapping": "23:49",
+                "surah_name_ar": "الإسْرَاء",
+                "surah_name_en": "Al-Israa",
+                "nameTranslationEnglish": "The Night Journey"
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "verses_count": 20,
+        "quarter_number": 115,
+        "name_ar": "الرُّبْع الْمِائَة والْخَامِس عَشَرَ",
+        "name_en": "One hundred and fifteenth Quarters",
+        "surahs": [
+            {
+                "surah_number": 17,
+                "verse_mapping": "50:69",
+                "surah_name_ar": "الإسْرَاء",
+                "surah_name_en": "Al-Israa",
+                "nameTranslationEnglish": "The Night Journey"
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "verses_count": 29,
+        "quarter_number": 116,
+        "name_ar": "الرُّبْع الْمِائَة والسَّادِس عَشَرَ",
+        "name_en": "One hundred and sixteenth Quarters",
+        "surahs": [
+            {
+                "surah_number": 17,
+                "verse_mapping": "70:98",
+                "surah_name_ar": "الإسْرَاء",
+                "surah_name_en": "Al-Israa",
+                "nameTranslationEnglish": "The Night Journey"
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "verses_count": 29,
+        "quarter_number": 117,
+        "name_ar": "الرُّبْع الْمِائَة والسَّابِع عَشَرَ",
+        "name_en": "One hundred and seventeenth Quarters",
+        "surahs": [
+            {
+                "surah_number": 17,
+                "verse_mapping": "99:111",
+                "surah_name_ar": "الإسْرَاء",
+                "surah_name_en": "Al-Israa",
+                "nameTranslationEnglish": "The Night Journey"
+            },
+            {
+                "surah_number": 18,
+                "verse_mapping": "1:16",
+                "surah_name_ar": "الكهْف",
+                "surah_name_en": "Al-Kahf",
+                "nameTranslationEnglish": "The Cave"
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "verses_count": 15,
+        "quarter_number": 118,
+        "name_ar": "الرُّبْع الْمِائَة والثَّامِن عَشَرَ",
+        "name_en": "One hundred and eighteenth Quarters",
+        "surahs": [
+            {
+                "surah_number": 18,
+                "verse_mapping": "17:31",
+                "surah_name_ar": "الكهْف",
+                "surah_name_en": "Al-Kahf",
+                "nameTranslationEnglish": "The Cave"
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "verses_count": 19,
+        "quarter_number": 119,
+        "name_ar": "الرُّبْع الْمِائَة والتَّاسِع عَشَرَ",
+        "name_en": "One hundred and nineteenth Quarters",
+        "surahs": [
+            {
+                "surah_number": 18,
+                "verse_mapping": "32:50",
+                "surah_name_ar": "الكهْف",
+                "surah_name_en": "Al-Kahf",
+                "nameTranslationEnglish": "The Cave"
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "verses_count": 24,
+        "quarter_number": 120,
+        "name_ar": "الرُّبْع الْمِائَة وَالْعِشْرُون",
+        "name_en": "One hundred and twenty Quarters",
+        "surahs": [
+            {
+                "surah_number": 18,
+                "verse_mapping": "51:74",
+                "surah_name_ar": "الكهْف",
+                "surah_name_en": "Al-Kahf",
+                "nameTranslationEnglish": "The Cave"
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "verses_count": 24,
+        "quarter_number": 121,
+        "name_ar": "الرُّبْع الْمِائَة وَالْحَادِيَ وَالْعِشْرُون",
+        "name_en": "One Hundredth And twenty-first Quarter",
+        "surahs": [
+            {
+                "surah_number": 18,
+                "verse_mapping": "75:98",
+                "surah_name_ar": "الكهْف",
+                "surah_name_en": "Al-Kahf",
+                "nameTranslationEnglish": "The Cave"
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "verses_count": 33,
+        "quarter_number": 122,
+        "name_ar": "الرُّبْع الْمِائَة والثَّانِي وَالْعِشْرُون",
+        "name_en": "One Hundredth And twenty-second Quarters",
+        "surahs": [
+            {
+                "surah_number": 18,
+                "verse_mapping": "99:110",
+                "surah_name_ar": "الكهْف",
+                "surah_name_en": "Al-Kahf",
+                "nameTranslationEnglish": "The Cave"
+            },
+            {
+                "surah_number": 19,
+                "verse_mapping": "1:21",
+                "surah_name_ar": "مَريَم",
+                "surah_name_en": "Maryam",
+                "nameTranslationEnglish": "Maryam"
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "verses_count": 37,
+        "quarter_number": 123,
+        "name_ar": "الرُّبْع الْمِائَة والثَّالِثِ وَالْعِشْرُون",
+        "name_en": "One Hundredth And twenty-third Quarters",
+        "surahs": [
+            {
+                "surah_number": 19,
+                "verse_mapping": "22:58",
+                "surah_name_ar": "مَريَم",
+                "surah_name_en": "Maryam",
+                "nameTranslationEnglish": "Maryam"
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "verses_count": 40,
+        "quarter_number": 124,
+        "name_ar": "الرُّبْع الْمِائَة والرَّابِع وَالْعِشْرُون",
+        "name_en": "One Hundredth And twenty-fourth Quarters",
+        "surahs": [
+            {
+                "surah_number": 19,
+                "verse_mapping": "59:98",
+                "surah_name_ar": "مَريَم",
+                "surah_name_en": "Maryam",
+                "nameTranslationEnglish": "Maryam"
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "verses_count": 54,
+        "quarter_number": 125,
+        "name_ar": "الرُّبْع الْمِائَة والْخَامِس وَالْعِشْرُون",
+        "name_en": "One hundred and twenty-fifth Quarters",
+        "surahs": [
+            {
+                "surah_number": 20,
+                "verse_mapping": "1:54",
+                "surah_name_ar": "طه",
+                "surah_name_en": "Taa-Haa",
+                "nameTranslationEnglish": "Taa-Haa"
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "verses_count": 28,
+        "quarter_number": 126,
+        "name_ar": "الرُّبْع الْمِائَة والسَّادِس وَالْعِشْرُون",
+        "name_en": "One hundred and twenty-sixth Quarters",
+        "surahs": [
+            {
+                "surah_number": 20,
+                "verse_mapping": "55:82",
+                "surah_name_ar": "طه",
+                "surah_name_en": "Taa-Haa",
+                "nameTranslationEnglish": "Taa-Haa"
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "verses_count": 28,
+        "quarter_number": 127,
+        "name_ar": "الرُّبْع الْمِائَة والسَّابِع وَالْعِشْرُون",
+        "name_en": "One hundred and twenty-seventh Quarters",
+        "surahs": [
+            {
+                "surah_number": 20,
+                "verse_mapping": "83:110",
+                "surah_name_ar": "طه",
+                "surah_name_en": "Taa-Haa",
+                "nameTranslationEnglish": "Taa-Haa"
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "verses_count": 25,
+        "quarter_number": 128,
+        "name_ar": "الرُّبْع الْمِائَة والثَّامِن وَالْعِشْرُون",
+        "name_en": "One hundred and twenty-eighth Quarters",
+        "surahs": [
+            {
+                "surah_number": 20,
+                "verse_mapping": "111:135",
+                "surah_name_ar": "طه",
+                "surah_name_en": "Taa-Haa",
+                "nameTranslationEnglish": "Taa-Haa"
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "verses_count": 28,
+        "quarter_number": 129,
+        "name_ar": "الرُّبْع الْمِائَة والتَّاسِع وَالْعِشْرُون",
+        "name_en": "One hundred and twenty-ninth Quarters",
+        "surahs": [
+            {
+                "surah_number": 21,
+                "verse_mapping": "1:28",
+                "surah_name_ar": "الأنبيَاء",
+                "surah_name_en": "Al-Anbiyaa",
+                "nameTranslationEnglish": "The Prophets"
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "verses_count": 22,
+        "quarter_number": 130,
+        "name_ar": "الرُّبْع الْمِائَة وَالثَّلَاثُون",
+        "name_en": "One hundred and thirty Quarters",
+        "surahs": [
+            {
+                "surah_number": 21,
+                "verse_mapping": "29:50",
+                "surah_name_ar": "الأنبيَاء",
+                "surah_name_en": "Al-Anbiyaa",
+                "nameTranslationEnglish": "The Prophets"
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "verses_count": 32,
+        "quarter_number": 131,
+        "name_ar": "الرُّبْع الْمِائَة وَالْحَادِيَ وَالثَّلَاثُون",
+        "name_en": "One Hundredth And thirty-first Quarter",
+        "surahs": [
+            {
+                "surah_number": 21,
+                "verse_mapping": "51:82",
+                "surah_name_ar": "الأنبيَاء",
+                "surah_name_en": "Al-Anbiyaa",
+                "nameTranslationEnglish": "The Prophets"
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "verses_count": 30,
+        "quarter_number": 132,
+        "name_ar": "الرُّبْع الْمِائَة والثَّانِي وَالثَّلَاثُون",
+        "name_en": "One Hundredth And thirty-second Quarters",
+        "surahs": [
+            {
+                "surah_number": 21,
+                "verse_mapping": "83:112",
+                "surah_name_ar": "الأنبيَاء",
+                "surah_name_en": "Al-Anbiyaa",
+                "nameTranslationEnglish": "The Prophets"
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "verses_count": 18,
+        "quarter_number": 133,
+        "name_ar": "الرُّبْع الْمِائَة والثَّالِثِ وَالثَّلَاثُون",
+        "name_en": "One Hundredth And thirty-third Quarters",
+        "surahs": [
+            {
+                "surah_number": 22,
+                "verse_mapping": "1:18",
+                "surah_name_ar": "الحَج",
+                "surah_name_en": "Al-Hajj",
+                "nameTranslationEnglish": "The Pilgrimage"
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "verses_count": 19,
+        "quarter_number": 134,
+        "name_ar": "الرُّبْع الْمِائَة والرَّابِع وَالثَّلَاثُون",
+        "name_en": "One Hundredth And thirty-fourth Quarters",
+        "surahs": [
+            {
+                "surah_number": 22,
+                "verse_mapping": "19:37",
+                "surah_name_ar": "الحَج",
+                "surah_name_en": "Al-Hajj",
+                "nameTranslationEnglish": "The Pilgrimage"
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "verses_count": 22,
+        "quarter_number": 135,
+        "name_ar": "الرُّبْع الْمِائَة والْخَامِس وَالثَّلَاثُون",
+        "name_en": "One hundred and thirty-fifth Quarters",
+        "surahs": [
+            {
+                "surah_number": 22,
+                "verse_mapping": "38:59",
+                "surah_name_ar": "الحَج",
+                "surah_name_en": "Al-Hajj",
+                "nameTranslationEnglish": "The Pilgrimage"
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "verses_count": 19,
+        "quarter_number": 136,
+        "name_ar": "الرُّبْع الْمِائَة والسَّادِس وَالثَّلَاثُون",
+        "name_en": "One hundred and thirty-sixth Quarters",
+        "surahs": [
+            {
+                "surah_number": 22,
+                "verse_mapping": "60:78",
+                "surah_name_ar": "الحَج",
+                "surah_name_en": "Al-Hajj",
+                "nameTranslationEnglish": "The Pilgrimage"
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "verses_count": 35,
+        "quarter_number": 137,
+        "name_ar": "الرُّبْع الْمِائَة والسَّابِع وَالثَّلَاثُون",
+        "name_en": "One hundred and thirty-seventh Quarters",
+        "surahs": [
+            {
+                "surah_number": 23,
+                "verse_mapping": "1:35",
+                "surah_name_ar": "المُؤمنون",
+                "surah_name_en": "Al-Muminoon",
+                "nameTranslationEnglish": "The Believers"
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "verses_count": 39,
+        "quarter_number": 138,
+        "name_ar": "الرُّبْع الْمِائَة والثَّامِن وَالثَّلَاثُون",
+        "name_en": "One hundred and thirty-eighth Quarters",
+        "surahs": [
+            {
+                "surah_number": 23,
+                "verse_mapping": "36:74",
+                "surah_name_ar": "المُؤمنون",
+                "surah_name_en": "Al-Muminoon",
+                "nameTranslationEnglish": "The Believers"
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "verses_count": 44,
+        "quarter_number": 139,
+        "name_ar": "الرُّبْع الْمِائَة والتَّاسِع وَالثَّلَاثُون",
+        "name_en": "One hundred and thirty-ninth Quarters",
+        "surahs": [
+            {
+                "surah_number": 23,
+                "verse_mapping": "75:118",
+                "surah_name_ar": "المُؤمنون",
+                "surah_name_en": "Al-Muminoon",
+                "nameTranslationEnglish": "The Believers"
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "verses_count": 20,
+        "quarter_number": 140,
+        "name_ar": "الرُّبْع الْمِائَة وَالْأَرْبَعُون",
+        "name_en": "One hundred and forty Quarters",
+        "surahs": [
+            {
+                "surah_number": 24,
+                "verse_mapping": "1:20",
+                "surah_name_ar": "النُّور",
+                "surah_name_en": "An-Noor",
+                "nameTranslationEnglish": "The Light"
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "verses_count": 34,
+        "quarter_number": 141,
+        "name_ar": "الرُّبْع الْمِائَة وَالْحَادِيَ وَالْأَرْبَعُون",
+        "name_en": "One Hundredth And forty-first Quarter",
+        "surahs": [
+            {
+                "surah_number": 24,
+                "verse_mapping": "21:34",
+                "surah_name_ar": "النُّور",
+                "surah_name_en": "An-Noor",
+                "nameTranslationEnglish": "The Light"
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "verses_count": 18,
+        "quarter_number": 142,
+        "name_ar": "الرُّبْع الْمِائَة والثَّانِي وَالْأَرْبَعُون",
+        "name_en": "One Hundredth And forty-second Quarters",
+        "surahs": [
+            {
+                "surah_number": 24,
+                "verse_mapping": "35:52",
+                "surah_name_ar": "النُّور",
+                "surah_name_en": "An-Noor",
+                "nameTranslationEnglish": "The Light"
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "verses_count": 12,
+        "quarter_number": 143,
+        "name_ar": "الرُّبْع الْمِائَة والثَّالِثِ وَالْأَرْبَعُون",
+        "name_en": "One Hundredth And forty-third Quarters",
+        "surahs": [
+            {
+                "surah_number": 24,
+                "verse_mapping": "53:64",
+                "surah_name_ar": "النُّور",
+                "surah_name_en": "An-Noor",
+                "nameTranslationEnglish": "The Light"
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "verses_count": 20,
+        "quarter_number": 144,
+        "name_ar": "الرُّبْع الْمِائَة والرَّابِع وَالْأَرْبَعُون",
+        "name_en": "One Hundredth And forty-fourth Quarters",
+        "surahs": [
+            {
+                "surah_number": 25,
+                "verse_mapping": "1:20",
+                "surah_name_ar": "الفُرْقان",
+                "surah_name_en": "Al-Furqaan",
+                "nameTranslationEnglish": "The Criterion"
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "verses_count": 32,
+        "quarter_number": 145,
+        "name_ar": "الرُّبْع الْمِائَة والْخَامِس وَالْأَرْبَعُون",
+        "name_en": "One hundred and forty-fifth Quarters",
+        "surahs": [
+            {
+                "surah_number": 25,
+                "verse_mapping": "21:52",
+                "surah_name_ar": "الفُرْقان",
+                "surah_name_en": "Al-Furqaan",
+                "nameTranslationEnglish": "The Criterion"
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "verses_count": 25,
+        "quarter_number": 146,
+        "name_ar": "الرُّبْع الْمِائَة والسَّادِس وَالْأَرْبَعُون",
+        "name_en": "One hundred and forty-sixth Quarters",
+        "surahs": [
+            {
+                "surah_number": 25,
+                "verse_mapping": "53:77",
+                "surah_name_ar": "الفُرْقان",
+                "surah_name_en": "Al-Furqaan",
+                "nameTranslationEnglish": "The Criterion"
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "verses_count": 51,
+        "quarter_number": 147,
+        "name_ar": "الرُّبْع الْمِائَة والسَّابِع وَالْأَرْبَعُون",
+        "name_en": "One hundred and forty-seventh Quarters",
+        "surahs": [
+            {
+                "surah_number": 26,
+                "verse_mapping": "1:51",
+                "surah_name_ar": "الشُّعَرَاء",
+                "surah_name_en": "Ash-Shu'araa",
+                "nameTranslationEnglish": "The Poets"
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "verses_count": 59,
+        "quarter_number": 148,
+        "name_ar": "الرُّبْع الْمِائَة والثَّامِن وَالْأَرْبَعُون",
+        "name_en": "One hundred and forty-eighth Quarters",
+        "surahs": [
+            {
+                "surah_number": 26,
+                "verse_mapping": "52:110",
+                "surah_name_ar": "الشُّعَرَاء",
+                "surah_name_en": "Ash-Shu'araa",
+                "nameTranslationEnglish": "The Poets"
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "verses_count": 70,
+        "quarter_number": 149,
+        "name_ar": "الرُّبْع الْمِائَة والتَّاسِع وَالْأَرْبَعُون",
+        "name_en": "One hundred and forty-ninth Quarters",
+        "surahs": [
+            {
+                "surah_number": 26,
+                "verse_mapping": "111:180",
+                "surah_name_ar": "الشُّعَرَاء",
+                "surah_name_en": "Ash-Shu'araa",
+                "nameTranslationEnglish": "The Poets"
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "verses_count": 47,
+        "quarter_number": 150,
+        "name_ar": "الرُّبْع الْمِائَة وَالْخَمْسُون",
+        "name_en": "One hundred and fifty Quarters",
+        "surahs": [
+            {
+                "surah_number": 26,
+                "verse_mapping": "181:227",
+                "surah_name_ar": "الشُّعَرَاء",
+                "surah_name_en": "Ash-Shu'araa",
+                "nameTranslationEnglish": "The Poets"
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "verses_count": 26,
+        "quarter_number": 151,
+        "name_ar": "الرُّبْع الْمِائَة وَالْحَادِيَ وَالْخَمْسُون",
+        "name_en": "One Hundredth And fifty-first Quarter",
+        "surahs": [
+            {
+                "surah_number": 27,
+                "verse_mapping": "1:26",
+                "surah_name_ar": "النَّمْل",
+                "surah_name_en": "An-Naml",
+                "nameTranslationEnglish": "The Ant"
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "verses_count": 29,
+        "quarter_number": 152,
+        "name_ar": "الرُّبْع الْمِائَة والثَّانِي وَالْخَمْسُون",
+        "name_en": "One Hundredth And fifty-second Quarters",
+        "surahs": [
+            {
+                "surah_number": 27,
+                "verse_mapping": "27:55",
+                "surah_name_ar": "النَّمْل",
+                "surah_name_en": "An-Naml",
+                "nameTranslationEnglish": "The Ant"
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "verses_count": 26,
+        "quarter_number": 153,
+        "name_ar": "الرُّبْع الْمِائَة والثَّالِثِ وَالْخَمْسُون",
+        "name_en": "One Hundredth And fifty-third Quarters",
+        "surahs": [
+            {
+                "surah_number": 27,
+                "verse_mapping": "56:81",
+                "surah_name_ar": "النَّمْل",
+                "surah_name_en": "An-Naml",
+                "nameTranslationEnglish": "The Ant"
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "verses_count": 23,
+        "quarter_number": 154,
+        "name_ar": "الرُّبْع الْمِائَة والرَّابِع وَالْخَمْسُون",
+        "name_en": "One Hundredth And fifty-fourth Quarters",
+        "surahs": [
+            {
+                "surah_number": 27,
+                "verse_mapping": "82:93",
+                "surah_name_ar": "النَّمْل",
+                "surah_name_en": "An-Naml",
+                "nameTranslationEnglish": "The Ant"
+            },
+            {
+                "surah_number": 28,
+                "verse_mapping": "1:11",
+                "surah_name_ar": "القَصَص",
+                "surah_name_en": "Al-Qasas",
+                "nameTranslationEnglish": "The Stories"
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "verses_count": 17,
+        "quarter_number": 155,
+        "name_ar": "الرُّبْع الْمِائَة والْخَامِس وَالْخَمْسُون",
+        "name_en": "One hundred and fifty-fifth Quarters",
+        "surahs": [
+            {
+                "surah_number": 28,
+                "verse_mapping": "12:28",
+                "surah_name_ar": "القَصَص",
+                "surah_name_en": "Al-Qasas",
+                "nameTranslationEnglish": "The Stories"
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "verses_count": 22,
+        "quarter_number": 156,
+        "name_ar": "الرُّبْع الْمِائَة والسَّادِس وَالْخَمْسُون",
+        "name_en": "One hundred and fifty-sixth Quarters",
+        "surahs": [
+            {
+                "surah_number": 28,
+                "verse_mapping": "29:50",
+                "surah_name_ar": "القَصَص",
+                "surah_name_en": "Al-Qasas",
+                "nameTranslationEnglish": "The Stories"
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "verses_count": 25,
+        "quarter_number": 157,
+        "name_ar": "الرُّبْع الْمِائَة والسَّابِع وَالْخَمْسُون",
+        "name_en": "One hundred and fifty-seventh Quarters",
+        "surahs": [
+            {
+                "surah_number": 28,
+                "verse_mapping": "51:75",
+                "surah_name_ar": "القَصَص",
+                "surah_name_en": "Al-Qasas",
+                "nameTranslationEnglish": "The Stories"
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "verses_count": 13,
+        "quarter_number": 158,
+        "name_ar": "الرُّبْع الْمِائَة والثَّامِن وَالْخَمْسُون",
+        "name_en": "One hundred and fifty-eighth Quarters",
+        "surahs": [
+            {
+                "surah_number": 28,
+                "verse_mapping": "76:88",
+                "surah_name_ar": "القَصَص",
+                "surah_name_en": "Al-Qasas",
+                "nameTranslationEnglish": "The Stories"
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "verses_count": 25,
+        "quarter_number": 159,
+        "name_ar": "الرُّبْع الْمِائَة والتَّاسِع وَالْخَمْسُون",
+        "name_en": "One hundred and fifty-ninth Quarters",
+        "surahs": [
+            {
+                "surah_number": 29,
+                "verse_mapping": "1:25",
+                "surah_name_ar": "العَنكبوت",
+                "surah_name_en": "Al-Ankaboot",
+                "nameTranslationEnglish": "The Spider"
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "verses_count": 20,
+        "quarter_number": 160,
+        "name_ar": "الرُّبْع الْمِائَة وَالسِّتُّون",
+        "name_en": "One hundred and sixty Quarters",
+        "surahs": [
+            {
+                "surah_number": 29,
+                "verse_mapping": "26:45",
+                "surah_name_ar": "العَنكبوت",
+                "surah_name_en": "Al-Ankaboot",
+                "nameTranslationEnglish": "The Spider"
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "verses_count": 24,
+        "quarter_number": 161,
+        "name_ar": "الرُّبْع الْمِائَة وَالْحَادِيَ وَالسِّتُّون",
+        "name_en": "One Hundredth And sixty-first Quarter",
+        "surahs": [
+            {
+                "surah_number": 29,
+                "verse_mapping": "46:69",
+                "surah_name_ar": "العَنكبوت",
+                "surah_name_en": "Al-Ankaboot",
+                "nameTranslationEnglish": "The Spider"
+            }
+        ]
+    },
+    {
+        "id": 162,
+        "verses_count": 30,
+        "quarter_number": 162,
+        "name_ar": "الرُّبْع الْمِائَة والثَّانِي وَالسِّتُّون",
+        "name_en": "One Hundredth And sixty-second Quarters",
+        "surahs": [
+            {
+                "surah_number": 30,
+                "verse_mapping": "1:30",
+                "surah_name_ar": "الرُّوم",
+                "surah_name_en": "Ar-Room",
+                "nameTranslationEnglish": "The Romans"
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "verses_count": 23,
+        "quarter_number": 163,
+        "name_ar": "الرُّبْع الْمِائَة والثَّالِثِ وَالسِّتُّون",
+        "name_en": "One Hundredth And sixty-third Quarters",
+        "surahs": [
+            {
+                "surah_number": 30,
+                "verse_mapping": "31:53",
+                "surah_name_ar": "الرُّوم",
+                "surah_name_en": "Ar-Room",
+                "nameTranslationEnglish": "The Romans"
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "verses_count": 28,
+        "quarter_number": 164,
+        "name_ar": "الرُّبْع الْمِائَة والرَّابِع وَالسِّتُّون",
+        "name_en": "One Hundredth And sixty-fourth Quarters",
+        "surahs": [
+            {
+                "surah_number": 30,
+                "verse_mapping": "54:60",
+                "surah_name_ar": "الرُّوم",
+                "surah_name_en": "Ar-Room",
+                "nameTranslationEnglish": "The Romans"
+            },
+            {
+                "surah_number": 31,
+                "verse_mapping": "1:21",
+                "surah_name_ar": "لقمَان",
+                "surah_name_en": "Luqman",
+                "nameTranslationEnglish": "Luqman"
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "verses_count": 23,
+        "quarter_number": 165,
+        "name_ar": "الرُّبْع الْمِائَة والْخَامِس وَالسِّتُّون",
+        "name_en": "One hundred and sixty-fifth Quarters",
+        "surahs": [
+            {
+                "surah_number": 31,
+                "verse_mapping": "22:34",
+                "surah_name_ar": "لقمَان",
+                "surah_name_en": "Luqman",
+                "nameTranslationEnglish": "Luqman"
+            },
+            {
+                "surah_number": 32,
+                "verse_mapping": "1:10",
+                "surah_name_ar": "السَّجدَة",
+                "surah_name_en": "As-Sajda",
+                "nameTranslationEnglish": "The Prostration"
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "verses_count": 20,
+        "quarter_number": 166,
+        "name_ar": "الرُّبْع الْمِائَة والسَّادِس وَالسِّتُّون",
+        "name_en": "One hundred and sixty-sixth Quarters",
+        "surahs": [
+            {
+                "surah_number": 32,
+                "verse_mapping": "11:30",
+                "surah_name_ar": "السَّجدَة",
+                "surah_name_en": "As-Sajda",
+                "nameTranslationEnglish": "The Prostration"
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "verses_count": 17,
+        "quarter_number": 167,
+        "name_ar": "الرُّبْع الْمِائَة والسَّابِع وَالسِّتُّون",
+        "name_en": "One hundred and sixty-seventh Quarters",
+        "surahs": [
+            {
+                "surah_number": 33,
+                "verse_mapping": "1:17",
+                "surah_name_ar": "الأحزَاب",
+                "surah_name_en": "Al-Ahzaab",
+                "nameTranslationEnglish": "The Clans"
+            }
+        ]
+    },
+    {
+        "id": 168,
+        "verses_count": 13,
+        "quarter_number": 168,
+        "name_ar": "الرُّبْع الْمِائَة والثَّامِن وَالسِّتُّون",
+        "name_en": "One hundred and sixty-eighth Quarters",
+        "surahs": [
+            {
+                "surah_number": 33,
+                "verse_mapping": "18:30",
+                "surah_name_ar": "الأحزَاب",
+                "surah_name_en": "Al-Ahzaab",
+                "nameTranslationEnglish": "The Clans"
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "verses_count": 20,
+        "quarter_number": 169,
+        "name_ar": "الرُّبْع الْمِائَة والتَّاسِع وَالسِّتُّون",
+        "name_en": "One hundred and sixty-ninth Quarters",
+        "surahs": [
+            {
+                "surah_number": 33,
+                "verse_mapping": "31:50",
+                "surah_name_ar": "الأحزَاب",
+                "surah_name_en": "Al-Ahzaab",
+                "nameTranslationEnglish": "The Clans"
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "verses_count": 9,
+        "quarter_number": 170,
+        "name_ar": "الرُّبْع الْمِائَة وَالسَّبْعُون",
+        "name_en": "One hundred and seventy Quarters",
+        "surahs": [
+            {
+                "surah_number": 33,
+                "verse_mapping": "91:59",
+                "surah_name_ar": "الأحزَاب",
+                "surah_name_en": "Al-Ahzaab",
+                "nameTranslationEnglish": "The Clans"
+            }
+        ]
+    },
+    {
+        "id": 171,
+        "verses_count": 23,
+        "quarter_number": 171,
+        "name_ar": "الرُّبْع الْمِائَة وَالْحَادِيَ وَالسَّبْعُون",
+        "name_en": "One Hundredth And seventy-first Quarter",
+        "surahs": [
+            {
+                "surah_number": 33,
+                "verse_mapping": "60:73",
+                "surah_name_ar": "الأحزَاب",
+                "surah_name_en": "Al-Ahzaab",
+                "nameTranslationEnglish": "The Clans"
+            },
+            {
+                "surah_number": 34,
+                "verse_mapping": "1:9",
+                "surah_name_ar": "سَبَأ",
+                "surah_name_en": "Saba",
+                "nameTranslationEnglish": "Sheba"
+            }
+        ]
+    },
+    {
+        "id": 172,
+        "verses_count": 14,
+        "quarter_number": 172,
+        "name_ar": "الرُّبْع الْمِائَة والثَّانِي وَالسَّبْعُون",
+        "name_en": "One Hundredth And seventy-second Quarters",
+        "surahs": [
+            {
+                "surah_number": 34,
+                "verse_mapping": "10:23",
+                "surah_name_ar": "سَبَأ",
+                "surah_name_en": "Saba",
+                "nameTranslationEnglish": "Sheba"
+            }
+        ]
+    },
+    {
+        "id": 173,
+        "verses_count": 22,
+        "quarter_number": 173,
+        "name_ar": "الرُّبْع الْمِائَة والثَّالِثِ وَالسَّبْعُون",
+        "name_en": "One Hundredth And seventy-third Quarters",
+        "surahs": [
+            {
+                "surah_number": 34,
+                "verse_mapping": "24:45",
+                "surah_name_ar": "سَبَأ",
+                "surah_name_en": "Saba",
+                "nameTranslationEnglish": "Sheba"
+            }
+        ]
+    },
+    {
+        "id": 174,
+        "verses_count": 23,
+        "quarter_number": 174,
+        "name_ar": "الرُّبْع الْمِائَة والرَّابِع وَالسَّبْعُون",
+        "name_en": "One Hundredth And seventy-fourth Quarters",
+        "surahs": [
+            {
+                "surah_number": 34,
+                "verse_mapping": "24:45",
+                "surah_name_ar": "سَبَأ",
+                "surah_name_en": "Saba",
+                "nameTranslationEnglish": "Sheba"
+            },
+            {
+                "surah_number": 35,
+                "verse_mapping": "1:14",
+                "surah_name_ar": "فَاطِر",
+                "surah_name_en": "Faatir",
+                "nameTranslationEnglish": "The Originator"
+            }
+        ]
+    },
+    {
+        "id": 175,
+        "verses_count": 26,
+        "quarter_number": 175,
+        "name_ar": "الرُّبْع الْمِائَة والْخَامِس وَالسَّبْعُون",
+        "name_en": "One hundred and seventy-fifth Quarters",
+        "surahs": [
+            {
+                "surah_number": 35,
+                "verse_mapping": "15:40",
+                "surah_name_ar": "فَاطِر",
+                "surah_name_en": "Faatir",
+                "nameTranslationEnglish": "The Originator"
+            }
+        ]
+    },
+    {
+        "id": 176,
+        "verses_count": 32,
+        "quarter_number": 176,
+        "name_ar": "الرُّبْع الْمِائَة والسَّادِس وَالسَّبْعُون",
+        "name_en": "One hundred and seventy-sixth Quarters",
+        "surahs": [
+            {
+                "surah_number": 35,
+                "verse_mapping": "41:45",
+                "surah_name_ar": "فَاطِر",
+                "surah_name_en": "Faatir",
+                "nameTranslationEnglish": "The Originator"
+            },
+            {
+                "surah_number": 36,
+                "verse_mapping": "1:27",
+                "surah_name_ar": "يس",
+                "surah_name_en": "Yaseen",
+                "nameTranslationEnglish": "Yaseen"
+            }
+        ]
+    },
+    {
+        "id": 177,
+        "verses_count": 32,
+        "quarter_number": 177,
+        "name_ar": "الرُّبْع الْمِائَة والسَّابِع وَالسَّبْعُون",
+        "name_en": "One hundred and seventy-seventh Quarters",
+        "surahs": [
+            {
+                "surah_number": 36,
+                "verse_mapping": "1:59",
+                "surah_name_ar": "يس",
+                "surah_name_en": "Yaseen",
+                "nameTranslationEnglish": "Yaseen"
+            }
+        ]
+    },
+    {
+        "id": 178,
+        "verses_count": 45,
+        "quarter_number": 178,
+        "name_ar": "الرُّبْع الْمِائَة والثَّامِن وَالسَّبْعُون",
+        "name_en": "One hundred and seventy-eighth Quarters",
+        "surahs": [
+            {
+                "surah_number": 36,
+                "verse_mapping": "60:83",
+                "surah_name_ar": "يس",
+                "surah_name_en": "Yaseen",
+                "nameTranslationEnglish": "Yaseen"
+            },
+            {
+                "surah_number": 37,
+                "verse_mapping": "1:21",
+                "surah_name_ar": "الصَّافات",
+                "surah_name_en": "As-Saaffaat",
+                "nameTranslationEnglish": "Those drawn up in Ranks"
+            }
+        ]
+    },
+    {
+        "id": 179,
+        "verses_count": 61,
+        "quarter_number": 179,
+        "name_ar": "الرُّبْع الْمِائَة والتَّاسِع وَالسَّبْعُون",
+        "name_en": "One hundred and seventy-ninth Quarters",
+        "surahs": [
+            {
+                "surah_number": 37,
+                "verse_mapping": "22:82",
+                "surah_name_ar": "الصَّافات",
+                "surah_name_en": "As-Saaffaat",
+                "nameTranslationEnglish": "Those drawn up in Ranks"
+            }
+        ]
+    },
+    {
+        "id": 180,
+        "verses_count": 62,
+        "quarter_number": 180,
+        "name_ar": "الرُّبْع الْمِائَة وَالثَّمَانُون",
+        "name_en": "One hundred and eighty Quarters",
+        "surahs": [
+            {
+                "surah_number": 37,
+                "verse_mapping": "83:144",
+                "surah_name_ar": "الصَّافات",
+                "surah_name_en": "As-Saaffaat",
+                "nameTranslationEnglish": "Those drawn up in Ranks"
+            }
+        ]
+    },
+    {
+        "id": 181,
+        "verses_count": 58,
+        "quarter_number": 181,
+        "name_ar": "الرُّبْع الْمِائَة وَالْحَادِيَ وَالثَّمَانُون",
+        "name_en": "One Hundredth And eighty-first Quarter",
+        "surahs": [
+            {
+                "surah_number": 37,
+                "verse_mapping": "145:182",
+                "surah_name_ar": "الصَّافات",
+                "surah_name_en": "As-Saaffaat",
+                "nameTranslationEnglish": "Those drawn up in Ranks"
+            },
+            {
+                "surah_number": 38,
+                "verse_mapping": "1:20",
+                "surah_name_ar": "ص",
+                "surah_name_en": "Saad",
+                "nameTranslationEnglish": "The letter Saad"
+            }
+        ]
+    },
+    {
+        "id": 182,
+        "verses_count": 31,
+        "quarter_number": 182,
+        "name_ar": "الرُّبْع الْمِائَة والثَّانِي وَالثَّمَانُون",
+        "name_en": "One Hundredth And eighty-second Quarters",
+        "surahs": [
+            {
+                "surah_number": 38,
+                "verse_mapping": "21:51",
+                "surah_name_ar": "ص",
+                "surah_name_en": "Saad",
+                "nameTranslationEnglish": "The letter Saad"
+            }
+        ]
+    },
+    {
+        "id": 183,
+        "verses_count": 44,
+        "quarter_number": 183,
+        "name_ar": "الرُّبْع الْمِائَة والثَّالِثِ وَالثَّمَانُون",
+        "name_en": "One Hundredth And eighty-third Quarters",
+        "surahs": [
+            {
+                "surah_number": 38,
+                "verse_mapping": "52:88",
+                "surah_name_ar": "ص",
+                "surah_name_en": "Saad",
+                "nameTranslationEnglish": "The letter Saad"
+            },
+            {
+                "surah_number": 39,
+                "verse_mapping": "1:7",
+                "surah_name_ar": "الزُّمَر",
+                "surah_name_en": "Az-Zumar",
+                "nameTranslationEnglish": "The Groups"
+            }
+        ]
+    },
+    {
+        "id": 184,
+        "verses_count": 24,
+        "quarter_number": 184,
+        "name_ar": "الرُّبْع الْمِائَة والرَّابِع وَالثَّمَانُون",
+        "name_en": "One Hundredth And eighty-fourth Quarters",
+        "surahs": [
+            {
+                "surah_number": 39,
+                "verse_mapping": "8:31",
+                "surah_name_ar": "الزُّمَر",
+                "surah_name_en": "Az-Zumar",
+                "nameTranslationEnglish": "The Groups"
+            }
+        ]
+    },
+    {
+        "id": 185,
+        "verses_count": 21,
+        "quarter_number": 185,
+        "name_ar": "الرُّبْع الْمِائَة والْخَامِس وَالثَّمَانُون",
+        "name_en": "One hundred and eighty-fifth Quarters",
+        "surahs": [
+            {
+                "surah_number": 39,
+                "verse_mapping": "32:52",
+                "surah_name_ar": "الزُّمَر",
+                "surah_name_en": "Az-Zumar",
+                "nameTranslationEnglish": "The Groups"
+            }
+        ]
+    },
+    {
+        "id": 186,
+        "verses_count": 23,
+        "quarter_number": 186,
+        "name_ar": "الرُّبْع الْمِائَة والسَّادِس وَالثَّمَانُون",
+        "name_en": "One hundred and eighty-sixth Quarters",
+        "surahs": [
+            {
+                "surah_number": 39,
+                "verse_mapping": "53:75",
+                "surah_name_ar": "الزُّمَر",
+                "surah_name_en": "Az-Zumar",
+                "nameTranslationEnglish": "The Groups"
+            }
+        ]
+    },
+    {
+        "id": 187,
+        "verses_count": 20,
+        "quarter_number": 187,
+        "name_ar": "الرُّبْع الْمِائَة والسَّابِع وَالثَّمَانُون",
+        "name_en": "One hundred and eighty-seventh Quarters",
+        "surahs": [
+            {
+                "surah_number": 40,
+                "verse_mapping": "1:20",
+                "surah_name_ar": "غَافِر",
+                "surah_name_en": "Ghafir",
+                "nameTranslationEnglish": "The Forgiver"
+            }
+        ]
+    },
+    {
+        "id": 188,
+        "verses_count": 20,
+        "quarter_number": 188,
+        "name_ar": "الرُّبْع الْمِائَة والثَّامِن وَالثَّمَانُون",
+        "name_en": "One hundred and eighty-eighth Quarters",
+        "surahs": [
+            {
+                "surah_number": 40,
+                "verse_mapping": "21:40",
+                "surah_name_ar": "غَافِر",
+                "surah_name_en": "Ghafir",
+                "nameTranslationEnglish": "The Forgiver"
+            }
+        ]
+    },
+    {
+        "id": 189,
+        "verses_count": 25,
+        "quarter_number": 189,
+        "name_ar": "الرُّبْع الْمِائَة والتَّاسِع وَالثَّمَانُون",
+        "name_en": "One hundred and eighty-ninth Quarters",
+        "surahs": [
+            {
+                "surah_number": 40,
+                "verse_mapping": "41:65",
+                "surah_name_ar": "غَافِر",
+                "surah_name_en": "Ghafir",
+                "nameTranslationEnglish": "The Forgiver"
+            }
+        ]
+    },
+    {
+        "id": 190,
+        "verses_count": 28,
+        "quarter_number": 190,
+        "name_ar": "الرُّبْع الْمِائَة وَالتِّسْعُون",
+        "name_en": "One hundred and ninety Quarters",
+        "surahs": [
+            {
+                "surah_number": 40,
+                "verse_mapping": "66:85",
+                "surah_name_ar": "غَافِر",
+                "surah_name_en": "Ghafir",
+                "nameTranslationEnglish": "The Forgiver"
+            },
+            {
+                "surah_number": 41,
+                "verse_mapping": "1:8",
+                "surah_name_ar": "فُصِّلَتْ",
+                "surah_name_en": "Fussilat",
+                "nameTranslationEnglish": "Explained in detail"
+            }
+        ]
+    },
+    {
+        "id": 191,
+        "verses_count": 16,
+        "quarter_number": 191,
+        "name_ar": "الرُّبْع الْمِائَة وَالْحَادِيَ وَالتِّسْعُون",
+        "name_en": "One Hundredth And ninety-first Quarter",
+        "surahs": [
+            {
+                "surah_number": 41,
+                "verse_mapping": "9:24",
+                "surah_name_ar": "فُصِّلَتْ",
+                "surah_name_en": "Fussilat",
+                "nameTranslationEnglish": "Explained in detail"
+            }
+        ]
+    },
+    {
+        "id": 192,
+        "verses_count": 22,
+        "quarter_number": 192,
+        "name_ar": "الرُّبْع الْمِائَة والثَّانِي وَالتِّسْعُون",
+        "name_en": "One Hundredth And ninety-second Quarters",
+        "surahs": [
+            {
+                "surah_number": 41,
+                "verse_mapping": "25:46",
+                "surah_name_ar": "فُصِّلَتْ",
+                "surah_name_en": "Fussilat",
+                "nameTranslationEnglish": "Explained in detail"
+            }
+        ]
+    },
+    {
+        "id": 193,
+        "verses_count": 20,
+        "quarter_number": 193,
+        "name_ar": "الرُّبْع الْمِائَة والثَّالِثِ وَالتِّسْعُون",
+        "name_en": "One Hundredth And ninety-third Quarters",
+        "surahs": [
+            {
+                "surah_number": 41,
+                "verse_mapping": "47:54",
+                "surah_name_ar": "فُصِّلَتْ",
+                "surah_name_en": "Fussilat",
+                "nameTranslationEnglish": "Explained in detail"
+            },
+            {
+                "surah_number": 42,
+                "verse_mapping": "1:12",
+                "surah_name_ar": "الشُّورَى",
+                "surah_name_en": "Ash-Shura",
+                "nameTranslationEnglish": "Consultation"
+            }
+        ]
+    },
+    {
+        "id": 194,
+        "verses_count": 14,
+        "quarter_number": 194,
+        "name_ar": "الرُّبْع الْمِائَة والرَّابِع وَالتِّسْعُون",
+        "name_en": "One Hundredth And ninety-fourth Quarters",
+        "surahs": [
+            {
+                "surah_number": 42,
+                "verse_mapping": "13:26",
+                "surah_name_ar": "الشُّورَى",
+                "surah_name_en": "Ash-Shura",
+                "nameTranslationEnglish": "Consultation"
+            }
+        ]
+    },
+    {
+        "id": 195,
+        "verses_count": 24,
+        "quarter_number": 195,
+        "name_ar": "الرُّبْع الْمِائَة والْخَامِس وَالتِّسْعُون",
+        "name_en": "One hundred and ninety-fifth Quarters",
+        "surahs": [
+            {
+                "surah_number": 42,
+                "verse_mapping": "27:50",
+                "surah_name_ar": "الشُّورَى",
+                "surah_name_en": "Ash-Shura",
+                "nameTranslationEnglish": "Consultation"
+            }
+        ]
+    },
+    {
+        "id": 196,
+        "verses_count": 26,
+        "quarter_number": 196,
+        "name_ar": "الرُّبْع الْمِائَة والسَّادِس وَالتِّسْعُون",
+        "name_en": "One hundred and ninety-sixth Quarters",
+        "surahs": [
+            {
+                "surah_number": 42,
+                "verse_mapping": "51:53",
+                "surah_name_ar": "الشُّورَى",
+                "surah_name_en": "Ash-Shura",
+                "nameTranslationEnglish": "Consultation"
+            },
+            {
+                "surah_number": 43,
+                "verse_mapping": "1:23",
+                "surah_name_ar": "الزُّخْرُف",
+                "surah_name_en": "Az-Zukhruf",
+                "nameTranslationEnglish": "Ornaments of gold"
+            }
+        ]
+    },
+    {
+        "id": 197,
+        "verses_count": 33,
+        "quarter_number": 197,
+        "name_ar": "الرُّبْع الْمِائَة والسَّابِع وَالتِّسْعُون",
+        "name_en": "One hundred and ninety-seventh Quarters",
+        "surahs": [
+            {
+                "surah_number": 43,
+                "verse_mapping": "24:56",
+                "surah_name_ar": "الزُّخْرُف",
+                "surah_name_en": "Az-Zukhruf",
+                "nameTranslationEnglish": "Ornaments of gold"
+            }
+        ]
+    },
+    {
+        "id": 198,
+        "verses_count": 49,
+        "quarter_number": 198,
+        "name_ar": "الرُّبْع الْمِائَة والثَّامِن وَالتِّسْعُون",
+        "name_en": "One hundred and ninety-eighth Quarters",
+        "surahs": [
+            {
+                "surah_number": 43,
+                "verse_mapping": "57:89",
+                "surah_name_ar": "الزُّخْرُف",
+                "surah_name_en": "Az-Zukhruf",
+                "nameTranslationEnglish": "Ornaments of gold"
+            },
+            {
+                "surah_number": 44,
+                "verse_mapping": "1:16",
+                "surah_name_ar": "الدُّخان",
+                "surah_name_en": "Ad-Dukhaan",
+                "nameTranslationEnglish": "The Smoke"
+            }
+        ]
+    },
+    {
+        "id": 199,
+        "verses_count": 54,
+        "quarter_number": 199,
+        "name_ar": "الرُّبْع الْمِائَة والتَّاسِع وَالتِّسْعُون",
+        "name_en": "One hundred and ninety-ninth Quarters",
+        "surahs": [
+            {
+                "surah_number": 44,
+                "verse_mapping": "17:59",
+                "surah_name_ar": "الدُّخان",
+                "surah_name_en": "Ad-Dukhaan",
+                "nameTranslationEnglish": "The Smoke"
+            },
+            {
+                "surah_number": 45,
+                "verse_mapping": "1:11",
+                "surah_name_ar": "الجاثِية",
+                "surah_name_en": "Al-Jaathiya",
+                "nameTranslationEnglish": "Crouching"
+            }
+        ]
+    },
+    {
+        "id": 200,
+        "verses_count": 26,
+        "quarter_number": 200,
+        "name_ar": "الرُّبْع الْمِائَتَان",
+        "name_en": "Tow hundred Quarters",
+        "surahs": [
+            {
+                "surah_number": 45,
+                "verse_mapping": "12:37",
+                "surah_name_ar": "الجاثِية",
+                "surah_name_en": "Al-Jaathiya",
+                "nameTranslationEnglish": "Crouching"
+            }
+        ]
+    },
+    {
+        "id": 201,
+        "verses_count": 20,
+        "quarter_number": 201,
+        "name_ar": "الرُّبْع الْمِائَتَان وَوَاحِد",
+        "name_en": "Tow Hundredth And One Quarter",
+        "surahs": [
+            {
+                "surah_number": 46,
+                "verse_mapping": "1:20",
+                "surah_name_ar": "الأحقاف",
+                "surah_name_en": "Al-Ahqaf",
+                "nameTranslationEnglish": "The Dunes"
+            }
+        ]
+    },
+    {
+        "id": 202,
+        "verses_count": 24,
+        "quarter_number": 202,
+        "name_ar": "الرُّبْع الْمِائَتَان وَاثْنَان",
+        "name_en": "Tow Hundredth And Tow Quarters",
+        "surahs": [
+            {
+                "surah_number": 46,
+                "verse_mapping": "21:35",
+                "surah_name_ar": "الأحقاف",
+                "surah_name_en": "Al-Ahqaf",
+                "nameTranslationEnglish": "The Dunes"
+            },
+            {
+                "surah_number": 47,
+                "verse_mapping": "1:9",
+                "surah_name_ar": "مُحَمّد",
+                "surah_name_en": "Muhammad",
+                "nameTranslationEnglish": "Muhammad"
+            }
+        ]
+    },
+    {
+        "id": 203,
+        "verses_count": 23,
+        "quarter_number": 203,
+        "name_ar": "الرُّبْع الْمِائَتَان وَثَلَاثَة",
+        "name_en": "Tow Hundredth And Three Quarters",
+        "surahs": [
+            {
+                "surah_number": 47,
+                "verse_mapping": "10:32",
+                "surah_name_ar": "مُحَمّد",
+                "surah_name_en": "Muhammad",
+                "nameTranslationEnglish": "Muhammad"
+            }
+        ]
+    },
+    {
+        "id": 204,
+        "verses_count": 23,
+        "quarter_number": 204,
+        "name_ar": "الرُّبْع الْمِائَتَان وَأَرْبَعَةٌ",
+        "name_en": "Tow Hundredth And Four Quarters",
+        "surahs": [
+            {
+                "surah_number": 47,
+                "verse_mapping": "33:38",
+                "surah_name_ar": "مُحَمّد",
+                "surah_name_en": "Muhammad",
+                "nameTranslationEnglish": "Muhammad"
+            },
+            {
+                "surah_number": 48,
+                "verse_mapping": "1:17",
+                "surah_name_ar": "الفَتْح",
+                "surah_name_en": "Al-Fath",
+                "nameTranslationEnglish": "The Victory"
+            }
+        ]
+    },
+    {
+        "id": 205,
+        "verses_count": 12,
+        "quarter_number": 205,
+        "name_ar": "الرُّبْع الْمِائَتَان وَخَمْسَة",
+        "name_en": "Tow hundred and five Quarters",
+        "surahs": [
+            {
+                "surah_number": 48,
+                "verse_mapping": "18:29",
+                "surah_name_ar": "الفَتْح",
+                "surah_name_en": "Al-Fath",
+                "nameTranslationEnglish": "The Victory"
+            }
+        ]
+    },
+    {
+        "id": 206,
+        "verses_count": 13,
+        "quarter_number": 206,
+        "name_ar": "الرُّبْع الْمِائَتَان وَسِتَّةٌ",
+        "name_en": "Tow hundred and six Quarters",
+        "surahs": [
+            {
+                "surah_number": 49,
+                "verse_mapping": "1:13",
+                "surah_name_ar": "الحُجُرات",
+                "surah_name_en": "Al-Hujuraat",
+                "nameTranslationEnglish": "The Inner Apartments"
+            }
+        ]
+    },
+    {
+        "id": 207,
+        "verses_count": 31,
+        "quarter_number": 207,
+        "name_ar": "الرُّبْع الْمِائَتَان وَسَبْعَة",
+        "name_en": "Tow hundred and seven Quarters",
+        "surahs": [
+            {
+                "surah_number": 49,
+                "verse_mapping": "14:18",
+                "surah_name_ar": "الحُجُرات",
+                "surah_name_en": "Al-Hujuraat",
+                "nameTranslationEnglish": "The Inner Apartments"
+            },
+            {
+                "surah_number": 50,
+                "verse_mapping": "1:26",
+                "surah_name_ar": "ق",
+                "surah_name_en": "Qaaf",
+                "nameTranslationEnglish": "The letter Qaaf"
+            }
+        ]
+    },
+    {
+        "id": 208,
+        "verses_count": 49,
+        "quarter_number": 208,
+        "name_ar": "الرُّبْع الْمِائَتَان وَثَمَانِيَةٌ",
+        "name_en": "Tow hundred and eight Quarters",
+        "surahs": [
+            {
+                "surah_number": 50,
+                "verse_mapping": "27:45",
+                "surah_name_ar": "ق",
+                "surah_name_en": "Qaaf",
+                "nameTranslationEnglish": "The letter Qaaf"
+            },
+            {
+                "surah_number": 51,
+                "verse_mapping": "1:30",
+                "surah_name_ar": "الذَّاريَات",
+                "surah_name_en": "Adh-Dhaariyat",
+                "nameTranslationEnglish": "The Winnowing Winds"
+            }
+        ]
+    },
+    {
+        "id": 209,
+        "verses_count": 53,
+        "quarter_number": 209,
+        "name_ar": "الرُّبْع الْمِائَتَان وَتِسْعَة",
+        "name_en": "Tow hundred and nine Quarters",
+        "surahs": [
+            {
+                "surah_number": 51,
+                "verse_mapping": "31:60",
+                "surah_name_ar": "الذَّاريَات",
+                "surah_name_en": "Adh-Dhaariyat",
+                "nameTranslationEnglish": "The Winnowing Winds"
+            },
+            {
+                "surah_number": 52,
+                "verse_mapping": "1:23",
+                "surah_name_ar": "الطُّور",
+                "surah_name_en": "At-Tur",
+                "nameTranslationEnglish": "The Mount"
+            }
+        ]
+    },
+    {
+        "id": 210,
+        "verses_count": 51,
+        "quarter_number": 210,
+        "name_ar": "الرُّبْع الْمِائَتَان وَعَشَرَة",
+        "name_en": "Tow hundred and ten Quarters",
+        "surahs": [
+            {
+                "surah_number": 52,
+                "verse_mapping": "24:49",
+                "surah_name_ar": "الطُّور",
+                "surah_name_en": "At-Tur",
+                "nameTranslationEnglish": "The Mount"
+            },
+            {
+                "surah_number": 53,
+                "verse_mapping": "1:25",
+                "surah_name_ar": "النَّجْم",
+                "surah_name_en": "An-Najm",
+                "nameTranslationEnglish": "The Star"
+            }
+        ]
+    },
+    {
+        "id": 211,
+        "verses_count": 45,
+        "quarter_number": 211,
+        "name_ar": "الرُّبْع الْمِائَتَان وَالْحَادِيَ عَشَرَ",
+        "name_en": "Tow Hundredth And eleven Quarter",
+        "surahs": [
+            {
+                "surah_number": 53,
+                "verse_mapping": "26:62",
+                "surah_name_ar": "النَّجْم",
+                "surah_name_en": "An-Najm",
+                "nameTranslationEnglish": "The Star"
+            },
+            {
+                "surah_number": 54,
+                "verse_mapping": "1:8",
+                "surah_name_ar": "القَمَر",
+                "surah_name_en": "Al-Qamar",
+                "nameTranslationEnglish": "The Moon"
+            }
+        ]
+    },
+    {
+        "id": 212,
+        "verses_count": 47,
+        "quarter_number": 212,
+        "name_ar": "الرُّبْع الْمِائَتَان والثَّانِي عَشَرَ",
+        "name_en": "Tow Hundredth And twelve Quarters",
+        "surahs": [
+            {
+                "surah_number": 54,
+                "verse_mapping": "9:55",
+                "surah_name_ar": "القَمَر",
+                "surah_name_en": "Al-Qamar",
+                "nameTranslationEnglish": "The Moon"
+            }
+        ]
+    },
+    {
+        "id": 213,
+        "verses_count": 78,
+        "quarter_number": 213,
+        "name_ar": "الرُّبْع الْمِائَتَان والثَّالِثِ عَشَرَ",
+        "name_en": "Tow Hundredth And thirteen Quarters",
+        "surahs": [
+            {
+                "surah_number": 55,
+                "verse_mapping": "1:78",
+                "surah_name_ar": "الرَّحمن",
+                "surah_name_en": "Ar-Rahmaan",
+                "nameTranslationEnglish": "The Beneficent"
+            }
+        ]
+    },
+    {
+        "id": 214,
+        "verses_count": 74,
+        "quarter_number": 214,
+        "name_ar": "الرُّبْع الْمِائَتَان والرَّابِع عَشَرَ",
+        "name_en": "Tow Hundredth And fourteenth Quarters",
+        "surahs": [
+            {
+                "surah_number": 56,
+                "verse_mapping": "1:74",
+                "surah_name_ar": "الواقِعَة",
+                "surah_name_en": "Al-Waaqia",
+                "nameTranslationEnglish": "The Inevitable"
+            }
+        ]
+    },
+    {
+        "id": 215,
+        "verses_count": 37,
+        "quarter_number": 215,
+        "name_ar": "الرُّبْع الْمِائَتَان والْخَامِس عَشَرَ",
+        "name_en": "Tow hundred and fifteenth Quarters",
+        "surahs": [
+            {
+                "surah_number": 56,
+                "verse_mapping": "75:96",
+                "surah_name_ar": "الواقِعَة",
+                "surah_name_en": "Al-Waaqia",
+                "nameTranslationEnglish": "The Inevitable"
+            },
+            {
+                "surah_number": 57,
+                "verse_mapping": "1:15",
+                "surah_name_ar": "الحَديد",
+                "surah_name_en": "Al-Hadid",
+                "nameTranslationEnglish": "The Iron"
+            }
+        ]
+    },
+    {
+        "id": 216,
+        "verses_count": 14,
+        "quarter_number": 216,
+        "name_ar": "الرُّبْع الْمِائَتَان والسَّادِس عَشَرَ",
+        "name_en": "Tow hundred and sixteenth Quarters",
+        "surahs": [
+            {
+                "surah_number": 57,
+                "verse_mapping": "16:29",
+                "surah_name_ar": "الحَديد",
+                "surah_name_en": "Al-Hadid",
+                "nameTranslationEnglish": "The Iron"
+            }
+        ]
+    },
+    {
+        "id": 217,
+        "verses_count": 13,
+        "quarter_number": 217,
+        "name_ar": "الرُّبْع الْمِائَتَان والسَّابِع عَشَرَ",
+        "name_en": "Tow hundred and seventeenth Quarters",
+        "surahs": [
+            {
+                "surah_number": 58,
+                "verse_mapping": "1:13",
+                "surah_name_ar": "المُجادَلة",
+                "surah_name_en": "Al-Mujaadila",
+                "nameTranslationEnglish": "The Pleading Woman"
+            }
+        ]
+    },
+    {
+        "id": 218,
+        "verses_count": 19,
+        "quarter_number": 218,
+        "name_ar": "الرُّبْع الْمِائَتَان والثَّامِن عَشَرَ",
+        "name_en": "Tow hundred and eighteenth Quarters",
+        "surahs": [
+            {
+                "surah_number": 58,
+                "verse_mapping": "14:22",
+                "surah_name_ar": "المُجادَلة",
+                "surah_name_en": "Al-Mujaadila",
+                "nameTranslationEnglish": "The Pleading Woman"
+            },
+            {
+                "surah_number": 59,
+                "verse_mapping": "1:10",
+                "surah_name_ar": "الحَشْر",
+                "surah_name_en": "Al-Hashr",
+                "nameTranslationEnglish": "The Exile"
+            }
+        ]
+    },
+    {
+        "id": 219,
+        "verses_count": 20,
+        "quarter_number": 219,
+        "name_ar": "الرُّبْع الْمِائَتَان والتَّاسِع عَشَرَ",
+        "name_en": "Tow hundred and nineteenth Quarters",
+        "surahs": [
+            {
+                "surah_number": 59,
+                "verse_mapping": "11:24",
+                "surah_name_ar": "الحَشْر",
+                "surah_name_en": "Al-Hashr",
+                "nameTranslationEnglish": "The Exile"
+            },
+            {
+                "surah_number": 60,
+                "verse_mapping": "1:6",
+                "surah_name_ar": "المُمتَحَنة",
+                "surah_name_en": "Al-Mumtahana",
+                "nameTranslationEnglish": "She that is to be examined"
+            }
+        ]
+    },
+    {
+        "id": 220,
+        "verses_count": 21,
+        "quarter_number": 220,
+        "name_ar": "الرُّبْع الْمِائَتَان وَالْعِشْرُون",
+        "name_en": "Tow hundred and twenty Quarters",
+        "surahs": [
+            {
+                "surah_number": 60,
+                "verse_mapping": "7:13",
+                "surah_name_ar": "المُمتَحَنة",
+                "surah_name_en": "Al-Mumtahana",
+                "nameTranslationEnglish": "She that is to be examined"
+            },
+            {
+                "surah_number": 61,
+                "verse_mapping": "1:14",
+                "surah_name_ar": "الصَّف",
+                "surah_name_en": "As-Saff",
+                "nameTranslationEnglish": "The Ranks"
+            }
+        ]
+    },
+    {
+        "id": 221,
+        "verses_count": 24,
+        "quarter_number": 221,
+        "name_ar": "الرُّبْع الْمِائَتَان وَالْحَادِيَ وَالْعِشْرُون",
+        "name_en": "Tow Hundredth And twenty-first Quarter",
+        "surahs": [
+            {
+                "surah_number": 62,
+                "verse_mapping": "1:11",
+                "surah_name_ar": "الجُّمُعة",
+                "surah_name_en": "Al-Jumu'a",
+                "nameTranslationEnglish": "Friday"
+            },
+            {
+                "surah_number": 63,
+                "verse_mapping": "1:3",
+                "surah_name_ar": "المُنافِقُون",
+                "surah_name_en": "Al-Munaafiqoon",
+                "nameTranslationEnglish": "The Hypocrites"
+            }
+        ]
+    },
+    {
+        "id": 222,
+        "verses_count": 26,
+        "quarter_number": 222,
+        "name_ar": "الرُّبْع الْمِائَتَان والثَّانِي وَالْعِشْرُون",
+        "name_en": "Tow Hundredth And twenty-second Quarters",
+        "surahs": [
+            {
+                "surah_number": 63,
+                "verse_mapping": "4:11",
+                "surah_name_ar": "المُنافِقُون",
+                "surah_name_en": "Al-Munaafiqoon",
+                "nameTranslationEnglish": "The Hypocrites"
+            },
+            {
+                "surah_number": 64,
+                "verse_mapping": "1:18",
+                "surah_name_ar": "التغابن",
+                "surah_name_en": "At-Taghaabun",
+                "nameTranslationEnglish": "Mutual Disillusion"
+            }
+        ]
+    },
+    {
+        "id": 223,
+        "verses_count": 12,
+        "quarter_number": 223,
+        "name_ar": "الرُّبْع الْمِائَتَان والثَّالِثِ وَالْعِشْرُون",
+        "name_en": "Tow Hundredth And twenty-third Quarters",
+        "surahs": [
+            {
+                "surah_number": 65,
+                "verse_mapping": "1:12",
+                "surah_name_ar": "الطَّلاق",
+                "surah_name_en": "At-Talaaq",
+                "nameTranslationEnglish": "Divorce"
+            }
+        ]
+    },
+    {
+        "id": 224,
+        "verses_count": 12,
+        "quarter_number": 224,
+        "name_ar": "الرُّبْع الْمِائَتَان والرَّابِع وَالْعِشْرُون",
+        "name_en": "Tow Hundredth And twenty-fourth Quarters",
+        "surahs": [
+            {
+                "surah_number": 66,
+                "verse_mapping": "1:12",
+                "surah_name_ar": "التَّحْريم",
+                "surah_name_en": "At-Tahrim",
+                "nameTranslationEnglish": "The Prohibition"
+            }
+        ]
+    },
+    {
+        "id": 225,
+        "verses_count": 30,
+        "quarter_number": 225,
+        "name_ar": "الرُّبْع الْمِائَتَان والْخَامِس وَالْعِشْرُون",
+        "name_en": "Tow hundred and twenty-fifth Quarters",
+        "surahs": [
+            {
+                "surah_number": 67,
+                "verse_mapping": "1:30",
+                "surah_name_ar": "المُلْك",
+                "surah_name_en": "Al-Mulk",
+                "nameTranslationEnglish": "The Sovereignty"
+            }
+        ]
+    },
+    {
+        "id": 226,
+        "verses_count": 52,
+        "quarter_number": 226,
+        "name_ar": "الرُّبْع الْمِائَتَان والسَّادِس وَالْعِشْرُون",
+        "name_en": "Tow hundred and twenty-sixth Quarters",
+        "surahs": [
+            {
+                "surah_number": 68,
+                "verse_mapping": "1:52",
+                "surah_name_ar": "القَلـََم",
+                "surah_name_en": "Al-Qalam",
+                "nameTranslationEnglish": "The Pen"
+            }
+        ]
+    },
+    {
+        "id": 227,
+        "verses_count": 70,
+        "quarter_number": 227,
+        "name_ar": "الرُّبْع الْمِائَتَان والسَّابِع وَالْعِشْرُون",
+        "name_en": "Tow hundred and twenty-seventh Quarters",
+        "surahs": [
+            {
+                "surah_number": 69,
+                "verse_mapping": "1:52",
+                "surah_name_ar": "الحَاقّـَة",
+                "surah_name_en": "Al-Haaqqa",
+                "nameTranslationEnglish": "The Reality"
+            },
+            {
+                "surah_number": 70,
+                "verse_mapping": "1:18",
+                "surah_name_ar": "المَعارِج",
+                "surah_name_en": "Al-Ma'aarij",
+                "nameTranslationEnglish": "The Ascending Stairways"
+            }
+        ]
+    },
+    {
+        "id": 228,
+        "verses_count": 54,
+        "quarter_number": 228,
+        "name_ar": "الرُّبْع الْمِائَتَان والثَّامِن وَالْعِشْرُون",
+        "name_en": "Tow hundred and twenty-eighth Quarters",
+        "surahs": [
+            {
+                "surah_number": 70,
+                "verse_mapping": "19:44",
+                "surah_name_ar": "المَعارِج",
+                "surah_name_en": "Al-Ma'aarij",
+                "nameTranslationEnglish": "The Ascending Stairways"
+            },
+            {
+                "surah_number": 71,
+                "verse_mapping": "1:28",
+                "surah_name_ar": "نُوح",
+                "surah_name_en": "Nooh",
+                "nameTranslationEnglish": "Noah"
+            }
+        ]
+    },
+    {
+        "id": 229,
+        "verses_count": 47,
+        "quarter_number": 229,
+        "name_ar": "الرُّبْع الْمِائَتَان والتَّاسِع وَالْعِشْرُون",
+        "name_en": "Tow hundred and twenty-ninth Quarters",
+        "surahs": [
+            {
+                "surah_number": 72,
+                "verse_mapping": "1:28",
+                "surah_name_ar": "الجِنّ",
+                "surah_name_en": "Al-Jinn",
+                "nameTranslationEnglish": "The Jinn"
+            },
+            {
+                "surah_number": 73,
+                "verse_mapping": "1:19",
+                "surah_name_ar": "المُزَّمّـِل",
+                "surah_name_en": "Al-Muzzammil",
+                "nameTranslationEnglish": "The Enshrouded One"
+            }
+        ]
+    },
+    {
+        "id": 230,
+        "verses_count": 57,
+        "quarter_number": 230,
+        "name_ar": "الرُّبْع الْمِائَتَان وَالثَّلَاثُون",
+        "name_en": "Tow hundred and thirty Quarters",
+        "surahs": [
+            {
+                "surah_number": 73,
+                "verse_mapping": "20:20",
+                "surah_name_ar": "المُزَّمّـِل",
+                "surah_name_en": "Al-Muzzammil",
+                "nameTranslationEnglish": "The Enshrouded One"
+            },
+            {
+                "surah_number": 74,
+                "verse_mapping": "1:56",
+                "surah_name_ar": "المُدَّثــِّر",
+                "surah_name_en": "Al-Muddaththir",
+                "nameTranslationEnglish": "The Cloaked One"
+            }
+        ]
+    },
+    {
+        "id": 231,
+        "verses_count": 58,
+        "quarter_number": 231,
+        "name_ar": "الرُّبْع الْمِائَتَان وَالْحَادِيَ وَالثَّلَاثُون",
+        "name_en": "Tow Hundredth And thirty-first Quarter",
+        "surahs": [
+            {
+                "surah_number": 75,
+                "verse_mapping": "1:40",
+                "surah_name_ar": "القِيامَة",
+                "surah_name_en": "Al-Qiyaama",
+                "nameTranslationEnglish": "The Resurrection"
+            },
+            {
+                "surah_number": 76,
+                "verse_mapping": "1:18",
+                "surah_name_ar": "الإنسان",
+                "surah_name_en": "Al-Insaan",
+                "nameTranslationEnglish": "Man"
+            }
+        ]
+    },
+    {
+        "id": 232,
+        "verses_count": 63,
+        "quarter_number": 232,
+        "name_ar": "الرُّبْع الْمِائَتَان والثَّانِي وَالثَّلَاثُون",
+        "name_en": "Tow Hundredth And thirty-second Quarters",
+        "surahs": [
+            {
+                "surah_number": 76,
+                "verse_mapping": "19:31",
+                "surah_name_ar": "الإنسان",
+                "surah_name_en": "Al-Insaan",
+                "nameTranslationEnglish": "Man"
+            },
+            {
+                "surah_number": 77,
+                "verse_mapping": "1:50",
+                "surah_name_ar": "المُرسَلات",
+                "surah_name_en": "Al-Mursalaat",
+                "nameTranslationEnglish": "The Emissaries"
+            }
+        ]
+    },
+    {
+        "id": 233,
+        "verses_count": 86,
+        "quarter_number": 233,
+        "name_ar": "الرُّبْع الْمِائَتَان والثَّالِثِ وَالثَّلَاثُون",
+        "name_en": "Tow Hundredth And thirty-third Quarters",
+        "surahs": [
+            {
+                "surah_number": 78,
+                "verse_mapping": "1:40",
+                "surah_name_ar": "النـَّبأ",
+                "surah_name_en": "An-Naba",
+                "nameTranslationEnglish": "The Announcement"
+            },
+            {
+                "surah_number": 79,
+                "verse_mapping": "1:46",
+                "surah_name_ar": "النـّازِعات",
+                "surah_name_en": "An-Naazi'aat",
+                "nameTranslationEnglish": "Those who drag forth"
+            }
+        ]
+    },
+    {
+        "id": 234,
+        "verses_count": 71,
+        "quarter_number": 234,
+        "name_ar": "الرُّبْع الْمِائَتَان والرَّابِع وَالثَّلَاثُون",
+        "name_en": "Tow Hundredth And thirty-fourth Quarters",
+        "surahs": [
+            {
+                "surah_number": 80,
+                "verse_mapping": "1:42",
+                "surah_name_ar": "عَبَس",
+                "surah_name_en": "Abasa",
+                "nameTranslationEnglish": "He frowned"
+            },
+            {
+                "surah_number": 81,
+                "verse_mapping": "1:29",
+                "surah_name_ar": "التـَّكْوير",
+                "surah_name_en": "At-Takwir",
+                "nameTranslationEnglish": "The Overthrowing"
+            }
+        ]
+    },
+    {
+        "id": 235,
+        "verses_count": 55,
+        "quarter_number": 235,
+        "name_ar": "الرُّبْع الْمِائَتَان والْخَامِس وَالثَّلَاثُون",
+        "name_en": "Tow hundred and thirty-fifth Quarters",
+        "surahs": [
+            {
+                "surah_number": 82,
+                "verse_mapping": "1:19",
+                "surah_name_ar": "الإنفِطار",
+                "surah_name_en": "Al-Infitaar",
+                "nameTranslationEnglish": "The Cleaving"
+            },
+            {
+                "surah_number": 83,
+                "verse_mapping": "1:36",
+                "surah_name_ar": "المُطـَفِّفين",
+                "surah_name_en": "Al-Mutaffifin",
+                "nameTranslationEnglish": "Defrauding"
+            }
+        ]
+    },
+    {
+        "id": 236,
+        "verses_count": 64,
+        "quarter_number": 236,
+        "name_ar": "الرُّبْع الْمِائَتَان والسَّادِس وَالثَّلَاثُون",
+        "name_en": "Tow hundred and thirty-sixth Quarters",
+        "surahs": [
+            {
+                "surah_number": 84,
+                "verse_mapping": "1:25",
+                "surah_name_ar": "الإنشِقاق",
+                "surah_name_en": "Al-Inshiqaaq",
+                "nameTranslationEnglish": "The Splitting Open"
+            },
+            {
+                "surah_number": 85,
+                "verse_mapping": "1:22",
+                "surah_name_ar": "البُروج",
+                "surah_name_en": "Al-Burooj",
+                "nameTranslationEnglish": "The Constellations"
+            },
+            {
+                "surah_number": 86,
+                "verse_mapping": "1:17",
+                "surah_name_ar": "الطّارق",
+                "surah_name_en": "At-Taariq",
+                "nameTranslationEnglish": "The Morning Star"
+            }
+        ]
+    },
+    {
+        "id": 237,
+        "verses_count": 75,
+        "quarter_number": 237,
+        "name_ar": "الرُّبْع الْمِائَتَان والسَّابِع وَالثَّلَاثُون",
+        "name_en": "Tow hundred and thirty-seventh Quarters",
+        "surahs": [
+            {
+                "surah_number": 87,
+                "verse_mapping": "1:19",
+                "surah_name_ar": "الأعلی",
+                "surah_name_en": "Al-A'laa",
+                "nameTranslationEnglish": "The Most High"
+            },
+            {
+                "surah_number": 88,
+                "verse_mapping": "1:26",
+                "surah_name_ar": "الغاشِيَة",
+                "surah_name_en": "Al-Ghaashiya",
+                "nameTranslationEnglish": "The Overwhelming"
+            },
+            {
+                "surah_number": 89,
+                "verse_mapping": "1:30",
+                "surah_name_ar": "الفَجْر",
+                "surah_name_en": "Al-Fajr",
+                "nameTranslationEnglish": "The Dawn"
+            }
+        ]
+    },
+    {
+        "id": 238,
+        "verses_count": 67,
+        "quarter_number": 238,
+        "name_ar": "الرُّبْع الْمِائَتَان والثَّامِن وَالثَّلَاثُون",
+        "name_en": "Tow hundred and thirty-eighth Quarters",
+        "surahs": [
+            {
+                "surah_number": 90,
+                "verse_mapping": "1:20",
+                "surah_name_ar": "البَـلـَد",
+                "surah_name_en": "Al-Balad",
+                "nameTranslationEnglish": "The City"
+            },
+            {
+                "surah_number": 91,
+                "verse_mapping": "1:15",
+                "surah_name_ar": "الشــَّمْس",
+                "surah_name_en": "Ash-Shams",
+                "nameTranslationEnglish": "The Sun"
+            },
+            {
+                "surah_number": 92,
+                "verse_mapping": "1:21",
+                "surah_name_ar": "اللـَّيل",
+                "surah_name_en": "Al-Lail",
+                "nameTranslationEnglish": "The Night"
+            },
+            {
+                "surah_number": 93,
+                "verse_mapping": "1:11",
+                "surah_name_ar": "الضُّحی",
+                "surah_name_en": "Ad-Dhuhaa",
+                "nameTranslationEnglish": "The Morning Hours"
+            }
+        ]
+    },
+    {
+        "id": 239,
+        "verses_count": 64,
+        "quarter_number": 239,
+        "name_ar": "الرُّبْع الْمِائَتَان والتَّاسِع وَالثَّلَاثُون",
+        "name_en": "Tow hundred and thirty-ninth Quarters",
+        "surahs": [
+            {
+                "surah_number": 94,
+                "verse_mapping": "1:8",
+                "surah_name_ar": "الشَّرْح",
+                "surah_name_en": "Ash-Sharh",
+                "nameTranslationEnglish": "The Consolation"
+            },
+            {
+                "surah_number": 95,
+                "verse_mapping": "1:8",
+                "surah_name_ar": "التـِّين",
+                "surah_name_en": "At-Tin",
+                "nameTranslationEnglish": "The Fig"
+            },
+            {
+                "surah_number": 96,
+                "verse_mapping": "1:19",
+                "surah_name_ar": "العَلـَق",
+                "surah_name_en": "Al-Alaq",
+                "nameTranslationEnglish": "The Clot"
+            },
+            {
+                "surah_number": 97,
+                "verse_mapping": "1:5",
+                "surah_name_ar": "القـَدر",
+                "surah_name_en": "Al-Qadr",
+                "nameTranslationEnglish": "The Power, Fate"
+            },
+            {
+                "surah_number": 98,
+                "verse_mapping": "1:8",
+                "surah_name_ar": "البَيِّنَة",
+                "surah_name_en": "Al-Bayyina",
+                "nameTranslationEnglish": "The Evidence"
+            },
+            {
+                "surah_number": 99,
+                "verse_mapping": "1:8",
+                "surah_name_ar": "الزلزَلة",
+                "surah_name_en": "Az-Zalzala",
+                "nameTranslationEnglish": "The Earthquake"
+            },
+            {
+                "surah_number": 100,
+                "verse_mapping": "1:8",
+                "surah_name_ar": "العَادِيات",
+                "surah_name_en": "Al-Aadiyaat",
+                "nameTranslationEnglish": "The Chargers"
+            }
+        ]
+    },
+    {
+        "id": 240,
+        "verses_count": 57,
+        "quarter_number": 240,
+        "name_ar": "الرُّبْع الْمِائَتَان وَالْأَرْبَعُون",
+        "name_en": "Tow hundred and forty Quarters",
+        "surahs": [
+            {
+                "surah_number": 100,
+                "verse_mapping": "8:11",
+                "surah_name_ar": "العَادِيات",
+                "surah_name_en": "Al-Aadiyaat",
+                "nameTranslationEnglish": "The Chargers"
+            },
+            {
+                "surah_number": 101,
+                "verse_mapping": "1:11",
+                "surah_name_ar": "القارِعَة",
+                "surah_name_en": "Al-Qaari'a",
+                "nameTranslationEnglish": "The Calamity"
+            },
+            {
+                "surah_number": 102,
+                "verse_mapping": "1:8",
+                "surah_name_ar": "التَكاثـُر",
+                "surah_name_en": "At-Takaathur",
+                "nameTranslationEnglish": "Competition"
+            },
+            {
+                "surah_number": 103,
+                "verse_mapping": "1:3",
+                "surah_name_ar": "العَصْر",
+                "surah_name_en": "Al-Asr",
+                "nameTranslationEnglish": "The Declining Day, Epoch"
+            },
+            {
+                "surah_number": 104,
+                "verse_mapping": "1:9",
+                "surah_name_ar": "الهُمَزَة",
+                "surah_name_en": "Al-Humaza",
+                "nameTranslationEnglish": "The Traducer"
+            },
+            {
+                "surah_number": 105,
+                "verse_mapping": "1:5",
+                "surah_name_ar": "الفِيل",
+                "surah_name_en": "Al-Fil",
+                "nameTranslationEnglish": "The Elephant"
+            },
+            {
+                "surah_number": 106,
+                "verse_mapping": "1:7",
+                "surah_name_ar": "قـُرَيْش",
+                "surah_name_en": "Quraish",
+                "nameTranslationEnglish": "Quraysh"
+            },
+            {
+                "surah_number": 107,
+                "verse_mapping": "1:4",
+                "surah_name_ar": "المَاعُون",
+                "surah_name_en": "Al-Maa'un",
+                "nameTranslationEnglish": "Almsgiving"
+            },
+            {
+                "surah_number": 108,
+                "verse_mapping": "1:3",
+                "surah_name_ar": "الكَوْثَر",
+                "surah_name_en": "Al-Kawthar",
+                "nameTranslationEnglish": "Abundance"
+            },
+            {
+                "surah_number": 109,
+                "verse_mapping": "1:6",
+                "surah_name_ar": "الكَافِرُون",
+                "surah_name_en": "Al-Kaafiroon",
+                "nameTranslationEnglish": "The Disbelievers"
+            },
+            {
+                "surah_number": 110,
+                "verse_mapping": "1:3",
+                "surah_name_ar": "النـَّصر",
+                "surah_name_en": "An-Nasr",
+                "nameTranslationEnglish": "Divine Support"
+            },
+            {
+                "surah_number": 111,
+                "verse_mapping": "1:5",
+                "surah_name_ar": "المَسَد",
+                "surah_name_en": "Al-Masad",
+                "nameTranslationEnglish": "The Palm Fibre"
+            },
+            {
+                "surah_number": 112,
+                "verse_mapping": "1:4",
+                "surah_name_ar": "الإخْلَاص",
+                "surah_name_en": "Al-Ikhlaas",
+                "nameTranslationEnglish": "Sincerity"
+            },
+            {
+                "surah_number": 113,
+                "verse_mapping": "1:5",
+                "surah_name_ar": "الفَلَق",
+                "surah_name_en": "Al-Falaq",
+                "nameTranslationEnglish": "The Dawn"
+            },
+            {
+                "surah_number": 114,
+                "verse_mapping": "1:6",
+                "surah_name_ar": "النَّاس",
+                "surah_name_en": "An-Naas",
+                "nameTranslationEnglish": "Mankind"
+            }
+        ]
+    }
+]
