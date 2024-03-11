@@ -1,0 +1,51 @@
+[
+    {
+        "tafseer_id": 10,
+        "tafseer_name": "Yusuf Ali",
+        "ayah_url": "/quran/1/1/",
+        "ayah_number": 1,
+        "text": "In the name of Allah, Most Gracious, Most Merciful."
+    },
+    {
+        "tafseer_id": 10,
+        "tafseer_name": "Yusuf Ali",
+        "ayah_url": "/quran/1/2/",
+        "ayah_number": 2,
+        "text": "Praise be to Allah, the Cherisher and Sustainer of the worlds;"
+    },
+    {
+        "tafseer_id": 10,
+        "tafseer_name": "Yusuf Ali",
+        "ayah_url": "/quran/1/3/",
+        "ayah_number": 3,
+        "text": "Most Gracious, Most Merciful;"
+    },
+    {
+        "tafseer_id": 10,
+        "tafseer_name": "Yusuf Ali",
+        "ayah_url": "/quran/1/4/",
+        "ayah_number": 4,
+        "text": "Master of the Day of Judgment."
+    },
+    {
+        "tafseer_id": 10,
+        "tafseer_name": "Yusuf Ali",
+        "ayah_url": "/quran/1/5/",
+        "ayah_number": 5,
+        "text": "Thee do we worship, and Thine aid we seek."
+    },
+    {
+        "tafseer_id": 10,
+        "tafseer_name": "Yusuf Ali",
+        "ayah_url": "/quran/1/6/",
+        "ayah_number": 6,
+        "text": "Show us the straight way,"
+    },
+    {
+        "tafseer_id": 10,
+        "tafseer_name": "Yusuf Ali",
+        "ayah_url": "/quran/1/7/",
+        "ayah_number": 7,
+        "text": "The way of those on whom Thou hast bestowed Thy Grace, those whose (portion) is not wrath, and who go not astray."
+    }
+]
